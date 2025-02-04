@@ -1,7 +1,57 @@
 <div id="cards">
   <ul>
     <li *ngFor="let card of cards">
-      {{ card.name }}
+      <div id="card">
+        <div id="inside">
+          <header>
+            <div class="left">
+              <div id="name">{{ card.name }}</div>
+            </div>
+            <div class="right">
+              <div id="hp">{{ card.hp }} HP</div>
+              <div>
+                <img
+                  ngSrc="assets/images/types/{{ card.types[0] }}.png"
+                  alt="type"
+                  class="energy icon"
+                  width="20"
+                  height="20"
+                  priority
+                />
+              </div>
+            </div>
+          </header>
+          <figure id="art">
+            <img
+              ngSrc="{{ card.picLarge }}"
+              width="200"
+              height="200"
+              alt="picLarge"
+            />
+            <figCaption>{{ card.no }} Monsters</figCaption>
+          </figure>
+          <div id="types">
+            <table id="typeTable">
+              <header></header>
+              <body>
+                <tr *ngFor="let type of card.types">
+                  <img
+                    ngSrc="assets/images/types/{{ type }}.png"
+                    alt="type"
+                    class="energy icon"
+                    width="20"
+                    height="20"
+                    priority
+                  />
+                </tr>
+              </body>
+            </table>
+          </div>
+          <div id="description">
+            <p>{{ card.description }}</p>
+          </div>
+        </div>
+      </div>
     </li>
   </ul>
 </div>

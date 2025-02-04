@@ -1,7 +1,7 @@
 import * as _ from 'lodash';
 import { ApiService } from 'src/services/api.services';
 import { Observable } from 'rxjs';
-import { ICard } from '../interfaces/Icard';
+import { Card } from '../models/card';
 
 export function isNullOrUndefined(value: any): boolean {
   return _.isNull(value) || _.isUndefined(value);
@@ -17,6 +17,6 @@ export function splitStringToStringArray(
 export function getCardsFromJson(
   apiService: ApiService,
   path: string
-): Observable<ICard[]> {
+): Observable<Card[]> {
   return apiService.getCardsSrc(path);
 }

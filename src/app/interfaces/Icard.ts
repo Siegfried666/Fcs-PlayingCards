@@ -4,6 +4,7 @@ export interface ICard {
   picSmall: string | undefined;
   picLarge: string | undefined;
   name: string | undefined;
+  description: string | undefined;
   types: string[] | undefined;
   abilities: string[] | undefined;
   hp: number | undefined;
