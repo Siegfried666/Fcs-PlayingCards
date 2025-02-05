@@ -4,7 +4,8 @@ export interface ICard {
   picSmall: string | undefined;
   picLarge: string | undefined;
   name: string | undefined;
-  description: string | undefined;
+  descriptionViolet: string | undefined;
+  descriptionScarlet: string | undefined;
   types: string[] | undefined;
   abilities: string[] | undefined;
   hp: number | undefined;

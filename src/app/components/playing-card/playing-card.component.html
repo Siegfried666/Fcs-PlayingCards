@@ -25,14 +25,25 @@
           <figure id="art">
             <img
               ngSrc="{{ card.picLarge }}"
-              width="200"
-              height="200"
+              width="175"
+              height="175"
               alt="picLarge"
               lazy
               priority
             />
             <figCaption>{{ card.no }} Monsters</figCaption>
           </figure>
+          <div id="card">
+            <img
+            ngSrc="assets/images/cards/{{ card.name }}.png"
+            alt="type"
+            class="energy icon"
+            width="170"
+            height="230"
+            priority
+            lazy
+          />
+          </div>
           <div id="types">
             <table id="typeTable">
               <header></header>
@@ -51,8 +62,33 @@
               </body>
             </table>
           </div>
-          <div id="description">
-            <p>{{ card.description }}</p>
+          <div id="descriptionViolet">
+            <div>
+              <img
+                ngSrc="assets/images/pokeballs/red.png"
+                alt="violet"
+                class="energy icon"
+                width="20"
+                height="20"
+                lazy
+                priority
+              />
+              <p>{{ card.descriptionScarlet }}</p>
+            </div>
+          </div>
+          <div id="descriptionScarlet">
+            <div>
+              <img
+                ngSrc="assets/images/pokeballs/violet.png"
+                alt="violet"
+                class="energy icon"
+                width="20"
+                height="20"
+                lazy
+                priority
+              />
+              <p>{{ card.descriptionScarlet }}</p>
+            </div>
           </div>
         </div>
       </div>

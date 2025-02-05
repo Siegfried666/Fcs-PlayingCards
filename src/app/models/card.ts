@@ -20,7 +20,8 @@ export class Card implements ICard {
   private _sAtt: number | undefined;
   private _sDef: number | undefined;
   private _spd: number | undefined;
-  private _description: string | undefined;
+  private _descriptionViolet: string | undefined;
+  private _descriptionScarlet: string | undefined;
 
   // #endregion
 
@@ -117,11 +118,18 @@ export class Card implements ICard {
     this._spd = value;
   }
 
-  get description(): any {
-    return isNullOrUndefined(this._description) ? '' : this._description;
+  get descriptionViolet(): any {
+    return isNullOrUndefined(this._descriptionViolet) ? '' : this._descriptionViolet;
   }
-  set description(value: string) {
-    this._description = value;
+  set descriptionViolet(value: string) {
+    this._descriptionViolet = value;
+  }
+
+  get descriptionScarlet(): any {
+    return isNullOrUndefined(this._descriptionScarlet) ? '' : this._descriptionScarlet;
+  }
+  set descriptionScarlet(value: string) {
+    this._descriptionScarlet = value;
   }
 
   // #endregion
