@@ -33,16 +33,16 @@
             />
             <figCaption>{{ card.no }} Monsters</figCaption>
           </figure>
-          <div id="card">
+          <div id="cardImage">
             <img
-            ngSrc="assets/images/cards/{{ card.name }}.png"
-            alt="type"
-            class="energy icon"
-            width="170"
-            height="230"
-            priority
-            lazy
-          />
+              ngSrc="assets/images/cards/{{ card.name }}.png"
+              alt="cardImage"
+              class="cardImg"
+              width="170"
+              height="230"
+              priority
+              lazy
+            />
           </div>
           <div id="types">
             <table id="typeTable">
@@ -73,7 +73,7 @@
                 lazy
                 priority
               />
-              <p>{{ card.descriptionScarlet }}</p>
+              <p>{{ card.descriptionViolet }}</p>
             </div>
           </div>
           <div id="descriptionScarlet">

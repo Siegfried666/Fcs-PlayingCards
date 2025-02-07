@@ -3,7 +3,7 @@ import { Component } from '@angular/core';
 import { getCardsFromJson } from 'src/app/utils/helpers';
 import { ApiService } from 'src/services/api.services';
 import { NgOptimizedImage } from '@angular/common';
-import { Card } from 'src/app/models/card';
+import { Card } from 'src/app/models/Card';
 
 @Component({
   selector: 'app-playing-card',
@@ -14,11 +14,10 @@ import { Card } from 'src/app/models/card';
 })
 export class PlayingCardComponent {
   public cards: Card[] = [];
- 
-  private dataSourcePath: string = './assets/datasources/PokemonGen9.json';
+
+  private dataSourcePath: string = './assets/datasources/Pokemons.json';
 
   constructor(private apiService: ApiService) {
-    debugger;
     getCardsFromJson(this.apiService, this.dataSourcePath).subscribe(
       (data: any) => {
         data.forEach((c: any) => {
@@ -27,6 +26,7 @@ export class PlayingCardComponent {
           card.abilities = c.abilities;
           card.types = c.types;
           card.id = c.id;
+          // card.card = c.card;
           card.no = c.no;
           card.picSmall = c.picSmall;
           card.picLarge = c.picLarge;

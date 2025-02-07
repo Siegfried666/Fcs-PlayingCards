@@ -1,7 +1,7 @@
 import * as _ from 'lodash';
 import { ApiService } from 'src/services/api.services';
 import { Observable } from 'rxjs';
-import { Card } from '../models/card';
+import { Card } from '../models/Card';
 
 export function isNullOrUndefined(value: any): boolean {
   return _.isNull(value) || _.isUndefined(value);
@@ -19,4 +19,11 @@ export function getCardsFromJson(
   path: string
 ): Observable<Card[]> {
   return apiService.getCardsSrc(path);
+}
+
+export function getImageUrl(
+  apiService: ApiService,
+  path: string
+): Observable<string> {
+  return apiService.getImageUrlSrc(path);
 }
