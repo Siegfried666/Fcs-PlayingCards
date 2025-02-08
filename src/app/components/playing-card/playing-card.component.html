@@ -5,13 +5,13 @@
         <div id="inside">
           <header>
             <div class="left">
-              <div id="name">{{ card.name }}</div>
+              <div id="name">{{ card.pokemon.name }}</div>
             </div>
             <div class="right">
-              <div id="hp">{{ card.hp }} HP</div>
+              <div id="hp">{{ card.stats.hp }} HP</div>
               <div>
                 <img
-                  ngSrc="assets/images/types/{{ card.types[0] }}.png"
+                  ngSrc="assets/images/types/{{ card.stats.type1 }}.png"
                   alt="type"
                   class="energy icon"
                   width="20"
@@ -23,19 +23,23 @@
             </div>
           </header>
           <figure id="art">
+            <div>{{ card.pokemon.picLarge }}</div>
+            <div *ngIf="card.pokemon.picLarge == 'null'">
+              show if photo is empty
+            </div>
             <img
-              ngSrc="{{ card.picLarge }}"
+              ngSrc="{{ card.pokemon.picLarge }}"
               width="175"
               height="175"
               alt="picLarge"
               lazy
               priority
             />
-            <figCaption>{{ card.no }} Monsters</figCaption>
+            <figCaption>{{ card.pokemon.no }} Monsters</figCaption>
           </figure>
           <div id="cardImage">
             <img
-              ngSrc="assets/images/cards/{{ card.name }}.png"
+              ngSrc="assets/images/cards/{{ card.pokemon.name }}.png"
               alt="cardImage"
               class="cardImg"
               width="170"
@@ -45,22 +49,25 @@
             />
           </div>
           <div id="types">
-            <table id="typeTable">
-              <header></header>
-              <body>
-                <tr *ngFor="let type of card.types">
-                  <img
-                    ngSrc="assets/images/types/{{ type }}.png"
-                    alt="type"
-                    class="energy icon"
-                    width="20"
-                    height="20"
-                    priority
-                    lazy
-                  />
-                </tr>
-              </body>
-            </table>
+            <img
+              ngSrc="assets/images/types/{{ card.stats.type1 }}.png"
+              alt="type1"
+              class="energy icon"
+              width="20"
+              height="20"
+              priority
+              lazy
+            />
+            <img
+              *ngIf="card.stats.type2 != 'NA'"
+              ngSrc="assets/images/types/{{ card.stats.type2 }}.png"
+              alt="type2"
+              class="energy icon"
+              width="20"
+              height="20"
+              priority
+              lazy
+            />
           </div>
           <div id="descriptionViolet">
             <div>
@@ -73,7 +80,7 @@
                 lazy
                 priority
               />
-              <p>{{ card.descriptionViolet }}</p>
+              <p>{{ card.pokemon.descriptionViolet }}</p>
             </div>
           </div>
           <div id="descriptionScarlet">
@@ -87,8 +94,32 @@
                 lazy
                 priority
               />
-              <p>{{ card.descriptionScarlet }}</p>
+              <p>{{ card.pokemon.descriptionScarlet }}</p>
             </div>
+          </div>
+          <div id="stats">
+            <table>
+              <tr>
+                <th>Name</th>
+                <th>Value</th>
+              </tr>
+              <tr *ngFor="let stat of card.stats | keyvalue">
+                <td>{{ stat.key }}</td>
+                <td>{{ stat.value }}</td>
+              </tr>
+            </table>
+          </div>
+
+          <div id="moves">
+            <table *ngFor="let move of card.moves">
+              <tr>
+                <th *ngFor="let header of move | keyvalue">{{ header.key }}</th>
+              </tr>
+
+              <tr *ngFor="let intoMove of move | keyvalue">
+                <td>{{ intoMove.value }}</td>
+              </tr>
+            </table>
           </div>
         </div>
       </div>

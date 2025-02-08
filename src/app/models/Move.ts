@@ -1,7 +1,6 @@
 import { IMove } from '../interfaces/IMove';
 
 export class Move implements IMove {
-  name: string | undefined;
   move: string | undefined;
   type: string | undefined;
   category: string | undefined;

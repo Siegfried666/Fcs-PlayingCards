@@ -1,6 +1,6 @@
 [
   {
-    "move": "Absorb",
+    "name": "Absorb",
     "type": "grass",
     "category": "special",
     "powerPoints": 25,
@@ -13,7 +13,7 @@
     "speedPriority": 0
   },
   {
-    "move": "Acid Armor",
+    "name": "Acid Armor",
     "type": "poison",
     "category": "other",
     "powerPoints": 20,
@@ -26,7 +26,7 @@
     "speedPriority": 0
   },
   {
-    "move": "Acid Spray",
+    "name": "Acid Spray",
     "type": "poison",
     "category": "special",
     "powerPoints": 20,
@@ -39,7 +39,7 @@
     "speedPriority": 0
   },
   {
-    "move": "Acrobatics",
+    "name": "Acrobatics",
     "type": "flying",
     "category": "physical",
     "powerPoints": 15,
@@ -52,7 +52,7 @@
     "speedPriority": 0
   },
   {
-    "move": "Acupressure",
+    "name": "Acupressure",
     "type": "normal",
     "category": "other",
     "powerPoints": 30,
@@ -65,7 +65,7 @@
     "speedPriority": 0
   },
   {
-    "move": "Aerial Ace",
+    "name": "Aerial Ace",
     "type": "flying",
     "category": "physical",
     "powerPoints": 20,
@@ -78,46 +78,46 @@
     "speedPriority": 0
   },
   {
-    "move": "After You",
+    "name": "After You",
     "type": "normal",
     "category": "other",
     "powerPoints": 15,
     "basePower": 0,
     "accuracy": 101,
-    "battleEffect": "The user helps the target and makes it use its move right after the user.",
-    "secondaryEffect": "Target moves immediately after the user",
+    "battleEffect": "The user helps the target and makes it use its name right after the user.",
+    "secondaryEffect": "Target names immediately after the user",
     "secondaryRate": 0,
     "criticalRate": 0,
     "speedPriority": 0
   },
   {
-    "move": "Agility",
+    "name": "Agility",
     "type": "psychic",
     "category": "other",
     "powerPoints": 30,
     "basePower": 0,
     "accuracy": 101,
-    "battleEffect": "The user relaxes and lightens its body to move faster. This sharply boosts its Speed stat.",
+    "battleEffect": "The user relaxes and lightens its body to name faster. This sharply boosts its Speed stat.",
     "secondaryEffect": "Raises user's Speed two stages.",
     "secondaryRate": 0,
     "criticalRate": 0,
     "speedPriority": 0
   },
   {
-    "move": "Air Cutter",
+    "name": "Air Cutter",
     "type": "flying",
     "category": "special",
     "powerPoints": 25,
     "basePower": 60,
     "accuracy": 95,
-    "battleEffect": "The user launches razor-like wind to slash opposing Pokémon. This move has a heightened chance of landing a critical hit.",
+    "battleEffect": "The user launches razor-like wind to slash opposing Pokémon. This name has a heightened chance of landing a critical hit.",
     "secondaryEffect": "Has an increased Critical Hit ratio",
     "secondaryRate": 0,
     "criticalRate": 0.125,
     "speedPriority": 0
   },
   {
-    "move": "Air Slash",
+    "name": "Air Slash",
     "type": "flying",
     "category": "special",
     "powerPoints": 15,
@@ -130,20 +130,20 @@
     "speedPriority": 0
   },
   {
-    "move": "Ally Switch",
+    "name": "Ally Switch",
     "type": "psychic",
     "category": "other",
     "powerPoints": 15,
     "basePower": 0,
     "accuracy": 101,
-    "battleEffect": "The user teleports using a strange power and switches places with one of its allies. This move's chance of failing rises if it is used in succession.",
+    "battleEffect": "The user teleports using a strange power and switches places with one of its allies. This name's chance of failing rises if it is used in succession.",
     "secondaryEffect": "Switches place with other Pokémon on field",
     "secondaryRate": 0,
     "criticalRate": 0,
     "speedPriority": 2
   },
   {
-    "move": "Amnesia",
+    "name": "Amnesia",
     "type": "psychic",
     "category": "other",
     "powerPoints": 20,
@@ -156,7 +156,7 @@
     "speedPriority": 0
   },
   {
-    "move": "Ancient Power",
+    "name": "Ancient Power",
     "type": "rock",
     "category": "special",
     "powerPoints": 5,
@@ -169,33 +169,33 @@
     "speedPriority": 0
   },
   {
-    "move": "Aqua Cutter",
+    "name": "Aqua Cutter",
     "type": "water",
     "category": "physical",
     "powerPoints": 20,
     "basePower": 70,
     "accuracy": 100,
-    "battleEffect": "The user expels pressurized water to cut at the target like a blade. This move has a heightened chance of landing a critical hit.",
+    "battleEffect": "The user expels pressurized water to cut at the target like a blade. This name has a heightened chance of landing a critical hit.",
     "secondaryEffect": "No effect.",
     "secondaryRate": 0,
     "criticalRate": 0.125,
     "speedPriority": 0
   },
   {
-    "move": "Aqua Jet",
+    "name": "Aqua Jet",
     "type": "water",
     "category": "physical",
     "powerPoints": 20,
     "basePower": 40,
     "accuracy": 100,
-    "battleEffect": "The user lunges at the target to inflict damage, moving at blinding speed. This move always goes first.",
+    "battleEffect": "The user lunges at the target to inflict damage, moving at blinding speed. This name always goes first.",
     "secondaryEffect": "Has increased Speed Priority",
     "secondaryRate": 0,
     "criticalRate": 0.0417,
     "speedPriority": 1
   },
   {
-    "move": "Aqua Step",
+    "name": "Aqua Step",
     "type": "water",
     "category": "physical",
     "powerPoints": 10,
@@ -208,7 +208,7 @@
     "speedPriority": 0
   },
   {
-    "move": "Aqua Tail",
+    "name": "Aqua Tail",
     "type": "water",
     "category": "physical",
     "powerPoints": 10,
@@ -221,20 +221,20 @@
     "speedPriority": 0
   },
   {
-    "move": "Arm Thrust",
+    "name": "Arm Thrust",
     "type": "fighting",
     "category": "physical",
     "powerPoints": 20,
     "basePower": 15,
     "accuracy": 100,
-    "battleEffect": "The user attacks the target with open-palmed arm thrusts. This move hits two to five times in a row.",
+    "battleEffect": "The user attacks the target with open-palmed arm thrusts. This name hits two to five times in a row.",
     "secondaryEffect": "Attacks 2-5 times in a row. 37.5% chance of 2 hits. 37.5% chance of 3 hits. 12.5% chance of 4 hits. 12.5% chance of 5 hits",
     "secondaryRate": 0,
     "criticalRate": 0.0417,
     "speedPriority": 0
   },
   {
-    "move": "Armor Cannon",
+    "name": "Armor Cannon",
     "type": "fire",
     "category": "special",
     "powerPoints": 5,
@@ -247,20 +247,20 @@
     "speedPriority": 0
   },
   {
-    "move": "Assurance",
+    "name": "Assurance",
     "type": "dark",
     "category": "physical",
     "powerPoints": 10,
     "basePower": 60,
     "accuracy": 100,
-    "battleEffect": "This move's power is doubled if the target has already taken some damage in the same turn.",
+    "battleEffect": "This name's power is doubled if the target has already taken some damage in the same turn.",
     "secondaryEffect": "Doubles damage if target has already received damage this turn.",
     "secondaryRate": 0,
     "criticalRate": 0.0417,
     "speedPriority": 0
   },
   {
-    "move": "Astonish",
+    "name": "Astonish",
     "type": "ghost",
     "category": "physical",
     "powerPoints": 15,
@@ -273,7 +273,7 @@
     "speedPriority": 0
   },
   {
-    "move": "Aura Sphere",
+    "name": "Aura Sphere",
     "type": "fighting",
     "category": "special",
     "powerPoints": 20,
@@ -286,59 +286,59 @@
     "speedPriority": 0
   },
   {
-    "move": "Aurora Veil",
+    "name": "Aurora Veil",
     "type": "ice",
     "category": "other",
     "powerPoints": 20,
     "basePower": 0,
     "accuracy": 101,
-    "battleEffect": "This move reduces damage from physical and special moves for five turns. This can be used only when it is snowing.",
-    "secondaryEffect": "This move will put up a protective barrier that will reduce the damage inflicted by attacks by 50% in Single Battles, and 33% in Double Battles. It can run in conjunction with Reflect and Light Screen but does not stack. It can only be activated during Hail, but will continue if Hail ends during its time. The ability Infiltrator ignores its effects",
+    "battleEffect": "This name reduces damage from physical and special names for five turns. This can be used only when it is snowing.",
+    "secondaryEffect": "This name will put up a protective barrier that will reduce the damage inflicted by attacks by 50% in Single Battles, and 33% in Double Battles. It can run in conjunction with Reflect and Light Screen but does not stack. It can only be activated during Hail, but will continue if Hail ends during its time. The ability Infiltrator ignores its effects",
     "secondaryRate": 0,
     "criticalRate": 0,
     "speedPriority": 0
   },
   {
-    "move": "Avalanche",
+    "name": "Avalanche",
     "type": "ice",
     "category": "physical",
     "powerPoints": 10,
     "basePower": 60,
     "accuracy": 100,
-    "battleEffect": "This move's power is doubled if the target has inflicted damage on the user in the same turn.",
+    "battleEffect": "This name's power is doubled if the target has inflicted damage on the user in the same turn.",
     "secondaryEffect": "Power doubles if user was hit before using the Attack.",
     "secondaryRate": 0,
     "criticalRate": 0.0417,
     "speedPriority": -4
   },
   {
-    "move": "Axe Kick",
+    "name": "Axe Kick",
     "type": "fighting",
     "category": "physical",
     "powerPoints": 10,
     "basePower": 120,
     "accuracy": 90,
     "battleEffect": "The user attacks by kicking up into the air and slamming its heel down upon the target. This may also confuse the target. If it misses, the user takes damage instead.",
-    "secondaryEffect": "May confuse the opponent. If the move misses, the user takes 25% damage",
+    "secondaryEffect": "May confuse the opponent. If the name misses, the user takes 25% damage",
     "secondaryRate": 0.3,
     "criticalRate": 0.0417,
     "speedPriority": 0
   },
   {
-    "move": "Baby-Doll Eyes",
+    "name": "Baby-Doll Eyes",
     "type": "fairy",
     "category": "other",
     "powerPoints": 30,
     "basePower": 0,
     "accuracy": 100,
-    "battleEffect": "The user stares at the target with its baby-doll eyes, which lowers the target's Attack stat. This move always goes first.",
+    "battleEffect": "The user stares at the target with its baby-doll eyes, which lowers the target's Attack stat. This name always goes first.",
     "secondaryEffect": "Lowers opponent's Attack stat one stage",
     "secondaryRate": 0,
     "criticalRate": 0,
     "speedPriority": 1
   },
   {
-    "move": "Baton Pass",
+    "name": "Baton Pass",
     "type": "normal",
     "category": "other",
     "powerPoints": 40,
@@ -351,7 +351,7 @@
     "speedPriority": 0
   },
   {
-    "move": "Beat Up",
+    "name": "Beat Up",
     "type": "dark",
     "category": "physical",
     "powerPoints": 10,
@@ -364,20 +364,20 @@
     "speedPriority": 0
   },
   {
-    "move": "Belch",
+    "name": "Belch",
     "type": "poison",
     "category": "special",
     "powerPoints": 10,
     "basePower": 120,
     "accuracy": 90,
-    "battleEffect": "The user lets out a damaging belch at the target. The user must eat a held Berry to use this move.",
+    "battleEffect": "The user lets out a damaging belch at the target. The user must eat a held Berry to use this name.",
     "secondaryEffect": "Consumes a Berry",
     "secondaryRate": 0,
     "criticalRate": 0.0417,
     "speedPriority": 0
   },
   {
-    "move": "Belly Drum",
+    "name": "Belly Drum",
     "type": "normal",
     "category": "other",
     "powerPoints": 10,
@@ -390,7 +390,7 @@
     "speedPriority": 0
   },
   {
-    "move": "Bite",
+    "name": "Bite",
     "type": "dark",
     "category": "physical",
     "powerPoints": 25,
@@ -403,7 +403,7 @@
     "speedPriority": 0
   },
   {
-    "move": "Bitter Blade",
+    "name": "Bitter Blade",
     "type": "fire",
     "category": "physical",
     "powerPoints": 10,
@@ -416,20 +416,20 @@
     "speedPriority": 0
   },
   {
-    "move": "Blast Burn",
+    "name": "Blast Burn",
     "type": "fire",
     "category": "special",
     "powerPoints": 5,
     "basePower": 150,
     "accuracy": 90,
-    "battleEffect": "The target is razed by a fiery explosion. The user can't move on the next turn.",
+    "battleEffect": "The target is razed by a fiery explosion. The user can't name on the next turn.",
     "secondaryEffect": "User cannot Attack on the next turn.",
     "secondaryRate": 0,
     "criticalRate": 0.0417,
     "speedPriority": 0
   },
   {
-    "move": "Blizzard",
+    "name": "Blizzard",
     "type": "ice",
     "category": "special",
     "powerPoints": 5,
@@ -442,7 +442,7 @@
     "speedPriority": 0
   },
   {
-    "move": "Block",
+    "name": "Block",
     "type": "normal",
     "category": "other",
     "powerPoints": 5,
@@ -455,20 +455,20 @@
     "speedPriority": 0
   },
   {
-    "move": "Body Press",
+    "name": "Body Press",
     "type": "fighting",
     "category": "physical",
     "powerPoints": 10,
     "basePower": 80,
     "accuracy": 100,
-    "battleEffect": "The user attacks by slamming its body into the target. The higher the user's Defense stat, the greater the damage this move deals.",
+    "battleEffect": "The user attacks by slamming its body into the target. The higher the user's Defense stat, the greater the damage this name deals.",
     "secondaryEffect": "Users the user's Defense stat in damage calculation rather than Attack stat",
     "secondaryRate": 0,
     "criticalRate": 0.0417,
     "speedPriority": 0
   },
   {
-    "move": "Body Slam",
+    "name": "Body Slam",
     "type": "normal",
     "category": "physical",
     "powerPoints": 15,
@@ -481,7 +481,7 @@
     "speedPriority": 0
   },
   {
-    "move": "Boomburst",
+    "name": "Boomburst",
     "type": "normal",
     "category": "special",
     "powerPoints": 10,
@@ -494,7 +494,7 @@
     "speedPriority": 0
   },
   {
-    "move": "Bounce",
+    "name": "Bounce",
     "type": "flying",
     "category": "physical",
     "powerPoints": 5,
@@ -507,7 +507,7 @@
     "speedPriority": 0
   },
   {
-    "move": "Brave Bird",
+    "name": "Brave Bird",
     "type": "flying",
     "category": "physical",
     "powerPoints": 15,
@@ -520,7 +520,7 @@
     "speedPriority": 0
   },
   {
-    "move": "Breaking Swipe",
+    "name": "Breaking Swipe",
     "type": "dragon",
     "category": "physical",
     "powerPoints": 15,
@@ -533,20 +533,20 @@
     "speedPriority": 0
   },
   {
-    "move": "Brick Break",
+    "name": "Brick Break",
     "type": "fighting",
     "category": "physical",
     "powerPoints": 15,
     "basePower": 75,
     "accuracy": 100,
-    "battleEffect": "The user attacks with a swift chop. This move can also break barriers, such as Light Screen and Reflect.",
-    "secondaryEffect": "This move will remove any Reflect, Light Screen, Aurora Veil or that is in play on the opponent's team.",
+    "battleEffect": "The user attacks with a swift chop. This name can also break barriers, such as Light Screen and Reflect.",
+    "secondaryEffect": "This name will rename any Reflect, Light Screen, Aurora Veil or that is in play on the opponent's team.",
     "secondaryRate": 0,
     "criticalRate": 0.0417,
     "speedPriority": 0
   },
   {
-    "move": "Brutal Swing",
+    "name": "Brutal Swing",
     "type": "dark",
     "category": "physical",
     "powerPoints": 20,
@@ -559,20 +559,20 @@
     "speedPriority": 0
   },
   {
-    "move": "Bug Bite",
+    "name": "Bug Bite",
     "type": "bug",
     "category": "physical",
     "powerPoints": 20,
     "basePower": 60,
     "accuracy": 100,
     "battleEffect": "The user attacks by biting the target. If the target is holding a Berry, the user eats it and gains its effect.",
-    "secondaryEffect": "Removes target's Berry and uses its effect",
+    "secondaryEffect": "Renames target's Berry and uses its effect",
     "secondaryRate": 0,
     "criticalRate": 0.0417,
     "speedPriority": 0
   },
   {
-    "move": "Bug Buzz",
+    "name": "Bug Buzz",
     "type": "bug",
     "category": "special",
     "powerPoints": 10,
@@ -585,7 +585,7 @@
     "speedPriority": 0
   },
   {
-    "move": "Bulk Up",
+    "name": "Bulk Up",
     "type": "fighting",
     "category": "other",
     "powerPoints": 20,
@@ -598,7 +598,7 @@
     "speedPriority": 0
   },
   {
-    "move": "Bulldoze",
+    "name": "Bulldoze",
     "type": "ground",
     "category": "physical",
     "powerPoints": 20,
@@ -611,20 +611,20 @@
     "speedPriority": 0
   },
   {
-    "move": "Bullet Seed",
+    "name": "Bullet Seed",
     "type": "grass",
     "category": "physical",
     "powerPoints": 30,
     "basePower": 25,
     "accuracy": 100,
-    "battleEffect": "The user attacks by forcefully shooting seeds at the target. This move hits two to five times in a row.",
+    "battleEffect": "The user attacks by forcefully shooting seeds at the target. This name hits two to five times in a row.",
     "secondaryEffect": "Attacks 2-5 times in a row. 37.5% chance of 2 hits. 37.5% chance of 3 hits. 12.5% chance of 4 hits. 12.5% chance of 5 hits",
     "secondaryRate": 0,
     "criticalRate": 0.0417,
     "speedPriority": 0
   },
   {
-    "move": "Calm Mind",
+    "name": "Calm Mind",
     "type": "psychic",
     "category": "other",
     "powerPoints": 20,
@@ -637,20 +637,20 @@
     "speedPriority": 0
   },
   {
-    "move": "Charge",
+    "name": "Charge",
     "type": "electric",
     "category": "other",
     "powerPoints": 20,
     "basePower": 0,
     "accuracy": 101,
-    "battleEffect": "The user becomes charged, boosting the power of the next Electric-type move it uses. This also boosts the user's Sp. Def stat.",
+    "battleEffect": "The user becomes charged, boosting the power of the next Electric-type name it uses. This also boosts the user's Sp. Def stat.",
     "secondaryEffect": "Boosts power of user's next Electric-type Attack by 100%. Increases user's Special Defense by 1 stage",
     "secondaryRate": 0,
     "criticalRate": 0,
     "speedPriority": 0
   },
   {
-    "move": "Charge Beam",
+    "name": "Charge Beam",
     "type": "electric",
     "category": "special",
     "powerPoints": 10,
@@ -663,7 +663,7 @@
     "speedPriority": 0
   },
   {
-    "move": "Charm",
+    "name": "Charm",
     "type": "fairy",
     "category": "other",
     "powerPoints": 20,
@@ -676,7 +676,7 @@
     "speedPriority": 0
   },
   {
-    "move": "Chilling Water",
+    "name": "Chilling Water",
     "type": "water",
     "category": "special",
     "powerPoints": 20,
@@ -689,7 +689,7 @@
     "speedPriority": 0
   },
   {
-    "move": "Circle Throw",
+    "name": "Circle Throw",
     "type": "fighting",
     "category": "physical",
     "powerPoints": 10,
@@ -702,20 +702,20 @@
     "speedPriority": -6
   },
   {
-    "move": "Clear Smog",
+    "name": "Clear Smog",
     "type": "poison",
     "category": "special",
     "powerPoints": 15,
     "basePower": 50,
     "accuracy": 101,
     "battleEffect": "The user attacks the target by throwing a clump of special mud. All stat changes are eliminated.",
-    "secondaryEffect": "Removes all stat changes",
+    "secondaryEffect": "Renames all stat changes",
     "secondaryRate": 0,
     "criticalRate": 0.0417,
     "speedPriority": 0
   },
   {
-    "move": "Close Combat",
+    "name": "Close Combat",
     "type": "fighting",
     "category": "physical",
     "powerPoints": 5,
@@ -728,7 +728,7 @@
     "speedPriority": 0
   },
   {
-    "move": "Coil",
+    "name": "Coil",
     "type": "poison",
     "category": "other",
     "powerPoints": 20,
@@ -741,20 +741,20 @@
     "speedPriority": 0
   },
   {
-    "move": "Collision Course",
+    "name": "Collision Course",
     "type": "fighting",
     "category": "physical",
     "powerPoints": 5,
     "basePower": 100,
     "accuracy": 100,
-    "battleEffect": "The user transforms and crashes to the ground, causing a massive prehistoric explosion. This move's power is boosted more than usual if it's a supereffective hit.",
-    "secondaryEffect": "Boosts damage by 50% if the move is Super Effective on the target",
+    "battleEffect": "The user transforms and crashes to the ground, causing a massive prehistoric explosion. This name's power is boosted more than usual if it's a supereffective hit.",
+    "secondaryEffect": "Boosts damage by 50% if the name is Super Effective on the target",
     "secondaryRate": 0,
     "criticalRate": 0.0417,
     "speedPriority": 0
   },
   {
-    "move": "Comeuppance",
+    "name": "Comeuppance",
     "type": "dark",
     "category": "physical",
     "powerPoints": 10,
@@ -767,7 +767,7 @@
     "speedPriority": 0
   },
   {
-    "move": "Confuse Ray",
+    "name": "Confuse Ray",
     "type": "ghost",
     "category": "other",
     "powerPoints": 10,
@@ -780,7 +780,7 @@
     "speedPriority": 0
   },
   {
-    "move": "Confusion",
+    "name": "Confusion",
     "type": "psychic",
     "category": "special",
     "powerPoints": 25,
@@ -793,20 +793,20 @@
     "speedPriority": 0
   },
   {
-    "move": "Copycat",
+    "name": "Copycat",
     "type": "normal",
     "category": "other",
     "powerPoints": 20,
     "basePower": 0,
     "accuracy": 101,
-    "battleEffect": "The user mimics the move used immediately before it. This move fails if no other move has been used yet.",
-    "secondaryEffect": "Uses the move used just before it in battle.",
+    "battleEffect": "The user mimics the name used immediately before it. This name fails if no other name has been used yet.",
+    "secondaryEffect": "Uses the name used just before it in battle.",
     "secondaryRate": 0,
     "criticalRate": 0,
     "speedPriority": 0
   },
   {
-    "move": "Cosmic Power",
+    "name": "Cosmic Power",
     "type": "psychic",
     "category": "other",
     "powerPoints": 20,
@@ -819,20 +819,20 @@
     "speedPriority": 0
   },
   {
-    "move": "Counter",
+    "name": "Counter",
     "type": "fighting",
     "category": "physical",
     "powerPoints": 20,
     "basePower": 1,
     "accuracy": 100,
-    "battleEffect": "A retaliatory attack that counters any physical move, inflicting double the damage taken.",
+    "battleEffect": "A retaliatory attack that counters any physical name, inflicting double the damage taken.",
     "secondaryEffect": "If hit by a physical Attack, deals double the damage received.",
     "secondaryRate": 0,
     "criticalRate": 0.0417,
     "speedPriority": -5
   },
   {
-    "move": "Covet",
+    "name": "Covet",
     "type": "normal",
     "category": "physical",
     "powerPoints": 25,
@@ -845,46 +845,46 @@
     "speedPriority": 0
   },
   {
-    "move": "Crabhammer",
+    "name": "Crabhammer",
     "type": "water",
     "category": "physical",
     "powerPoints": 10,
     "basePower": 100,
     "accuracy": 90,
-    "battleEffect": "The target is hammered with a large pincer. This move has a heightened chance of landing a critical hit.",
+    "battleEffect": "The target is hammered with a large pincer. This name has a heightened chance of landing a critical hit.",
     "secondaryEffect": "Has an increased Critical Hit ratio",
     "secondaryRate": 0,
     "criticalRate": 0.125,
     "speedPriority": 0
   },
   {
-    "move": "Cross Chop",
+    "name": "Cross Chop",
     "type": "fighting",
     "category": "physical",
     "powerPoints": 5,
     "basePower": 100,
     "accuracy": 80,
-    "battleEffect": "The user delivers a double chop with its forearms crossed. This move has a heightened chance of landing a critical hit.",
+    "battleEffect": "The user delivers a double chop with its forearms crossed. This name has a heightened chance of landing a critical hit.",
     "secondaryEffect": "Has an increased Critical Hit ratio",
     "secondaryRate": 0,
     "criticalRate": 0.125,
     "speedPriority": 0
   },
   {
-    "move": "Cross Poison",
+    "name": "Cross Poison",
     "type": "poison",
     "category": "physical",
     "powerPoints": 20,
     "basePower": 70,
     "accuracy": 100,
-    "battleEffect": "A slashing attack with a poisonous blade that may also poison the target. This move has a heightened chance of landing a critical hit.",
+    "battleEffect": "A slashing attack with a poisonous blade that may also poison the target. This name has a heightened chance of landing a critical hit.",
     "secondaryEffect": "Has high critical hit ratio. May induce poison.",
     "secondaryRate": 0.1,
     "criticalRate": 0.125,
     "speedPriority": 0
   },
   {
-    "move": "Crunch",
+    "name": "Crunch",
     "type": "dark",
     "category": "physical",
     "powerPoints": 15,
@@ -897,20 +897,20 @@
     "speedPriority": 0
   },
   {
-    "move": "Curse",
+    "name": "Curse",
     "type": "ghost",
     "category": "other",
     "powerPoints": 10,
     "basePower": 0,
     "accuracy": 101,
-    "battleEffect": "A move that has different effects depending on whether the user is a Ghost type or not.",
+    "battleEffect": "A name that has different effects depending on whether the user is a Ghost type or not.",
     "secondaryEffect": "Ghost type Pokémon: User loses half their maximum HP, and the opponent gets a Nightmare. Other Pokémon types: Raises user's Attack and Defense one stage. Lowers user's Speed one stage.",
     "secondaryRate": 0,
     "criticalRate": 0,
     "speedPriority": 0
   },
   {
-    "move": "Dark Pulse",
+    "name": "Dark Pulse",
     "type": "dark",
     "category": "special",
     "powerPoints": 15,
@@ -923,7 +923,7 @@
     "speedPriority": 0
   },
   {
-    "move": "Dazzling Gleam",
+    "name": "Dazzling Gleam",
     "type": "fairy",
     "category": "special",
     "powerPoints": 10,
@@ -936,7 +936,7 @@
     "speedPriority": 0
   },
   {
-    "move": "Defense Curl",
+    "name": "Defense Curl",
     "type": "normal",
     "category": "other",
     "powerPoints": 40,
@@ -949,33 +949,33 @@
     "speedPriority": 0
   },
   {
-    "move": "Destiny Bond",
+    "name": "Destiny Bond",
     "type": "ghost",
     "category": "other",
     "powerPoints": 5,
     "basePower": 0,
     "accuracy": 101,
-    "battleEffect": "If the user is knocked out after using this move, the Pokémon that knocked it out will also faint. This move's chance of failing rises if it is used in succession.",
+    "battleEffect": "If the user is knocked out after using this name, the Pokémon that knocked it out will also faint. This name's chance of failing rises if it is used in succession.",
     "secondaryEffect": "If the user faints, the opponent will also faint. Will fail on successive uses.",
     "secondaryRate": 0,
     "criticalRate": 0,
     "speedPriority": 0
   },
   {
-    "move": "Detect",
+    "name": "Detect",
     "type": "fighting",
     "category": "other",
     "powerPoints": 5,
     "basePower": 0,
     "accuracy": 101,
-    "battleEffect": "This move enables the user to protect itself from all attacks. Its chance of failing rises if it is used in succession.",
-    "secondaryEffect": "If used in succession with other protection moves, its success rate is cut to 33% of what it was, working cumulatively the more it's used. This will prevent damage and effects of almost all possible attacks that would be inflicted upon the user.There are a few moves and abilities which do break through this move The following moves are also unaffected by Protect & Detect: Doom Desire (delayed damage only), Future Sight (delayed damage only), Feint, Hyperspace Fury, Hyperspace Hole, Imprison, Perish Song, Phantom Force, Psych Up, Shadow Force, Transform",
+    "battleEffect": "This name enables the user to protect itself from all attacks. Its chance of failing rises if it is used in succession.",
+    "secondaryEffect": "If used in succession with other protection names, its success rate is cut to 33% of what it was, working cumulatively the more it's used. This will prevent damage and effects of almost all possible attacks that would be inflicted upon the user.There are a few names and abilities which do break through this name The following names are also unaffected by Protect & Detect: Doom Desire (delayed damage only), Future Sight (delayed damage only), Feint, Hyperspace Fury, Hyperspace Hole, Imprison, Perish Song, Phantom Force, Psych Up, Shadow Force, Transform",
     "secondaryRate": 0,
     "criticalRate": 0,
     "speedPriority": 4
   },
   {
-    "move": "Dig",
+    "name": "Dig",
     "type": "ground",
     "category": "physical",
     "powerPoints": 10,
@@ -988,20 +988,20 @@
     "speedPriority": 0
   },
   {
-    "move": "Disable",
+    "name": "Disable",
     "type": "normal",
     "category": "other",
     "powerPoints": 20,
     "basePower": 0,
     "accuracy": 100,
-    "battleEffect": "For four turns, the target will be unable to use whichever move it last used.",
-    "secondaryEffect": "Disables opponent's last move.",
+    "battleEffect": "For four turns, the target will be unable to use whichever name it last used.",
+    "secondaryEffect": "Disables opponent's last name.",
     "secondaryRate": 0,
     "criticalRate": 0,
     "speedPriority": 0
   },
   {
-    "move": "Disarming Voice",
+    "name": "Disarming Voice",
     "type": "fairy",
     "category": "special",
     "powerPoints": 15,
@@ -1014,7 +1014,7 @@
     "speedPriority": 0
   },
   {
-    "move": "Discharge",
+    "name": "Discharge",
     "type": "electric",
     "category": "special",
     "powerPoints": 15,
@@ -1027,7 +1027,7 @@
     "speedPriority": 0
   },
   {
-    "move": "Dive",
+    "name": "Dive",
     "type": "water",
     "category": "physical",
     "powerPoints": 10,
@@ -1040,7 +1040,7 @@
     "speedPriority": 0
   },
   {
-    "move": "Doodle",
+    "name": "Doodle",
     "type": "normal",
     "category": "other",
     "powerPoints": 10,
@@ -1053,7 +1053,7 @@
     "speedPriority": 0
   },
   {
-    "move": "Double Hit",
+    "name": "Double Hit",
     "type": "normal",
     "category": "physical",
     "powerPoints": 10,
@@ -1066,7 +1066,7 @@
     "speedPriority": 0
   },
   {
-    "move": "Double Kick",
+    "name": "Double Kick",
     "type": "fighting",
     "category": "physical",
     "powerPoints": 30,
@@ -1079,20 +1079,20 @@
     "speedPriority": 0
   },
   {
-    "move": "Double Shock",
+    "name": "Double Shock",
     "type": "electric",
     "category": "physical",
     "powerPoints": 5,
     "basePower": 120,
     "accuracy": 100,
-    "battleEffect": "The user discharges all the electricity from its body to perform a high-damage attack. After using this move, the user will no longer be Electric type.",
-    "secondaryEffect": "Removes Electric-type from user. If user was pure Electric-type, it is now without a type.",
+    "battleEffect": "The user discharges all the electricity from its body to perform a high-damage attack. After using this name, the user will no longer be Electric type.",
+    "secondaryEffect": "Renames Electric-type from user. If user was pure Electric-type, it is now without a type.",
     "secondaryRate": 0,
     "criticalRate": 0.0417,
     "speedPriority": 0
   },
   {
-    "move": "Double Team",
+    "name": "Double Team",
     "type": "normal",
     "category": "other",
     "powerPoints": 15,
@@ -1105,7 +1105,7 @@
     "speedPriority": 0
   },
   {
-    "move": "Double-Edge",
+    "name": "Double-Edge",
     "type": "normal",
     "category": "physical",
     "powerPoints": 15,
@@ -1118,20 +1118,20 @@
     "speedPriority": 0
   },
   {
-    "move": "Draco Meteor",
+    "name": "Draco Meteor",
     "type": "dragon",
     "category": "special",
     "powerPoints": 5,
     "basePower": 130,
     "accuracy": 90,
-    "battleEffect": "Comets are summoned down from the sky onto the target. The recoil from this move harshly lowers the user's Sp. Atk stat.",
+    "battleEffect": "Comets are summoned down from the sky onto the target. The recoil from this name harshly lowers the user's Sp. Atk stat.",
     "secondaryEffect": "Lowers user's Special Attack two stages.",
     "secondaryRate": 0,
     "criticalRate": 0.0417,
     "speedPriority": 0
   },
   {
-    "move": "Dragon Breath",
+    "name": "Dragon Breath",
     "type": "dragon",
     "category": "special",
     "powerPoints": 20,
@@ -1144,7 +1144,7 @@
     "speedPriority": 0
   },
   {
-    "move": "Dragon Claw",
+    "name": "Dragon Claw",
     "type": "dragon",
     "category": "physical",
     "powerPoints": 15,
@@ -1157,7 +1157,7 @@
     "speedPriority": 0
   },
   {
-    "move": "Dragon Dance",
+    "name": "Dragon Dance",
     "type": "dragon",
     "category": "other",
     "powerPoints": 20,
@@ -1170,7 +1170,7 @@
     "speedPriority": 0
   },
   {
-    "move": "Dragon Pulse",
+    "name": "Dragon Pulse",
     "type": "dragon",
     "category": "special",
     "powerPoints": 10,
@@ -1183,7 +1183,7 @@
     "speedPriority": 0
   },
   {
-    "move": "Dragon Rush",
+    "name": "Dragon Rush",
     "type": "dragon",
     "category": "physical",
     "powerPoints": 10,
@@ -1196,7 +1196,7 @@
     "speedPriority": 0
   },
   {
-    "move": "Dragon Tail",
+    "name": "Dragon Tail",
     "type": "dragon",
     "category": "physical",
     "powerPoints": 10,
@@ -1209,7 +1209,7 @@
     "speedPriority": -6
   },
   {
-    "move": "Drain Punch",
+    "name": "Drain Punch",
     "type": "fighting",
     "category": "physical",
     "powerPoints": 10,
@@ -1222,7 +1222,7 @@
     "speedPriority": 0
   },
   {
-    "move": "Draining Kiss",
+    "name": "Draining Kiss",
     "type": "fairy",
     "category": "special",
     "powerPoints": 10,
@@ -1235,7 +1235,7 @@
     "speedPriority": 0
   },
   {
-    "move": "Drill Peck",
+    "name": "Drill Peck",
     "type": "flying",
     "category": "physical",
     "powerPoints": 20,
@@ -1248,20 +1248,20 @@
     "speedPriority": 0
   },
   {
-    "move": "Drill Run",
+    "name": "Drill Run",
     "type": "ground",
     "category": "physical",
     "powerPoints": 10,
     "basePower": 80,
     "accuracy": 95,
-    "battleEffect": "The user crashes into the target while rotating its body like a drill. This move has a heightened chance of landing a critical hit.",
+    "battleEffect": "The user crashes into the target while rotating its body like a drill. This name has a heightened chance of landing a critical hit.",
     "secondaryEffect": "Has an increased Critical Hit ratio",
     "secondaryRate": 0,
     "criticalRate": 0.125,
     "speedPriority": 0
   },
   {
-    "move": "Dual Wingbeat",
+    "name": "Dual Wingbeat",
     "type": "flying",
     "category": "physical",
     "powerPoints": 10,
@@ -1274,7 +1274,7 @@
     "speedPriority": 0
   },
   {
-    "move": "Earth Power",
+    "name": "Earth Power",
     "type": "ground",
     "category": "special",
     "powerPoints": 10,
@@ -1287,7 +1287,7 @@
     "speedPriority": 0
   },
   {
-    "move": "Earthquake",
+    "name": "Earthquake",
     "type": "ground",
     "category": "physical",
     "powerPoints": 10,
@@ -1300,20 +1300,20 @@
     "speedPriority": 0
   },
   {
-    "move": "Echoed Voice",
+    "name": "Echoed Voice",
     "type": "normal",
     "category": "special",
     "powerPoints": 15,
     "basePower": 40,
     "accuracy": 100,
-    "battleEffect": "The user attacks the target with an echoing voice. If this move is used consecutively by any Pokémon, its power is boosted.",
-    "secondaryEffect": "This move increases in power when used by y Pokémon on your side in the last turn. The increase is by 100%. If two Pokémon use it in Double or Triple Battles or it's used repeatedly, the second power is 80 and if a third Pokémon uses it, its Base Power is 160. If it's used a fourth time within the same two turns, it is capped at 200.",
+    "battleEffect": "The user attacks the target with an echoing voice. If this name is used consecutively by any Pokémon, its power is boosted.",
+    "secondaryEffect": "This name increases in power when used by y Pokémon on your side in the last turn. The increase is by 100%. If two Pokémon use it in Double or Triple Battles or it's used repeatedly, the second power is 80 and if a third Pokémon uses it, its Base Power is 160. If it's used a fourth time within the same two turns, it is capped at 200.",
     "secondaryRate": 0,
     "criticalRate": 0.0417,
     "speedPriority": 0
   },
   {
-    "move": "Eerie Impulse",
+    "name": "Eerie Impulse",
     "type": "electric",
     "category": "other",
     "powerPoints": 15,
@@ -1326,46 +1326,46 @@
     "speedPriority": 0
   },
   {
-    "move": "Electric Terrain",
+    "name": "Electric Terrain",
     "type": "electric",
     "category": "other",
     "powerPoints": 10,
     "basePower": 0,
     "accuracy": 101,
-    "battleEffect": "The user turns the ground into Electric Terrain for five turns, powering up Electric-type moves. Pokémon on the ground can no longer fall asleep.",
-    "secondaryEffect": "This move creates a terrain that helps Pokémon on the ground for 5 turns. It prevents the Pokémon from sleep and boosts the power of Electric-type moves on grounded Pokémon by 30%",
+    "battleEffect": "The user turns the ground into Electric Terrain for five turns, powering up Electric-type names. Pokémon on the ground can no longer fall asleep.",
+    "secondaryEffect": "This name creates a terrain that helps Pokémon on the ground for 5 turns. It prevents the Pokémon from sleep and boosts the power of Electric-type names on grounded Pokémon by 30%",
     "secondaryRate": 0,
     "criticalRate": 0,
     "speedPriority": 0
   },
   {
-    "move": "Electro Ball",
+    "name": "Electro Ball",
     "type": "electric",
     "category": "special",
     "powerPoints": 10,
     "basePower": 1,
     "accuracy": 100,
-    "battleEffect": "The user hurls an electric orb at the target. The faster the user is than the target, the greater the move's power.",
+    "battleEffect": "The user hurls an electric orb at the target. The faster the user is than the target, the greater the name's power.",
     "secondaryEffect": "Electro Ball is unique in that its power is determined based upon both the user's speed and the speed of the target. More damage is inflicted if the opponent is slower than the user. This isn't done via a specific calculation but has set amounts based upon the speed values.SpeedBase PowerTarget Speed > 50% of User60Target Speed > 33% of User80Target Speed > 25% of User120Target Speed < 25% of User150",
     "secondaryRate": 0,
     "criticalRate": 0.0417,
     "speedPriority": 0
   },
   {
-    "move": "Electro Drift",
+    "name": "Electro Drift",
     "type": "electric",
     "category": "special",
     "powerPoints": 5,
     "basePower": 100,
     "accuracy": 100,
-    "battleEffect": "The user races forward at ultrafast speeds, piercing its target with futuristic electricity. This move's power is boosted more than usual if it's a supereffective hit.",
-    "secondaryEffect": "Boosts damage by 50% if the move is Super Effective on the target",
+    "battleEffect": "The user races forward at ultrafast speeds, piercing its target with futuristic electricity. This name's power is boosted more than usual if it's a supereffective hit.",
+    "secondaryEffect": "Boosts damage by 50% if the name is Super Effective on the target",
     "secondaryRate": 0,
     "criticalRate": 0.0417,
     "speedPriority": 0
   },
   {
-    "move": "Ember",
+    "name": "Ember",
     "type": "fire",
     "category": "special",
     "powerPoints": 25,
@@ -1378,20 +1378,20 @@
     "speedPriority": 0
   },
   {
-    "move": "Encore",
+    "name": "Encore",
     "type": "normal",
     "category": "other",
     "powerPoints": 5,
     "basePower": 0,
     "accuracy": 100,
-    "battleEffect": "The user compels the target to keep using the move it encored for three turns.",
-    "secondaryEffect": "This move causes the target to use their last used move for their next three turns. It will fail if the target's move failed, it hasn't used a move since being sent out, or if the last move they used has 0PP. It will also fail if the target used Encore, Mimic, Mirror Move, Sketch, Struggle or Transform in their last turn.",
+    "battleEffect": "The user compels the target to keep using the name it encored for three turns.",
+    "secondaryEffect": "This name causes the target to use their last used name for their next three turns. It will fail if the target's name failed, it hasn't used a name since being sent out, or if the last name they used has 0PP. It will also fail if the target used Encore, Mimic, Mirror name, Sketch, Struggle or Transform in their last turn.",
     "secondaryRate": 0,
     "criticalRate": 0,
     "speedPriority": 0
   },
   {
-    "move": "Endeavor",
+    "name": "Endeavor",
     "type": "normal",
     "category": "physical",
     "powerPoints": 5,
@@ -1404,20 +1404,20 @@
     "speedPriority": 0
   },
   {
-    "move": "Endure",
+    "name": "Endure",
     "type": "normal",
     "category": "other",
     "powerPoints": 10,
     "basePower": 0,
     "accuracy": 101,
-    "battleEffect": "The user endures any attack with at least 1 HP. This move's chance of failing rises if used in succession.",
-    "secondaryEffect": "If used in succession with other protection moves, it has a 50% reduction in its success rate. Endure runs differently to the other moves. It doesn't prevent damage from attacks, but rather it prevents the Pokémon from fainting.When Endure is used and is successful, it will prevent the user from being knocked out by leaving the user with 1 Hit Point. This lasts the entire turn so it can receive multiple hits which end up doing no damage. This can be used with multiple strategies and moves including Reversal so that you can get your Hit Points down safely and then do massive damageSeveral items and abilities work in a similar manner to Endure; Sturdy leaves the user with 1 Hit Point if the user was to be knocked out when having full Hit Points. In a similar manner, the item Focus Sash works in an identical way. However, the other item; Focus Band will work regardless of Hit Points as it has a 10% chance of allowing the user to hold on from a move which would knock it out. Like the previous item, it'll leave it at 1 Hit Point.",
+    "battleEffect": "The user endures any attack with at least 1 HP. This name's chance of failing rises if used in succession.",
+    "secondaryEffect": "If used in succession with other protection names, it has a 50% reduction in its success rate. Endure runs differently to the other names. It doesn't prevent damage from attacks, but rather it prevents the Pokémon from fainting.When Endure is used and is successful, it will prevent the user from being knocked out by leaving the user with 1 Hit Point. This lasts the entire turn so it can receive multiple hits which end up doing no damage. This can be used with multiple strategies and names including Reversal so that you can get your Hit Points down safely and then do massive damageSeveral items and abilities work in a similar manner to Endure; Sturdy leaves the user with 1 Hit Point if the user was to be knocked out when having full Hit Points. In a similar manner, the item Focus Sash works in an identical way. However, the other item; Focus Band will work regardless of Hit Points as it has a 10% chance of allowing the user to hold on from a name which would knock it out. Like the previous item, it'll leave it at 1 Hit Point.",
     "secondaryRate": 0,
     "criticalRate": 0,
     "speedPriority": 4
   },
   {
-    "move": "Energy Ball",
+    "name": "Energy Ball",
     "type": "grass",
     "category": "special",
     "powerPoints": 10,
@@ -1430,46 +1430,46 @@
     "speedPriority": 0
   },
   {
-    "move": "Entrainment",
+    "name": "Entrainment",
     "type": "normal",
     "category": "other",
     "powerPoints": 15,
     "basePower": 0,
     "accuracy": 100,
     "battleEffect": "The user dances with an odd rhythm that compels the target to mimic it, making the target's Ability the same as the user's.",
-    "secondaryEffect": "This move changes the opponent's abiliy to that of the user of this move. Doesn't work against Pokémon with the Truant, Zen Mode or Multitype abilities.",
+    "secondaryEffect": "This name changes the opponent's abiliy to that of the user of this name. Doesn't work against Pokémon with the Truant, Zen Mode or Multitype abilities.",
     "secondaryRate": 0,
     "criticalRate": 0,
     "speedPriority": 0
   },
   {
-    "move": "Expanding Force",
+    "name": "Expanding Force",
     "type": "psychic",
     "category": "special",
     "powerPoints": 10,
     "basePower": 80,
     "accuracy": 100,
-    "battleEffect": "The user attacks the target with its psychic power. When the ground is Psychic Terrain, this move's power is boosted and it damages all opposing Pokémon.",
+    "battleEffect": "The user attacks the target with its psychic power. When the ground is Psychic Terrain, this name's power is boosted and it damages all opposing Pokémon.",
     "secondaryEffect": "Increases damage by 50% during Psychic-terrain.",
     "secondaryRate": 0,
     "criticalRate": 0.0417,
     "speedPriority": 0
   },
   {
-    "move": "Explosion",
+    "name": "Explosion",
     "type": "normal",
     "category": "physical",
     "powerPoints": 5,
     "basePower": 250,
     "accuracy": 100,
-    "battleEffect": "The user attacks everything around it by causing a tremendous explosion. The user faints upon using this move.",
+    "battleEffect": "The user attacks everything around it by causing a tremendous explosion. The user faints upon using this name.",
     "secondaryEffect": "User faints",
     "secondaryRate": 0,
     "criticalRate": 0.0417,
     "speedPriority": 0
   },
   {
-    "move": "Extrasensory",
+    "name": "Extrasensory",
     "type": "psychic",
     "category": "special",
     "powerPoints": 20,
@@ -1482,20 +1482,20 @@
     "speedPriority": 0
   },
   {
-    "move": "Facade",
+    "name": "Facade",
     "type": "normal",
     "category": "physical",
     "powerPoints": 20,
     "basePower": 70,
     "accuracy": 100,
-    "battleEffect": "This move's power is doubled if the user is poisoned, burned, or paralyzed.",
-    "secondaryEffect": "Move's power is doubled if afflicted with a Status Condition",
+    "battleEffect": "This name's power is doubled if the user is poisoned, burned, or paralyzed.",
+    "secondaryEffect": "name's power is doubled if afflicted with a Status Condition",
     "secondaryRate": 0,
     "criticalRate": 0.0417,
     "speedPriority": 0
   },
   {
-    "move": "Fairy Wind",
+    "name": "Fairy Wind",
     "type": "fairy",
     "category": "special",
     "powerPoints": 30,
@@ -1508,7 +1508,7 @@
     "speedPriority": 0
   },
   {
-    "move": "Fake Out",
+    "name": "Fake Out",
     "type": "normal",
     "category": "physical",
     "powerPoints": 10,
@@ -1521,7 +1521,7 @@
     "speedPriority": 3
   },
   {
-    "move": "Fake Tears",
+    "name": "Fake Tears",
     "type": "dark",
     "category": "other",
     "powerPoints": 20,
@@ -1534,7 +1534,7 @@
     "speedPriority": 0
   },
   {
-    "move": "False Swipe",
+    "name": "False Swipe",
     "type": "normal",
     "category": "physical",
     "powerPoints": 40,
@@ -1547,7 +1547,7 @@
     "speedPriority": 0
   },
   {
-    "move": "Feather Dance",
+    "name": "Feather Dance",
     "type": "flying",
     "category": "other",
     "powerPoints": 15,
@@ -1560,20 +1560,20 @@
     "speedPriority": 0
   },
   {
-    "move": "Feint",
+    "name": "Feint",
     "type": "normal",
     "category": "physical",
     "powerPoints": 10,
     "basePower": 30,
     "accuracy": 100,
-    "battleEffect": "This attack can hit a target using a move such as Protect or Detect. This also lifts the effects of those moves.",
-    "secondaryEffect": "Ignores & removes Protect & Detect",
+    "battleEffect": "This attack can hit a target using a name such as Protect or Detect. This also lifts the effects of those names.",
+    "secondaryEffect": "Ignores & renames Protect & Detect",
     "secondaryRate": 0,
     "criticalRate": 0.0417,
     "speedPriority": 2
   },
   {
-    "move": "Fiery Dance",
+    "name": "Fiery Dance",
     "type": "fire",
     "category": "special",
     "powerPoints": 10,
@@ -1586,7 +1586,7 @@
     "speedPriority": 0
   },
   {
-    "move": "Fillet Away",
+    "name": "Fillet Away",
     "type": "normal",
     "category": "physical",
     "powerPoints": 10,
@@ -1599,7 +1599,7 @@
     "speedPriority": 0
   },
   {
-    "move": "Final Gambit",
+    "name": "Final Gambit",
     "type": "fighting",
     "category": "special",
     "powerPoints": 5,
@@ -1612,7 +1612,7 @@
     "speedPriority": 0
   },
   {
-    "move": "Fire Blast",
+    "name": "Fire Blast",
     "type": "fire",
     "category": "special",
     "powerPoints": 5,
@@ -1625,7 +1625,7 @@
     "speedPriority": 0
   },
   {
-    "move": "Fire Fang",
+    "name": "Fire Fang",
     "type": "fire",
     "category": "physical",
     "powerPoints": 15,
@@ -1638,20 +1638,20 @@
     "speedPriority": 0
   },
   {
-    "move": "Fire Pledge",
+    "name": "Fire Pledge",
     "type": "fire",
     "category": "special",
     "powerPoints": 10,
     "basePower": 80,
     "accuracy": 100,
-    "battleEffect": "A column of fire hits the target. When used with its grass counterpart, this move's power is boosted and a vast sea of fire appears.",
-    "secondaryEffect": "This move, if used in Double/Triple Battles with Water Pledge, will create a rainbow which doubles the changes of moves having Seconday Effects for four turns. The power is increased to 150\nThis move, if used in Double/Triple Battles with Grass Pledge, will damage the opponents by 1/8th of their total Hit Points for four turns. If the opponents are of the Fire-Type, they don't receive damage.  The power is increased to 150",
+    "battleEffect": "A column of fire hits the target. When used with its grass counterpart, this name's power is boosted and a vast sea of fire appears.",
+    "secondaryEffect": "This name, if used in Double/Triple Battles with Water Pledge, will create a rainbow which doubles the changes of names having Seconday Effects for four turns. The power is increased to 150\nThis name, if used in Double/Triple Battles with Grass Pledge, will damage the opponents by 1/8th of their total Hit Points for four turns. If the opponents are of the Fire-Type, they don't receive damage.  The power is increased to 150",
     "secondaryRate": 0,
     "criticalRate": 0.0417,
     "speedPriority": 0
   },
   {
-    "move": "Fire Punch",
+    "name": "Fire Punch",
     "type": "fire",
     "category": "physical",
     "powerPoints": 15,
@@ -1664,7 +1664,7 @@
     "speedPriority": 0
   },
   {
-    "move": "Fire Spin",
+    "name": "Fire Spin",
     "type": "fire",
     "category": "special",
     "powerPoints": 15,
@@ -1677,20 +1677,20 @@
     "speedPriority": 0
   },
   {
-    "move": "First Impression",
+    "name": "First Impression",
     "type": "bug",
     "category": "physical",
     "powerPoints": 10,
     "basePower": 90,
     "accuracy": 100,
-    "battleEffect": "Although this move has great power, it works only on the first turn each time the user enters battle.",
+    "battleEffect": "Although this name has great power, it works only on the first turn each time the user enters battle.",
     "secondaryEffect": "Only works on first turn user is in battle",
     "secondaryRate": 0,
     "criticalRate": 0.0417,
     "speedPriority": 2
   },
   {
-    "move": "Fissure",
+    "name": "Fissure",
     "type": "ground",
     "category": "physical",
     "powerPoints": 5,
@@ -1703,20 +1703,20 @@
     "speedPriority": 0
   },
   {
-    "move": "Flail",
+    "name": "Flail",
     "type": "normal",
     "category": "physical",
     "powerPoints": 15,
     "basePower": 1,
     "accuracy": 100,
-    "battleEffect": "The user flails about aimlessly to attack. The less HP the user has, the greater the move's power.",
+    "battleEffect": "The user flails about aimlessly to attack. The less HP the user has, the greater the name's power.",
     "secondaryEffect": "Inflicts more damage when the user's HP is down.",
     "secondaryRate": 0,
     "criticalRate": 0.0417,
     "speedPriority": 0
   },
   {
-    "move": "Flame Charge",
+    "name": "Flame Charge",
     "type": "fire",
     "category": "physical",
     "powerPoints": 20,
@@ -1729,7 +1729,7 @@
     "speedPriority": 0
   },
   {
-    "move": "Flame Wheel",
+    "name": "Flame Wheel",
     "type": "fire",
     "category": "physical",
     "powerPoints": 25,
@@ -1742,7 +1742,7 @@
     "speedPriority": 0
   },
   {
-    "move": "Flamethrower",
+    "name": "Flamethrower",
     "type": "fire",
     "category": "special",
     "powerPoints": 15,
@@ -1755,7 +1755,7 @@
     "speedPriority": 0
   },
   {
-    "move": "Flare Blitz",
+    "name": "Flare Blitz",
     "type": "fire",
     "category": "physical",
     "powerPoints": 15,
@@ -1768,7 +1768,7 @@
     "speedPriority": 0
   },
   {
-    "move": "Flash Cannon",
+    "name": "Flash Cannon",
     "type": "steel",
     "category": "special",
     "powerPoints": 10,
@@ -1781,7 +1781,7 @@
     "speedPriority": 0
   },
   {
-    "move": "Flatter",
+    "name": "Flatter",
     "type": "dark",
     "category": "other",
     "powerPoints": 15,
@@ -1794,20 +1794,20 @@
     "speedPriority": 0
   },
   {
-    "move": "Fling",
+    "name": "Fling",
     "type": "dark",
     "category": "physical",
     "powerPoints": 10,
     "basePower": 1,
     "accuracy": 100,
-    "battleEffect": "The user flings its held item at the target to attack. This move's power and effects depend on the item.",
+    "battleEffect": "The user flings its held item at the target to attack. This name's power and effects depend on the item.",
     "secondaryEffect": "Item's power and effects change based on the user's hold item. User no longer has the hold item.",
     "secondaryRate": 0,
     "criticalRate": 0.0417,
     "speedPriority": 0
   },
   {
-    "move": "Flip Turn",
+    "name": "Flip Turn",
     "type": "water",
     "category": "physical",
     "powerPoints": 20,
@@ -1820,7 +1820,7 @@
     "speedPriority": 0
   },
   {
-    "move": "Flower Trick",
+    "name": "Flower Trick",
     "type": "grass",
     "category": "other",
     "powerPoints": 10,
@@ -1833,7 +1833,7 @@
     "speedPriority": 0
   },
   {
-    "move": "Fly",
+    "name": "Fly",
     "type": "flying",
     "category": "physical",
     "powerPoints": 15,
@@ -1846,7 +1846,7 @@
     "speedPriority": 0
   },
   {
-    "move": "Focus Blast",
+    "name": "Focus Blast",
     "type": "fighting",
     "category": "special",
     "powerPoints": 5,
@@ -1859,7 +1859,7 @@
     "speedPriority": 0
   },
   {
-    "move": "Focus Energy",
+    "name": "Focus Energy",
     "type": "normal",
     "category": "other",
     "powerPoints": 30,
@@ -1872,20 +1872,20 @@
     "speedPriority": 0
   },
   {
-    "move": "Focus Punch",
+    "name": "Focus Punch",
     "type": "fighting",
     "category": "physical",
     "powerPoints": 20,
     "basePower": 150,
     "accuracy": 100,
-    "battleEffect": "The user focuses its mind before launching a punch. This move fails if the user is hit before using the move.",
-    "secondaryEffect": "Moves first in turn to charge, and last in the same turn to Attack. If damaged between this, the user flinches.",
+    "battleEffect": "The user focuses its mind before launching a punch. This name fails if the user is hit before using the name.",
+    "secondaryEffect": "names first in turn to charge, and last in the same turn to Attack. If damaged between this, the user flinches.",
     "secondaryRate": 0,
     "criticalRate": 0.0417,
     "speedPriority": -3
   },
   {
-    "move": "Follow Me",
+    "name": "Follow Me",
     "type": "normal",
     "category": "other",
     "powerPoints": 20,
@@ -1898,7 +1898,7 @@
     "speedPriority": 2
   },
   {
-    "move": "Force Palm",
+    "name": "Force Palm",
     "type": "fighting",
     "category": "physical",
     "powerPoints": 10,
@@ -1911,111 +1911,111 @@
     "speedPriority": 0
   },
   {
-    "move": "Foul Play",
+    "name": "Foul Play",
     "type": "dark",
     "category": "physical",
     "powerPoints": 15,
     "basePower": 95,
     "accuracy": 100,
-    "battleEffect": "The user turns the target's strength against it. The higher the target's Attack stat, the greater the damage this move inflicts.",
-    "secondaryEffect": "This move utilises the opponent's current Attack stat into the calculation of this move. This takes status conditions and stat boosts/drops into consideration but does not include any boost from the opponent's ability.",
+    "battleEffect": "The user turns the target's strength against it. The higher the target's Attack stat, the greater the damage this name inflicts.",
+    "secondaryEffect": "This name utilises the opponent's current Attack stat into the calculation of this name. This takes status conditions and stat boosts/drops into consideration but does not include any boost from the opponent's ability.",
     "secondaryRate": 0,
     "criticalRate": 0.0417,
     "speedPriority": 0
   },
   {
-    "move": "Freeze-Dry",
+    "name": "Freeze-Dry",
     "type": "ice",
     "category": "special",
     "powerPoints": 20,
     "basePower": 70,
     "accuracy": 100,
-    "battleEffect": "The user rapidly cools the target. This may also leave the target frozen. This move is super effective on Water types.",
+    "battleEffect": "The user rapidly cools the target. This may also leave the target frozen. This name is super effective on Water types.",
     "secondaryEffect": "Will always have a Super Effective hit on Water-type Pokemon",
     "secondaryRate": 0.1,
     "criticalRate": 0.0417,
     "speedPriority": 0
   },
   {
-    "move": "Frenzy Plant",
+    "name": "Frenzy Plant",
     "type": "grass",
     "category": "special",
     "powerPoints": 5,
     "basePower": 150,
     "accuracy": 90,
-    "battleEffect": "The user slams the target with the roots of an enormous tree. The user can't move on the next turn.",
+    "battleEffect": "The user slams the target with the roots of an enormous tree. The user can't name on the next turn.",
     "secondaryEffect": "User cannot Attack on the next turn.",
     "secondaryRate": 0,
     "criticalRate": 0.0417,
     "speedPriority": 0
   },
   {
-    "move": "Fury Attack",
+    "name": "Fury Attack",
     "type": "normal",
     "category": "physical",
     "powerPoints": 20,
     "basePower": 15,
     "accuracy": 85,
-    "battleEffect": "The user attacks by jabbing the target with a horn, a beak, or the like. This move hits two to five times in a row.",
+    "battleEffect": "The user attacks by jabbing the target with a horn, a beak, or the like. This name hits two to five times in a row.",
     "secondaryEffect": "Attacks 2-5 times in a row. 37.5% chance of 2 hits. 37.5% chance of 3 hits. 12.5% chance of 4 hits. 12.5% chance of 5 hits",
     "secondaryRate": 0,
     "criticalRate": 0.0417,
     "speedPriority": 0
   },
   {
-    "move": "Fury Cutter",
+    "name": "Fury Cutter",
     "type": "bug",
     "category": "physical",
     "powerPoints": 20,
     "basePower": 40,
     "accuracy": 95,
     "battleEffect": "The user attacks by slashing the target with scythes, claws, or the like. This attack becomes more powerful if it hits in succession.",
-    "secondaryEffect": "Move's power raises next turn if the move is successful.",
+    "secondaryEffect": "name's power raises next turn if the name is successful.",
     "secondaryRate": 0,
     "criticalRate": 0.0417,
     "speedPriority": 0
   },
   {
-    "move": "Fury Swipes",
+    "name": "Fury Swipes",
     "type": "normal",
     "category": "physical",
     "powerPoints": 15,
     "basePower": 18,
     "accuracy": 80,
-    "battleEffect": "The user attacks by raking the target with claws, scythes, or the like. This move hits two to five times in a row.",
+    "battleEffect": "The user attacks by raking the target with claws, scythes, or the like. This name hits two to five times in a row.",
     "secondaryEffect": "Attacks 2-5 times in a row. 37.5% chance of 2 hits. 37.5% chance of 3 hits. 12.5% chance of 4 hits. 12.5% chance of 5 hits",
     "secondaryRate": 0,
     "criticalRate": 0.0417,
     "speedPriority": 0
   },
   {
-    "move": "Future Sight",
+    "name": "Future Sight",
     "type": "psychic",
     "category": "special",
     "powerPoints": 10,
     "basePower": 120,
     "accuracy": 100,
-    "battleEffect": "Two turns after this move is used, a hunk of psychic energy attacks the target.",
-    "secondaryEffect": "This move causes damage to the opponent two turns after it is used. The damage given cannot critical hit without external influence. It bypasses any Protection (Protect, Endure etc.) of the opponent on the turn it damages and if the opponent switches out, it hits the new Pokémon",
+    "battleEffect": "Two turns after this name is used, a hunk of psychic energy attacks the target.",
+    "secondaryEffect": "This name causes damage to the opponent two turns after it is used. The damage given cannot critical hit without external influence. It bypasses any Protection (Protect, Endure etc.) of the opponent on the turn it damages and if the opponent switches out, it hits the new Pokémon",
     "secondaryRate": 0,
     "criticalRate": 0.0417,
     "speedPriority": 0
   },
   {
-    "move": "Gastro Acid",
+    "name": "Gastro Acid",
     "type": "poison",
     "category": "other",
     "powerPoints": 10,
     "basePower": 0,
     "accuracy": 100,
     "battleEffect": "The user hurls up its stomach acids on the target. The fluid eliminates the effect of the target's Ability.",
-    "secondaryEffect": "Removes the target's ability",
+    "secondaryEffect": "Renames the target's ability",
     "secondaryRate": 0,
     "criticalRate": 0,
     "speedPriority": 0
   },
   {
-    "move": "Giga Drain",
+    "name": "Giga Drain",
     "type": "grass",
     "category": "special",
     "powerPoints": 10,
@@ -2028,46 +2028,46 @@
     "speedPriority": 0
   },
   {
-    "move": "Giga Impact",
+    "name": "Giga Impact",
     "type": "normal",
     "category": "physical",
     "powerPoints": 5,
     "basePower": 150,
     "accuracy": 90,
-    "battleEffect": "The user charges at the target using every bit of its power. The user can't move on the next turn.",
+    "battleEffect": "The user charges at the target using every bit of its power. The user can't name on the next turn.",
     "secondaryEffect": "User cannot Attack on the next turn.",
     "secondaryRate": 0,
     "criticalRate": 0.0417,
     "speedPriority": 0
   },
   {
-    "move": "Gigaton Hammer",
+    "name": "Gigaton Hammer",
     "type": "steel",
     "category": "physical",
     "powerPoints": 5,
     "basePower": 160,
     "accuracy": 100,
-    "battleEffect": "The user swings its whole body around to attack with its huge hammer. This move can't be used twice in a row.",
+    "battleEffect": "The user swings its whole body around to attack with its huge hammer. This name can't be used twice in a row.",
     "secondaryEffect": "No effect.",
     "secondaryRate": 0,
     "criticalRate": 0.0417,
     "speedPriority": 0
   },
   {
-    "move": "Glaive Rush",
+    "name": "Glaive Rush",
     "type": "dragon",
     "category": "physical",
     "powerPoints": 5,
     "basePower": 120,
     "accuracy": 100,
     "battleEffect": "The user throws its entire body into a reckless charge. Attacks from opposing Pokémon during the next turn cannot miss and will inflict double damage.",
-    "secondaryEffect": "Makes target's moves not miss and inflict double damage during the next turn",
+    "secondaryEffect": "Makes target's names not miss and inflict double damage during the next turn",
     "secondaryRate": 0,
     "criticalRate": 0.0417,
     "speedPriority": 0
   },
   {
-    "move": "Glare",
+    "name": "Glare",
     "type": "normal",
     "category": "other",
     "powerPoints": 30,
@@ -2080,59 +2080,59 @@
     "speedPriority": 0
   },
   {
-    "move": "Grass Knot",
+    "name": "Grass Knot",
     "type": "grass",
     "category": "special",
     "powerPoints": 20,
     "basePower": 1,
     "accuracy": 100,
-    "battleEffect": "The user snares the target with grass and trips it. The heavier the target, the greater the move's power.",
+    "battleEffect": "The user snares the target with grass and trips it. The heavier the target, the greater the name's power.",
     "secondaryEffect": "This attack's power is based on your target's weight. This alone determines how strong, or how weak the attack is going to be. With as little as 20 Base Power, it can go as high as 120, making it a very powerful attack if used against the right team. Below is the set up of how it is calculatedWeightBase PowerUnder 10kgUnder 22lbs2010.1kg - 25kg22.1lbs - 55lbs4025.1kg - 50kg55.1lbs - 110lbs6050.1kg - 100kg110.1lbs - 220lbs80100.1kg - 200kg220.1lbs - 440lbs100Over 200kgOver 440lbs120",
     "secondaryRate": 0,
     "criticalRate": 0.0417,
     "speedPriority": 0
   },
   {
-    "move": "Grass Pledge",
+    "name": "Grass Pledge",
     "type": "grass",
     "category": "special",
     "powerPoints": 10,
     "basePower": 80,
     "accuracy": 100,
-    "battleEffect": "A column of grass hits the target. When used with its water counterpart, this move's power is boosted and a vast swamp appears.",
-    "secondaryEffect": "This move, if used in Double/Triple Battles with Water Pledge, will create a marsh which reduces the speed of all opponents by 75% for four turns.  The power is increased to 150\nThis move, if used in Double/Triple Battles with Fire Pledge, will damage the opponents by 1/8th of their total Hit Points for four turns. If the opponents are of the Fire-Type, they don't receive damage.  The power is increased to 150",
+    "battleEffect": "A column of grass hits the target. When used with its water counterpart, this name's power is boosted and a vast swamp appears.",
+    "secondaryEffect": "This name, if used in Double/Triple Battles with Water Pledge, will create a marsh which reduces the speed of all opponents by 75% for four turns.  The power is increased to 150\nThis name, if used in Double/Triple Battles with Fire Pledge, will damage the opponents by 1/8th of their total Hit Points for four turns. If the opponents are of the Fire-Type, they don't receive damage.  The power is increased to 150",
     "secondaryRate": 0,
     "criticalRate": 0.0417,
     "speedPriority": 0
   },
   {
-    "move": "Grassy Terrain",
+    "name": "Grassy Terrain",
     "type": "grass",
     "category": "other",
     "powerPoints": 10,
     "basePower": 0,
     "accuracy": 101,
-    "battleEffect": "The user turns the ground into Grassy Terrain for five turns. This restores the HP of Pokémon on the ground a little every turn and powers up Grass-type moves.",
-    "secondaryEffect": "This move creates a terrain that helps Pokémon on the ground for 5 turns. It increases their Hit Points by 1/16th per turn and increases Grass-type move power by 30%",
+    "battleEffect": "The user turns the ground into Grassy Terrain for five turns. This restores the HP of Pokémon on the ground a little every turn and powers up Grass-type names.",
+    "secondaryEffect": "This name creates a terrain that helps Pokémon on the ground for 5 turns. It increases their Hit Points by 1/16th per turn and increases Grass-type name power by 30%",
     "secondaryRate": 0,
     "criticalRate": 0,
     "speedPriority": 0
   },
   {
-    "move": "Gravity",
+    "name": "Gravity",
     "type": "psychic",
     "category": "other",
     "powerPoints": 5,
     "basePower": 0,
     "accuracy": 101,
-    "battleEffect": "Enables Flying types or Pokémon with the Levitate Ability to be hit by Ground-type moves for five turns. Moves that involve flying can't be used.",
-    "secondaryEffect": "Removes Ground-type resistance. Prevents certain moves from being used. Lowers all Pokémon's Evasion two stages",
+    "battleEffect": "Enables Flying types or Pokémon with the Levitate Ability to be hit by Ground-type names for five turns. names that involve flying can't be used.",
+    "secondaryEffect": "Renames Ground-type resistance. Prevents certain names from being used. Lowers all Pokémon's Evasion two stages",
     "secondaryRate": 0,
     "criticalRate": 0,
     "speedPriority": 0
   },
   {
-    "move": "Growl",
+    "name": "Growl",
     "type": "normal",
     "category": "other",
     "powerPoints": 40,
@@ -2145,20 +2145,20 @@
     "speedPriority": 0
   },
   {
-    "move": "Growth",
+    "name": "Growth",
     "type": "normal",
     "category": "other",
     "powerPoints": 20,
     "basePower": 0,
     "accuracy": 101,
     "battleEffect": "The user's body grows all at once, boosting the Attack and Sp. Atk stats.",
-    "secondaryEffect": "This move increases Attack & Special Attack one stage in standard weather. However, if Sunny Day or Drought has been used and Growth is then used, the Pokémon's Attack & Special Attack is increased by two stages",
+    "secondaryEffect": "This name increases Attack & Special Attack one stage in standard weather. However, if Sunny Day or Drought has been used and Growth is then used, the Pokémon's Attack & Special Attack is increased by two stages",
     "secondaryRate": 0,
     "criticalRate": 0,
     "speedPriority": 0
   },
   {
-    "move": "Guard Swap",
+    "name": "Guard Swap",
     "type": "psychic",
     "category": "other",
     "powerPoints": 10,
@@ -2171,7 +2171,7 @@
     "speedPriority": 0
   },
   {
-    "move": "Guillotine",
+    "name": "Guillotine",
     "type": "normal",
     "category": "physical",
     "powerPoints": 5,
@@ -2184,7 +2184,7 @@
     "speedPriority": 0
   },
   {
-    "move": "Gunk Shot",
+    "name": "Gunk Shot",
     "type": "poison",
     "category": "physical",
     "powerPoints": 5,
@@ -2197,7 +2197,7 @@
     "speedPriority": 0
   },
   {
-    "move": "Gust",
+    "name": "Gust",
     "type": "flying",
     "category": "special",
     "powerPoints": 35,
@@ -2210,20 +2210,20 @@
     "speedPriority": 0
   },
   {
-    "move": "Gyro Ball",
+    "name": "Gyro Ball",
     "type": "steel",
     "category": "physical",
     "powerPoints": 5,
     "basePower": 1,
     "accuracy": 100,
-    "battleEffect": "The user tackles the target with a high-speed spin. The slower the user is than the target, the greater the move's power.",
+    "battleEffect": "The user tackles the target with a high-speed spin. The slower the user is than the target, the greater the name's power.",
     "secondaryEffect": "This attack's Base Power is anything from 1 up to 150 making it a very powerful attack to be used. However, this is completely dependant on your Pokémon's Speed as well as the Speed of your target. First, the user & targets speeds are claculated. Their Speed Stat is taken into account as well as other effects such as previous attack effects that my have raised or lowered speed, whether the Pokémon is Paralyzed and whether or not it is holding an item that lowers Speed such as the Power Items used to train EVs or an Iron ball.With these statistics now calculated, a simple equation is made to determine the base power of the attackBase Power = FLOOR((25 * TargetSpeed / UserSpeed) + 1)With this equation, it is very easy to see that if the user has a considerably lower speed, due to being a slow Pokémon or just being unlucky and having had loads of attacks that have lowered speed used on it as well as being Paralyzed and holding an Iron Ball, it will do considerable damage. However, even if the Base Power calculation obtains an amount that is greater than 150, you will never have more than that.",
     "secondaryRate": 0,
     "criticalRate": 0.0417,
     "speedPriority": 0
   },
   {
-    "move": "Hammer Arm",
+    "name": "Hammer Arm",
     "type": "fighting",
     "category": "physical",
     "powerPoints": 10,
@@ -2236,7 +2236,7 @@
     "speedPriority": 0
   },
   {
-    "move": "Harden",
+    "name": "Harden",
     "type": "normal",
     "category": "other",
     "powerPoints": 30,
@@ -2249,7 +2249,7 @@
     "speedPriority": 0
   },
   {
-    "move": "Haze",
+    "name": "Haze",
     "type": "ice",
     "category": "other",
     "powerPoints": 30,
@@ -2262,7 +2262,7 @@
     "speedPriority": 0
   },
   {
-    "move": "Head Smash",
+    "name": "Head Smash",
     "type": "rock",
     "category": "physical",
     "powerPoints": 5,
@@ -2275,7 +2275,7 @@
     "speedPriority": 0
   },
   {
-    "move": "Headbutt",
+    "name": "Headbutt",
     "type": "normal",
     "category": "physical",
     "powerPoints": 15,
@@ -2288,7 +2288,7 @@
     "speedPriority": 0
   },
   {
-    "move": "Headlong Rush",
+    "name": "Headlong Rush",
     "type": "ground",
     "category": "physical",
     "powerPoints": 5,
@@ -2301,7 +2301,7 @@
     "speedPriority": 0
   },
   {
-    "move": "Heat Wave",
+    "name": "Heat Wave",
     "type": "fire",
     "category": "special",
     "powerPoints": 10,
@@ -2314,20 +2314,20 @@
     "speedPriority": 0
   },
   {
-    "move": "Heavy Slam",
+    "name": "Heavy Slam",
     "type": "steel",
     "category": "physical",
     "powerPoints": 10,
     "basePower": 1,
     "accuracy": 100,
-    "battleEffect": "The user slams into the target with its heavy body. The more the user outweighs the target, the greater the move's power.",
+    "battleEffect": "The user slams into the target with its heavy body. The more the user outweighs the target, the greater the name's power.",
     "secondaryEffect": "Increases damage based on the weight of the user and opponent",
     "secondaryRate": 0,
     "criticalRate": 0.0417,
     "speedPriority": 0
   },
   {
-    "move": "Helping Hand",
+    "name": "Helping Hand",
     "type": "normal",
     "category": "other",
     "powerPoints": 20,
@@ -2340,7 +2340,7 @@
     "speedPriority": 5
   },
   {
-    "move": "Hex",
+    "name": "Hex",
     "type": "ghost",
     "category": "special",
     "powerPoints": 10,
@@ -2353,7 +2353,7 @@
     "speedPriority": 0
   },
   {
-    "move": "High Horsepower",
+    "name": "High Horsepower",
     "type": "ground",
     "category": "physical",
     "powerPoints": 10,
@@ -2366,7 +2366,7 @@
     "speedPriority": 0
   },
   {
-    "move": "Hone Claws",
+    "name": "Hone Claws",
     "type": "dark",
     "category": "other",
     "powerPoints": 15,
@@ -2379,7 +2379,7 @@
     "speedPriority": 0
   },
   {
-    "move": "Horn Attack",
+    "name": "Horn Attack",
     "type": "normal",
     "category": "physical",
     "powerPoints": 25,
@@ -2392,7 +2392,7 @@
     "speedPriority": 0
   },
   {
-    "move": "Howl",
+    "name": "Howl",
     "type": "normal",
     "category": "other",
     "powerPoints": 40,
@@ -2405,33 +2405,33 @@
     "speedPriority": 0
   },
   {
-    "move": "Hurricane",
+    "name": "Hurricane",
     "type": "flying",
     "category": "special",
     "powerPoints": 10,
     "basePower": 110,
     "accuracy": 70,
     "battleEffect": "The user attacks by wrapping the target in a fierce wind. This may also confuse the target.",
-    "secondaryEffect": "This move has different accuracies depending upon the weather. In Rain, it has an accuracy of 100%. In Sunshine, it has an accuracy of 50%. In all other weather states, it has an accuracy of 70%. It can do damage to Pokémon that are in the Process of using Fly, Sky Drop or Bounce",
+    "secondaryEffect": "This name has different accuracies depending upon the weather. In Rain, it has an accuracy of 100%. In Sunshine, it has an accuracy of 50%. In all other weather states, it has an accuracy of 70%. It can do damage to Pokémon that are in the Process of using Fly, Sky Drop or Bounce",
     "secondaryRate": 0.3,
     "criticalRate": 0.0417,
     "speedPriority": 0
   },
   {
-    "move": "Hydro Cannon",
+    "name": "Hydro Cannon",
     "type": "water",
     "category": "special",
     "powerPoints": 5,
     "basePower": 150,
     "accuracy": 90,
-    "battleEffect": "The target is hit with a watery blast. The user can't move on the next turn.",
+    "battleEffect": "The target is hit with a watery blast. The user can't name on the next turn.",
     "secondaryEffect": "User cannot Attack on the next turn.",
     "secondaryRate": 0,
     "criticalRate": 0.0417,
     "speedPriority": 0
   },
   {
-    "move": "Hydro Pump",
+    "name": "Hydro Pump",
     "type": "water",
     "category": "special",
     "powerPoints": 5,
@@ -2444,33 +2444,33 @@
     "speedPriority": 0
   },
   {
-    "move": "Hyper Beam",
+    "name": "Hyper Beam",
     "type": "normal",
     "category": "special",
     "powerPoints": 5,
     "basePower": 150,
     "accuracy": 90,
-    "battleEffect": "The target is attacked with a powerful beam. The user can't move on the next turn.",
+    "battleEffect": "The target is attacked with a powerful beam. The user can't name on the next turn.",
     "secondaryEffect": "User cannot Attack on the next turn.",
     "secondaryRate": 0,
     "criticalRate": 0.0417,
     "speedPriority": 0
   },
   {
-    "move": "Hyper Drill",
+    "name": "Hyper Drill",
     "type": "normal",
     "category": "physical",
     "powerPoints": 5,
     "basePower": 100,
     "accuracy": 100,
-    "battleEffect": "The user spins the pointed part of its body at high speed to pierce the target. This attack can hit a target using a move such as Protect or Detect.",
+    "battleEffect": "The user spins the pointed part of its body at high speed to pierce the target. This attack can hit a target using a name such as Protect or Detect.",
     "secondaryEffect": "No effect.",
     "secondaryRate": 0,
     "criticalRate": 0.0417,
     "speedPriority": 0
   },
   {
-    "move": "Hyper Voice",
+    "name": "Hyper Voice",
     "type": "normal",
     "category": "special",
     "powerPoints": 10,
@@ -2483,7 +2483,7 @@
     "speedPriority": 0
   },
   {
-    "move": "Hypnosis",
+    "name": "Hypnosis",
     "type": "psychic",
     "category": "other",
     "powerPoints": 20,
@@ -2496,7 +2496,7 @@
     "speedPriority": 0
   },
   {
-    "move": "Ice Beam",
+    "name": "Ice Beam",
     "type": "ice",
     "category": "special",
     "powerPoints": 10,
@@ -2509,7 +2509,7 @@
     "speedPriority": 0
   },
   {
-    "move": "Ice Fang",
+    "name": "Ice Fang",
     "type": "ice",
     "category": "physical",
     "powerPoints": 15,
@@ -2522,7 +2522,7 @@
     "speedPriority": 0
   },
   {
-    "move": "Ice Hammer",
+    "name": "Ice Hammer",
     "type": "ice",
     "category": "physical",
     "powerPoints": 10,
@@ -2535,7 +2535,7 @@
     "speedPriority": 0
   },
   {
-    "move": "Ice Punch",
+    "name": "Ice Punch",
     "type": "ice",
     "category": "physical",
     "powerPoints": 15,
@@ -2548,33 +2548,33 @@
     "speedPriority": 0
   },
   {
-    "move": "Ice Shard",
+    "name": "Ice Shard",
     "type": "ice",
     "category": "physical",
     "powerPoints": 30,
     "basePower": 40,
     "accuracy": 100,
-    "battleEffect": "The user flash-freezes chunks of ice and hurls them at the target. This move always goes first.",
+    "battleEffect": "The user flash-freezes chunks of ice and hurls them at the target. This name always goes first.",
     "secondaryEffect": "Has increased Speed Priority",
     "secondaryRate": 0,
     "criticalRate": 0.0417,
     "speedPriority": 1
   },
   {
-    "move": "Ice Spinner",
+    "name": "Ice Spinner",
     "type": "ice",
     "category": "physical",
     "powerPoints": 15,
     "basePower": 80,
     "accuracy": 100,
-    "battleEffect": "The user covers its feet in thin ice and twirls around, slamming into the target. This move's spinning motion also destroys the terrain.",
+    "battleEffect": "The user covers its feet in thin ice and twirls around, slamming into the target. This name's spinning motion also destroys the terrain.",
     "secondaryEffect": "Destroys Terrains",
     "secondaryRate": 0,
     "criticalRate": 0.0417,
     "speedPriority": 0
   },
   {
-    "move": "Icicle Crash",
+    "name": "Icicle Crash",
     "type": "ice",
     "category": "physical",
     "powerPoints": 10,
@@ -2587,20 +2587,20 @@
     "speedPriority": 0
   },
   {
-    "move": "Icicle Spear",
+    "name": "Icicle Spear",
     "type": "ice",
     "category": "physical",
     "powerPoints": 30,
     "basePower": 25,
     "accuracy": 100,
-    "battleEffect": "The user attacks by launching sharp icicles at the target. This move hits two to five times in a row.",
+    "battleEffect": "The user attacks by launching sharp icicles at the target. This name hits two to five times in a row.",
     "secondaryEffect": "Attacks 2-5 times in a row. 37.5% chance of 2 hits. 37.5% chance of 3 hits. 12.5% chance of 4 hits. 12.5% chance of 5 hits",
     "secondaryRate": 0,
     "criticalRate": 0.0417,
     "speedPriority": 0
   },
   {
-    "move": "Icy Wind",
+    "name": "Icy Wind",
     "type": "ice",
     "category": "special",
     "powerPoints": 15,
@@ -2613,33 +2613,33 @@
     "speedPriority": 0
   },
   {
-    "move": "Imprison",
+    "name": "Imprison",
     "type": "psychic",
     "category": "other",
     "powerPoints": 10,
     "basePower": 0,
     "accuracy": 101,
-    "battleEffect": "If opposing Pokémon know any move also known by the user, they are prevented from using it.",
-    "secondaryEffect": "Opponent cannot use any move that user knows.",
+    "battleEffect": "If opposing Pokémon know any name also known by the user, they are prevented from using it.",
+    "secondaryEffect": "Opponent cannot use any name that user knows.",
     "secondaryRate": 0,
     "criticalRate": 0,
     "speedPriority": 0
   },
   {
-    "move": "Incinerate",
+    "name": "Incinerate",
     "type": "fire",
     "category": "special",
     "powerPoints": 15,
     "basePower": 60,
     "accuracy": 100,
     "battleEffect": "The user attacks opposing Pokémon with fire. If a Pokémon is holding a certain item, such as a Berry, the item becomes burned up and unusable.",
-    "secondaryEffect": "Removes opponent's hold berry.",
+    "secondaryEffect": "Renames opponent's hold berry.",
     "secondaryRate": 0,
     "criticalRate": 0.0417,
     "speedPriority": 0
   },
   {
-    "move": "Inferno",
+    "name": "Inferno",
     "type": "fire",
     "category": "special",
     "powerPoints": 5,
@@ -2652,7 +2652,7 @@
     "speedPriority": 0
   },
   {
-    "move": "Infestation",
+    "name": "Infestation",
     "type": "bug",
     "category": "special",
     "powerPoints": 20,
@@ -2665,7 +2665,7 @@
     "speedPriority": 0
   },
   {
-    "move": "Ingrain",
+    "name": "Ingrain",
     "type": "grass",
     "category": "other",
     "powerPoints": 20,
@@ -2678,7 +2678,7 @@
     "speedPriority": 0
   },
   {
-    "move": "Iron Defense",
+    "name": "Iron Defense",
     "type": "steel",
     "category": "other",
     "powerPoints": 15,
@@ -2691,7 +2691,7 @@
     "speedPriority": 0
   },
   {
-    "move": "Iron Head",
+    "name": "Iron Head",
     "type": "steel",
     "category": "physical",
     "powerPoints": 15,
@@ -2704,7 +2704,7 @@
     "speedPriority": 0
   },
   {
-    "move": "Iron Tail",
+    "name": "Iron Tail",
     "type": "steel",
     "category": "physical",
     "powerPoints": 15,
@@ -2717,46 +2717,46 @@
     "speedPriority": 0
   },
   {
-    "move": "Jaw Lock",
+    "name": "Jaw Lock",
     "type": "dark",
     "category": "physical",
     "powerPoints": 10,
     "basePower": 80,
     "accuracy": 100,
-    "battleEffect": "This move prevents the user and the target from switching out until either of them faints. The effect goes away if either of the Pokémon leaves the field.",
+    "battleEffect": "This name prevents the user and the target from switching out until either of them faints. The effect goes away if either of the Pokémon leaves the field.",
     "secondaryEffect": "Prevents both the user and the target from escaping",
     "secondaryRate": 0,
     "criticalRate": 0.0417,
     "speedPriority": 0
   },
   {
-    "move": "Jet Punch",
+    "name": "Jet Punch",
     "type": "water",
     "category": "physical",
     "powerPoints": 15,
     "basePower": 60,
     "accuracy": 100,
-    "battleEffect": "The user summons a torrent around its fist and punches at blinding speed. This move always goes first.",
+    "battleEffect": "The user summons a torrent around its fist and punches at blinding speed. This name always goes first.",
     "secondaryEffect": "No effect.",
     "secondaryRate": 0,
     "criticalRate": 0.0417,
     "speedPriority": 1
   },
   {
-    "move": "Knock Off",
+    "name": "Knock Off",
     "type": "dark",
     "category": "physical",
     "powerPoints": 20,
     "basePower": 65,
     "accuracy": 100,
-    "battleEffect": "The user slaps down the target's held item, making it unusable for that battle. This move does more damage if the target has a held item.",
-    "secondaryEffect": "If the target of this move is holding an item, then the target will lose the item and the power of the move is increased by 50%.  The item cannot be recovered with RecycleIf the Pokémon is holding an item that cannot be removed, such as Giratina with the Griseous Orb, Arceus holding any of its plates or a Pokémon who is holding a Mega Stone needed for it to Mega Evolve, then the move will not do extra damage and they will not lose the hold item. If the user is knocked out from recoil caused by the opponent's hold item or ability, then the opponent will keep the hold item. If the target has got the Sticky Hold ability, the damage will be increased, but the opponent will not lose the hold item.",
+    "battleEffect": "The user slaps down the target's held item, making it unusable for that battle. This name does more damage if the target has a held item.",
+    "secondaryEffect": "If the target of this name is holding an item, then the target will lose the item and the power of the name is increased by 50%.  The item cannot be recovered with RecycleIf the Pokémon is holding an item that cannot be renamed, such as Giratina with the Griseous Orb, Arceus holding any of its plates or a Pokémon who is holding a Mega Stone needed for it to Mega Evolve, then the name will not do extra damage and they will not lose the hold item. If the user is knocked out from recoil caused by the opponent's hold item or ability, then the opponent will keep the hold item. If the target has got the Sticky Hold ability, the damage will be increased, but the opponent will not lose the hold item.",
     "secondaryRate": 0,
     "criticalRate": 0.0417,
     "speedPriority": 0
   },
   {
-    "move": "Kowtow Cleave",
+    "name": "Kowtow Cleave",
     "type": "dark",
     "category": "physical",
     "powerPoints": 10,
@@ -2769,33 +2769,33 @@
     "speedPriority": 0
   },
   {
-    "move": "Last Resort",
+    "name": "Last Resort",
     "type": "normal",
     "category": "physical",
     "powerPoints": 5,
     "basePower": 140,
     "accuracy": 100,
-    "battleEffect": "This move can be used only after the user has used all the other moves it knows in the battle.",
+    "battleEffect": "This name can be used only after the user has used all the other names it knows in the battle.",
     "secondaryEffect": "No effect.",
     "secondaryRate": 0,
     "criticalRate": 0.0417,
     "speedPriority": 0
   },
   {
-    "move": "Last Respects",
+    "name": "Last Respects",
     "type": "ghost",
     "category": "physical",
     "powerPoints": 10,
     "basePower": 50,
     "accuracy": 100,
-    "battleEffect": "The user attacks to avenge its allies. The more defeated allies there are in the user's party, the greater the move's power.",
+    "battleEffect": "The user attacks to avenge its allies. The more defeated allies there are in the user's party, the greater the name's power.",
     "secondaryEffect": "This attack will increase its base power based on the amount of Pokémon that are fainted in your party. For each Pokémon fainted, it increases by 50 base power.",
     "secondaryRate": 0,
     "criticalRate": 0.0417,
     "speedPriority": 0
   },
   {
-    "move": "Lava Plume",
+    "name": "Lava Plume",
     "type": "fire",
     "category": "special",
     "powerPoints": 15,
@@ -2808,33 +2808,33 @@
     "speedPriority": 0
   },
   {
-    "move": "Leaf Blade",
+    "name": "Leaf Blade",
     "type": "grass",
     "category": "physical",
     "powerPoints": 15,
     "basePower": 90,
     "accuracy": 100,
-    "battleEffect": "The user handles a sharp leaf like a sword and cuts the target to inflict damage. This move has a heightened chance of landing a critical hit.",
+    "battleEffect": "The user handles a sharp leaf like a sword and cuts the target to inflict damage. This name has a heightened chance of landing a critical hit.",
     "secondaryEffect": "Has an increased Critical Hit ratio",
     "secondaryRate": 0,
     "criticalRate": 0.125,
     "speedPriority": 0
   },
   {
-    "move": "Leaf Storm",
+    "name": "Leaf Storm",
     "type": "grass",
     "category": "special",
     "powerPoints": 5,
     "basePower": 130,
     "accuracy": 90,
-    "battleEffect": "The user whips up a storm of leaves around the target. The recoil from this move harshly lowers the user's Sp. Atk stat.",
+    "battleEffect": "The user whips up a storm of leaves around the target. The recoil from this name harshly lowers the user's Sp. Atk stat.",
     "secondaryEffect": "Lowers user's Special Attack two stages.",
     "secondaryRate": 0,
     "criticalRate": 0.0417,
     "speedPriority": 0
   },
   {
-    "move": "Leafage",
+    "name": "Leafage",
     "type": "grass",
     "category": "physical",
     "powerPoints": 40,
@@ -2847,7 +2847,7 @@
     "speedPriority": 0
   },
   {
-    "move": "Leech Life",
+    "name": "Leech Life",
     "type": "bug",
     "category": "physical",
     "powerPoints": 10,
@@ -2860,7 +2860,7 @@
     "speedPriority": 0
   },
   {
-    "move": "Leech Seed",
+    "name": "Leech Seed",
     "type": "grass",
     "category": "other",
     "powerPoints": 10,
@@ -2873,7 +2873,7 @@
     "speedPriority": 0
   },
   {
-    "move": "Leer",
+    "name": "Leer",
     "type": "normal",
     "category": "other",
     "powerPoints": 30,
@@ -2886,7 +2886,7 @@
     "speedPriority": 0
   },
   {
-    "move": "Lick",
+    "name": "Lick",
     "type": "ghost",
     "category": "physical",
     "powerPoints": 30,
@@ -2899,20 +2899,20 @@
     "speedPriority": 0
   },
   {
-    "move": "Light Screen",
+    "name": "Light Screen",
     "type": "psychic",
     "category": "other",
     "powerPoints": 30,
     "basePower": 0,
     "accuracy": 101,
-    "battleEffect": "A wondrous wall of light is put up to reduce damage from special moves for five turns.",
+    "battleEffect": "A wondrous wall of light is put up to reduce damage from special names for five turns.",
     "secondaryEffect": "Halves Special Attack damage inflicted on the user's side of the field",
     "secondaryRate": 0,
     "criticalRate": 0,
     "speedPriority": 0
   },
   {
-    "move": "Liquidation",
+    "name": "Liquidation",
     "type": "water",
     "category": "physical",
     "powerPoints": 10,
@@ -2925,20 +2925,20 @@
     "speedPriority": 0
   },
   {
-    "move": "Low Kick",
+    "name": "Low Kick",
     "type": "fighting",
     "category": "physical",
     "powerPoints": 20,
     "basePower": 1,
     "accuracy": 100,
-    "battleEffect": "A powerful low kick that makes the target fall over. The heavier the target, the greater the move's power.",
+    "battleEffect": "A powerful low kick that makes the target fall over. The heavier the target, the greater the name's power.",
     "secondaryEffect": "This attack's power is based on your target's weight. This alone determines how strong, or how weak the attack is going to be. With as little as 20 Base Power, it can go as high as 120, making it a very powerful attack if used against the right team.",
     "secondaryRate": 0,
     "criticalRate": 0.0417,
     "speedPriority": 0
   },
   {
-    "move": "Low Sweep",
+    "name": "Low Sweep",
     "type": "fighting",
     "category": "physical",
     "powerPoints": 20,
@@ -2951,7 +2951,7 @@
     "speedPriority": 0
   },
   {
-    "move": "Lumina Crash",
+    "name": "Lumina Crash",
     "type": "psychic",
     "category": "special",
     "powerPoints": 10,
@@ -2964,7 +2964,7 @@
     "speedPriority": 0
   },
   {
-    "move": "Lunge",
+    "name": "Lunge",
     "type": "bug",
     "category": "physical",
     "powerPoints": 15,
@@ -2977,20 +2977,20 @@
     "speedPriority": 0
   },
   {
-    "move": "Mach Punch",
+    "name": "Mach Punch",
     "type": "fighting",
     "category": "physical",
     "powerPoints": 30,
     "basePower": 40,
     "accuracy": 100,
-    "battleEffect": "The user throws a punch at blinding speed. This move always goes first.",
+    "battleEffect": "The user throws a punch at blinding speed. This name always goes first.",
     "secondaryEffect": "Has increased Speed Priority",
     "secondaryRate": 0,
     "criticalRate": 0.0417,
     "speedPriority": 1
   },
   {
-    "move": "Magical Leaf",
+    "name": "Magical Leaf",
     "type": "grass",
     "category": "special",
     "powerPoints": 20,
@@ -3003,7 +3003,7 @@
     "speedPriority": 0
   },
   {
-    "move": "Magnet Rise",
+    "name": "Magnet Rise",
     "type": "electric",
     "category": "other",
     "powerPoints": 10,
@@ -3016,7 +3016,7 @@
     "speedPriority": 0
   },
   {
-    "move": "Magnetic Flux",
+    "name": "Magnetic Flux",
     "type": "electric",
     "category": "other",
     "powerPoints": 20,
@@ -3029,7 +3029,7 @@
     "speedPriority": 0
   },
   {
-    "move": "Make It Rain",
+    "name": "Make It Rain",
     "type": "steel",
     "category": "special",
     "powerPoints": 5,
@@ -3042,7 +3042,7 @@
     "speedPriority": 0
   },
   {
-    "move": "Mean Look",
+    "name": "Mean Look",
     "type": "normal",
     "category": "other",
     "powerPoints": 5,
@@ -3055,7 +3055,7 @@
     "speedPriority": 0
   },
   {
-    "move": "Mega Drain",
+    "name": "Mega Drain",
     "type": "grass",
     "category": "special",
     "powerPoints": 15,
@@ -3068,7 +3068,7 @@
     "speedPriority": 0
   },
   {
-    "move": "Mega Kick",
+    "name": "Mega Kick",
     "type": "normal",
     "category": "physical",
     "powerPoints": 5,
@@ -3081,7 +3081,7 @@
     "speedPriority": 0
   },
   {
-    "move": "Megahorn",
+    "name": "Megahorn",
     "type": "bug",
     "category": "physical",
     "powerPoints": 10,
@@ -3094,7 +3094,7 @@
     "speedPriority": 0
   },
   {
-    "move": "Memento",
+    "name": "Memento",
     "type": "dark",
     "category": "other",
     "powerPoints": 10,
@@ -3107,7 +3107,7 @@
     "speedPriority": 0
   },
   {
-    "move": "Metal Burst",
+    "name": "Metal Burst",
     "type": "steel",
     "category": "physical",
     "powerPoints": 10,
@@ -3120,7 +3120,7 @@
     "speedPriority": 0
   },
   {
-    "move": "Metal Claw",
+    "name": "Metal Claw",
     "type": "steel",
     "category": "physical",
     "powerPoints": 35,
@@ -3133,7 +3133,7 @@
     "speedPriority": 0
   },
   {
-    "move": "Metal Sound",
+    "name": "Metal Sound",
     "type": "steel",
     "category": "other",
     "powerPoints": 40,
@@ -3146,46 +3146,46 @@
     "speedPriority": 0
   },
   {
-    "move": "Metronome",
+    "name": "Metronome",
     "type": "normal",
     "category": "other",
     "powerPoints": 10,
     "basePower": 0,
     "accuracy": 101,
-    "battleEffect": "The user waggles a finger and stimulates its brain into randomly using nearly any move.",
-    "secondaryEffect": "This move selects and uses a random move. However, it cannot use the moves; Assist, Chatter, Copycat, Counter, Covet, Destiny Bond, Detect, Endure, Feint, Focus Punch, Follow Me, Helping Hand, Me First, Metronome, Mimic, Mirror Coat, Mirror Move, Protect, Quick Guard, Sketch, Sleep Talk, Snatch, Struggle, Switcheroo, Thief, Trick, or Wide Guard",
+    "battleEffect": "The user waggles a finger and stimulates its brain into randomly using nearly any name.",
+    "secondaryEffect": "This name selects and uses a random name. However, it cannot use the names; Assist, Chatter, Copycat, Counter, Covet, Destiny Bond, Detect, Endure, Feint, Focus Punch, Follow Me, Helping Hand, Me First, Metronome, Mimic, Mirror Coat, Mirror name, Protect, Quick Guard, Sketch, Sleep Talk, Snatch, Struggle, Switcheroo, Thief, Trick, or Wide Guard",
     "secondaryRate": 0,
     "criticalRate": 0,
     "speedPriority": 0
   },
   {
-    "move": "Mimic",
+    "name": "Mimic",
     "type": "normal",
     "category": "other",
     "powerPoints": 10,
     "basePower": 0,
     "accuracy": 101,
-    "battleEffect": "The user copies the move last used by the target. The copied move can be used until the user of Mimic leaves the battle.",
-    "secondaryEffect": "Copies opponents last move.",
+    "battleEffect": "The user copies the name last used by the target. The copied name can be used until the user of Mimic leaves the battle.",
+    "secondaryEffect": "Copies opponents last name.",
     "secondaryRate": 0,
     "criticalRate": 0,
     "speedPriority": 0
   },
   {
-    "move": "Mirror Coat",
+    "name": "Mirror Coat",
     "type": "psychic",
     "category": "special",
     "powerPoints": 20,
     "basePower": 1,
     "accuracy": 100,
-    "battleEffect": "A retaliatory attack that counters any special move, inflicting double the damage taken.",
+    "battleEffect": "A retaliatory attack that counters any special name, inflicting double the damage taken.",
     "secondaryEffect": "Counters the foe's special Attack at double the power.",
     "secondaryRate": 0,
     "criticalRate": 0.0417,
     "speedPriority": -5
   },
   {
-    "move": "Mist",
+    "name": "Mist",
     "type": "ice",
     "category": "other",
     "powerPoints": 30,
@@ -3198,20 +3198,20 @@
     "speedPriority": 0
   },
   {
-    "move": "Misty Terrain",
+    "name": "Misty Terrain",
     "type": "fairy",
     "category": "other",
     "powerPoints": 10,
     "basePower": 0,
     "accuracy": 101,
-    "battleEffect": "This protects Pokémon on the ground from status conditions and halves damage from Dragon-type moves for five turns.",
-    "secondaryEffect": "This move creates a terrain that helps Pokémon on the ground for 5 turns. It protects the Pokémon from status afflictions and halves the power of Dragon-type moves for Pokémon on the ground",
+    "battleEffect": "This protects Pokémon on the ground from status conditions and halves damage from Dragon-type names for five turns.",
+    "secondaryEffect": "This name creates a terrain that helps Pokémon on the ground for 5 turns. It protects the Pokémon from status afflictions and halves the power of Dragon-type names for Pokémon on the ground",
     "secondaryRate": 0,
     "criticalRate": 0,
     "speedPriority": 0
   },
   {
-    "move": "Moonblast",
+    "name": "Moonblast",
     "type": "fairy",
     "category": "special",
     "powerPoints": 15,
@@ -3224,33 +3224,33 @@
     "speedPriority": 0
   },
   {
-    "move": "Morning Sun",
+    "name": "Morning Sun",
     "type": "normal",
     "category": "other",
     "powerPoints": 5,
     "basePower": 0,
     "accuracy": 101,
     "battleEffect": "The user restores its own HP. The amount of HP regained varies with the weather.",
-    "secondaryEffect": "This move recovers its HP depending upon the weather. If no weather is in effect, it heals the user by 50% of their maximum Hit Points. If Sunny Day is in effect, this move heals the user by 66.66% of its maximum Hit Points and if Rain Dance, Hail or Sandstorm is in effect, this move heals the user by 25% of their maximum Hit Points",
+    "secondaryEffect": "This name recovers its HP depending upon the weather. If no weather is in effect, it heals the user by 50% of their maximum Hit Points. If Sunny Day is in effect, this name heals the user by 66.66% of its maximum Hit Points and if Rain Dance, Hail or Sandstorm is in effect, this name heals the user by 25% of their maximum Hit Points",
     "secondaryRate": 0,
     "criticalRate": 0,
     "speedPriority": 0
   },
   {
-    "move": "Mortal Spin",
+    "name": "Mortal Spin",
     "type": "poison",
     "category": "physical",
     "powerPoints": 15,
     "basePower": 30,
     "accuracy": 100,
-    "battleEffect": "The user performs a spin attack that can also eliminate the effects of such moves as Bind, Wrap, and Leech Seed. This also poisons opposing Pokémon.",
+    "battleEffect": "The user performs a spin attack that can also eliminate the effects of such names as Bind, Wrap, and Leech Seed. This also poisons opposing Pokémon.",
     "secondaryEffect": "Poisons the opponent",
     "secondaryRate": 1,
     "criticalRate": 0.0417,
     "speedPriority": 0
   },
   {
-    "move": "Mud Shot",
+    "name": "Mud Shot",
     "type": "ground",
     "category": "special",
     "powerPoints": 15,
@@ -3263,7 +3263,7 @@
     "speedPriority": 0
   },
   {
-    "move": "Muddy Water",
+    "name": "Muddy Water",
     "type": "water",
     "category": "special",
     "powerPoints": 10,
@@ -3276,7 +3276,7 @@
     "speedPriority": 0
   },
   {
-    "move": "Mud-Slap",
+    "name": "Mud-Slap",
     "type": "ground",
     "category": "special",
     "powerPoints": 10,
@@ -3289,7 +3289,7 @@
     "speedPriority": 0
   },
   {
-    "move": "Mystical Fire",
+    "name": "Mystical Fire",
     "type": "fire",
     "category": "special",
     "powerPoints": 10,
@@ -3302,7 +3302,7 @@
     "speedPriority": 0
   },
   {
-    "move": "Nasty Plot",
+    "name": "Nasty Plot",
     "type": "dark",
     "category": "other",
     "powerPoints": 20,
@@ -3315,7 +3315,7 @@
     "speedPriority": 0
   },
   {
-    "move": "Night Shade",
+    "name": "Night Shade",
     "type": "ghost",
     "category": "special",
     "powerPoints": 15,
@@ -3328,20 +3328,20 @@
     "speedPriority": 0
   },
   {
-    "move": "Night Slash",
+    "name": "Night Slash",
     "type": "dark",
     "category": "physical",
     "powerPoints": 15,
     "basePower": 70,
     "accuracy": 100,
-    "battleEffect": "The user slashes the target the instant an opportunity arises. This move has a heightened chance of landing a critical hit.",
+    "battleEffect": "The user slashes the target the instant an opportunity arises. This name has a heightened chance of landing a critical hit.",
     "secondaryEffect": "Has an increased Critical Hit ratio",
     "secondaryRate": 0,
     "criticalRate": 0.125,
     "speedPriority": 0
   },
   {
-    "move": "Noble Roar",
+    "name": "Noble Roar",
     "type": "normal",
     "category": "other",
     "powerPoints": 30,
@@ -3354,7 +3354,7 @@
     "speedPriority": 0
   },
   {
-    "move": "Nuzzle",
+    "name": "Nuzzle",
     "type": "electric",
     "category": "physical",
     "powerPoints": 20,
@@ -3367,20 +3367,20 @@
     "speedPriority": 0
   },
   {
-    "move": "Order Up",
+    "name": "Order Up",
     "type": "dragon",
     "category": "physical",
     "powerPoints": 10,
     "basePower": 80,
     "accuracy": 100,
-    "battleEffect": "The user attacks with elegant poise. If the user has a Tatsugiri in its mouth, this move boosts one of the user's stats based on the Tatsugiri's form.",
-    "secondaryEffect": "This move's effect changes depending on the Tatsugiri that has entered Dondozo's mouth.\nIf Curly Form, then the user's Attack raises by one stage\nIf Droopy Form, then user's Defense raises by one stage\nIf Stretchy Form, then user's Speed raises by one stage.",
+    "battleEffect": "The user attacks with elegant poise. If the user has a Tatsugiri in its mouth, this name boosts one of the user's stats based on the Tatsugiri's form.",
+    "secondaryEffect": "This name's effect changes depending on the Tatsugiri that has entered Dondozo's mouth.\nIf Curly Form, then the user's Attack raises by one stage\nIf Droopy Form, then user's Defense raises by one stage\nIf Stretchy Form, then user's Speed raises by one stage.",
     "secondaryRate": 0,
     "criticalRate": 0.0417,
     "speedPriority": 0
   },
   {
-    "move": "Outrage",
+    "name": "Outrage",
     "type": "dragon",
     "category": "physical",
     "powerPoints": 10,
@@ -3393,20 +3393,20 @@
     "speedPriority": 0
   },
   {
-    "move": "Overheat",
+    "name": "Overheat",
     "type": "fire",
     "category": "special",
     "powerPoints": 5,
     "basePower": 130,
     "accuracy": 90,
-    "battleEffect": "The user attacks the target with all its might. The recoil from this move harshly lowers the user's Sp. Atk stat.",
+    "battleEffect": "The user attacks the target with all its might. The recoil from this name harshly lowers the user's Sp. Atk stat.",
     "secondaryEffect": "Lowers user's Special Attack two stages.",
     "secondaryRate": 0,
     "criticalRate": 0.0417,
     "speedPriority": 0
   },
   {
-    "move": "Pain Split",
+    "name": "Pain Split",
     "type": "normal",
     "category": "other",
     "powerPoints": 20,
@@ -3419,7 +3419,7 @@
     "speedPriority": 0
   },
   {
-    "move": "Parabolic Charge",
+    "name": "Parabolic Charge",
     "type": "electric",
     "category": "special",
     "powerPoints": 20,
@@ -3432,7 +3432,7 @@
     "speedPriority": 0
   },
   {
-    "move": "Parting Shot",
+    "name": "Parting Shot",
     "type": "dark",
     "category": "other",
     "powerPoints": 20,
@@ -3445,20 +3445,20 @@
     "speedPriority": 0
   },
   {
-    "move": "Payback",
+    "name": "Payback",
     "type": "dark",
     "category": "physical",
     "powerPoints": 10,
     "basePower": 50,
     "accuracy": 100,
-    "battleEffect": "The user stores power, then attacks. This move's power is doubled if the user moves after the target.",
-    "secondaryEffect": "Doubles damage if user moves after target",
+    "battleEffect": "The user stores power, then attacks. This name's power is doubled if the user names after the target.",
+    "secondaryEffect": "Doubles damage if user names after target",
     "secondaryRate": 0,
     "criticalRate": 0.0417,
     "speedPriority": 0
   },
   {
-    "move": "Peck",
+    "name": "Peck",
     "type": "flying",
     "category": "physical",
     "powerPoints": 35,
@@ -3471,7 +3471,7 @@
     "speedPriority": 0
   },
   {
-    "move": "Perish Song",
+    "name": "Perish Song",
     "type": "normal",
     "category": "other",
     "powerPoints": 5,
@@ -3484,7 +3484,7 @@
     "speedPriority": 0
   },
   {
-    "move": "Petal Blizzard",
+    "name": "Petal Blizzard",
     "type": "grass",
     "category": "physical",
     "powerPoints": 15,
@@ -3497,7 +3497,7 @@
     "speedPriority": 0
   },
   {
-    "move": "Petal Dance",
+    "name": "Petal Dance",
     "type": "grass",
     "category": "special",
     "powerPoints": 10,
@@ -3510,33 +3510,33 @@
     "speedPriority": 0
   },
   {
-    "move": "Phantom Force",
+    "name": "Phantom Force",
     "type": "ghost",
     "category": "physical",
     "powerPoints": 10,
     "basePower": 90,
     "accuracy": 100,
-    "battleEffect": "The user vanishes somewhere, then strikes the target on the next turn. This move hits even if the target protects itself.",
+    "battleEffect": "The user vanishes somewhere, then strikes the target on the next turn. This name hits even if the target protects itself.",
     "secondaryEffect": "The user is protected the first turn, Attacks the second turn. Hits through Protect",
     "secondaryRate": 0,
     "criticalRate": 0.0417,
     "speedPriority": 0
   },
   {
-    "move": "Pin Missile",
+    "name": "Pin Missile",
     "type": "bug",
     "category": "physical",
     "powerPoints": 20,
     "basePower": 25,
     "accuracy": 95,
-    "battleEffect": "The user attacks by shooting sharp spikes at the target. This move hits two to five times in a row.",
+    "battleEffect": "The user attacks by shooting sharp spikes at the target. This name hits two to five times in a row.",
     "secondaryEffect": "Attacks 2-5 times in a row. 37.5% chance of 2 hits. 37.5% chance of 3 hits. 12.5% chance of 4 hits. 12.5% chance of 5 hits",
     "secondaryRate": 0,
     "criticalRate": 0.0417,
     "speedPriority": 0
   },
   {
-    "move": "Play Rough",
+    "name": "Play Rough",
     "type": "fairy",
     "category": "physical",
     "powerPoints": 10,
@@ -3549,20 +3549,20 @@
     "speedPriority": 0
   },
   {
-    "move": "Pluck",
+    "name": "Pluck",
     "type": "flying",
     "category": "physical",
     "powerPoints": 20,
     "basePower": 60,
     "accuracy": 100,
     "battleEffect": "The user attacks by pecking the target. If the target is holding a Berry, the user eats it and gains its effect.",
-    "secondaryEffect": "Removes target's Berry and uses its effect",
+    "secondaryEffect": "Renames target's Berry and uses its effect",
     "secondaryRate": 0,
     "criticalRate": 0.0417,
     "speedPriority": 0
   },
   {
-    "move": "Poison Fang",
+    "name": "Poison Fang",
     "type": "poison",
     "category": "physical",
     "powerPoints": 15,
@@ -3575,7 +3575,7 @@
     "speedPriority": 0
   },
   {
-    "move": "Poison Gas",
+    "name": "Poison Gas",
     "type": "poison",
     "category": "other",
     "powerPoints": 40,
@@ -3588,7 +3588,7 @@
     "speedPriority": 0
   },
   {
-    "move": "Poison Jab",
+    "name": "Poison Jab",
     "type": "poison",
     "category": "physical",
     "powerPoints": 20,
@@ -3601,7 +3601,7 @@
     "speedPriority": 0
   },
   {
-    "move": "Poison Powder",
+    "name": "Poison Powder",
     "type": "poison",
     "category": "other",
     "powerPoints": 35,
@@ -3614,7 +3614,7 @@
     "speedPriority": 0
   },
   {
-    "move": "Poison Sting",
+    "name": "Poison Sting",
     "type": "poison",
     "category": "physical",
     "powerPoints": 35,
@@ -3627,20 +3627,20 @@
     "speedPriority": 0
   },
   {
-    "move": "Poison Tail",
+    "name": "Poison Tail",
     "type": "poison",
     "category": "physical",
     "powerPoints": 25,
     "basePower": 50,
     "accuracy": 100,
-    "battleEffect": "The user hits the target with its tail. This move has a heightened chance of landing a critical hit and may also poison the target.",
+    "battleEffect": "The user hits the target with its tail. This name has a heightened chance of landing a critical hit and may also poison the target.",
     "secondaryEffect": "Has high critical hit ratio. May induce poison.",
     "secondaryRate": 0.1,
     "criticalRate": 0.125,
     "speedPriority": 0
   },
   {
-    "move": "Pollen Puff",
+    "name": "Pollen Puff",
     "type": "bug",
     "category": "special",
     "powerPoints": 15,
@@ -3653,7 +3653,7 @@
     "speedPriority": 0
   },
   {
-    "move": "Population Bomb",
+    "name": "Population Bomb",
     "type": "normal",
     "category": "physical",
     "powerPoints": 10,
@@ -3666,7 +3666,7 @@
     "speedPriority": 0
   },
   {
-    "move": "Pounce",
+    "name": "Pounce",
     "type": "bug",
     "category": "physical",
     "powerPoints": 20,
@@ -3679,7 +3679,7 @@
     "speedPriority": 0
   },
   {
-    "move": "Powder Snow",
+    "name": "Powder Snow",
     "type": "ice",
     "category": "special",
     "powerPoints": 25,
@@ -3692,7 +3692,7 @@
     "speedPriority": 0
   },
   {
-    "move": "Power Gem",
+    "name": "Power Gem",
     "type": "rock",
     "category": "special",
     "powerPoints": 20,
@@ -3705,7 +3705,7 @@
     "speedPriority": 0
   },
   {
-    "move": "Power Swap",
+    "name": "Power Swap",
     "type": "psychic",
     "category": "other",
     "powerPoints": 10,
@@ -3718,20 +3718,20 @@
     "speedPriority": 0
   },
   {
-    "move": "Power Trip",
+    "name": "Power Trip",
     "type": "dark",
     "category": "physical",
     "powerPoints": 10,
     "basePower": 20,
     "accuracy": 100,
-    "battleEffect": "The user boasts its strength and attacks the target. The more the user's stats are boosted, the greater the move's power.",
+    "battleEffect": "The user boasts its strength and attacks the target. The more the user's stats are boosted, the greater the name's power.",
     "secondaryEffect": "Increases damage by 100% for each stage a stat has been increased by the user",
     "secondaryRate": 0,
     "criticalRate": 0.0417,
     "speedPriority": 0
   },
   {
-    "move": "Power Whip",
+    "name": "Power Whip",
     "type": "grass",
     "category": "physical",
     "powerPoints": 10,
@@ -3744,33 +3744,33 @@
     "speedPriority": 0
   },
   {
-    "move": "Present",
+    "name": "Present",
     "type": "normal",
     "category": "physical",
     "powerPoints": 15,
     "basePower": 1,
     "accuracy": 90,
     "battleEffect": "The user attacks by giving the target a gift with a hidden trap. The gift restores HP sometimes, however.",
-    "secondaryEffect": "This move has got four different possibilities for outcomes\n40% - Base Power of 40\n30% - Base Power of 80\n20% - Heal 25% of target's max HP\n10% - Base Power of 120.",
+    "secondaryEffect": "This name has got four different possibilities for outcomes\n40% - Base Power of 40\n30% - Base Power of 80\n20% - Heal 25% of target's max HP\n10% - Base Power of 120.",
     "secondaryRate": 0,
     "criticalRate": 0.0417,
     "speedPriority": 0
   },
   {
-    "move": "Protect",
+    "name": "Protect",
     "type": "normal",
     "category": "other",
     "powerPoints": 10,
     "basePower": 0,
     "accuracy": 101,
-    "battleEffect": "This move enables the user to protect itself from all attacks. Its chance of failing rises if it is used in succession.",
-    "secondaryEffect": "If used in succession with other protection moves, its success rate is cut to 33% of what it was, working cumulatively the more it's used. This will prevent damage and effects of almost all possible attacks that would be inflicted upon the user.There are a few moves and abilities which do break through this move The following moves are also unaffected by Protect & Detect: Doom Desire (delayed damage only), Future Sight (delayed damage only), Feint, Hyperspace Fury, Hyperspace Hole, Imprison, Perish Song, Phantom Force, Psych Up, Shadow Force, Transform",
+    "battleEffect": "This name enables the user to protect itself from all attacks. Its chance of failing rises if it is used in succession.",
+    "secondaryEffect": "If used in succession with other protection names, its success rate is cut to 33% of what it was, working cumulatively the more it's used. This will prevent damage and effects of almost all possible attacks that would be inflicted upon the user.There are a few names and abilities which do break through this name The following names are also unaffected by Protect & Detect: Doom Desire (delayed damage only), Future Sight (delayed damage only), Feint, Hyperspace Fury, Hyperspace Hole, Imprison, Perish Song, Phantom Force, Psych Up, Shadow Force, Transform",
     "secondaryRate": 0,
     "criticalRate": 0,
     "speedPriority": 4
   },
   {
-    "move": "Psybeam",
+    "name": "Psybeam",
     "type": "psychic",
     "category": "special",
     "powerPoints": 20,
@@ -3783,7 +3783,7 @@
     "speedPriority": 0
   },
   {
-    "move": "Psychic",
+    "name": "Psychic",
     "type": "psychic",
     "category": "special",
     "powerPoints": 10,
@@ -3796,111 +3796,111 @@
     "speedPriority": 0
   },
   {
-    "move": "Psychic Fangs",
+    "name": "Psychic Fangs",
     "type": "psychic",
     "category": "physical",
     "powerPoints": 10,
     "basePower": 85,
     "accuracy": 100,
-    "battleEffect": "The user attacks by biting the target with its psychic capabilities. This move can also break barriers, such as Light Screen and Reflect.",
-    "secondaryEffect": "This move will remove any Reflect, Light Screen, Aurora Veil or that is in play on the opponent's team.",
+    "battleEffect": "The user attacks by biting the target with its psychic capabilities. This name can also break barriers, such as Light Screen and Reflect.",
+    "secondaryEffect": "This name will rename any Reflect, Light Screen, Aurora Veil or that is in play on the opponent's team.",
     "secondaryRate": 0,
     "criticalRate": 0.0417,
     "speedPriority": 0
   },
   {
-    "move": "Psychic Terrain",
+    "name": "Psychic Terrain",
     "type": "psychic",
     "category": "other",
     "powerPoints": 10,
     "basePower": 0,
     "accuracy": 101,
-    "battleEffect": "This protects Pokémon on the ground from priority moves and powers up Psychic-type moves for five turns.",
-    "secondaryEffect": "This move creates a terrain that helps Pokémon on the ground for 5 turns. It prevents all Pokémon on the ground from using attacks or being targeted by attacks with increased priority from opposing Pokémon, and boosts the power of Psychic-type moves on grounded Pokémon by 30%",
+    "battleEffect": "This protects Pokémon on the ground from priority names and powers up Psychic-type names for five turns.",
+    "secondaryEffect": "This name creates a terrain that helps Pokémon on the ground for 5 turns. It prevents all Pokémon on the ground from using attacks or being targeted by attacks with increased priority from opposing Pokémon, and boosts the power of Psychic-type names on grounded Pokémon by 30%",
     "secondaryRate": 0,
     "criticalRate": 0,
     "speedPriority": 0
   },
   {
-    "move": "Psycho Cut",
+    "name": "Psycho Cut",
     "type": "psychic",
     "category": "physical",
     "powerPoints": 20,
     "basePower": 70,
     "accuracy": 100,
-    "battleEffect": "The user tears at the target with blades formed by psychic power. This move has a heightened chance of landing a critical hit.",
+    "battleEffect": "The user tears at the target with blades formed by psychic power. This name has a heightened chance of landing a critical hit.",
     "secondaryEffect": "Has an increased Critical Hit ratio",
     "secondaryRate": 0,
     "criticalRate": 0.125,
     "speedPriority": 0
   },
   {
-    "move": "Psyshock",
+    "name": "Psyshock",
     "type": "psychic",
     "category": "special",
     "powerPoints": 10,
     "basePower": 80,
     "accuracy": 100,
-    "battleEffect": "The user materializes an odd psychic wave to attack the target. This move deals physical damage.",
+    "battleEffect": "The user materializes an odd psychic wave to attack the target. This name deals physical damage.",
     "secondaryEffect": "Inflicts physical damage",
     "secondaryRate": 0,
     "criticalRate": 0.0417,
     "speedPriority": 0
   },
   {
-    "move": "Quash",
+    "name": "Quash",
     "type": "dark",
     "category": "other",
     "powerPoints": 15,
     "basePower": 0,
     "accuracy": 100,
-    "battleEffect": "The user suppresses the target and makes its move go last.",
-    "secondaryEffect": "Target Pokémon moves last in the turn",
+    "battleEffect": "The user suppresses the target and makes its name go last.",
+    "secondaryEffect": "Target Pokémon names last in the turn",
     "secondaryRate": 0,
     "criticalRate": 0,
     "speedPriority": 0
   },
   {
-    "move": "Quick Attack",
+    "name": "Quick Attack",
     "type": "normal",
     "category": "physical",
     "powerPoints": 30,
     "basePower": 40,
     "accuracy": 100,
-    "battleEffect": "The user lunges at the target to inflict damage, moving at blinding speed. This move always goes first.",
+    "battleEffect": "The user lunges at the target to inflict damage, moving at blinding speed. This name always goes first.",
     "secondaryEffect": "Has increased Speed Priority",
     "secondaryRate": 0,
     "criticalRate": 0.0417,
     "speedPriority": 1
   },
   {
-    "move": "Quick Guard",
+    "name": "Quick Guard",
     "type": "fighting",
     "category": "other",
     "powerPoints": 15,
     "basePower": 0,
     "accuracy": 101,
-    "battleEffect": "The user protects itself and its allies from priority moves.",
-    "secondaryEffect": "Unlike Protect, which works on all moves, Quick Guard prevents all effects from moves with a heightened Speed Priority. In addition to that, it also protects all the player's Pokémon on the field rather than just the user.However, even though it blocks all moves with a Speed Priority of 1 or higher. In addition to that, the move Feint will hit through this move, as it does with Protect and Detect.",
+    "battleEffect": "The user protects itself and its allies from priority names.",
+    "secondaryEffect": "Unlike Protect, which works on all names, Quick Guard prevents all effects from names with a heightened Speed Priority. In addition to that, it also protects all the player's Pokémon on the field rather than just the user.However, even though it blocks all names with a Speed Priority of 1 or higher. In addition to that, the name Feint will hit through this name, as it does with Protect and Detect.",
     "secondaryRate": 0,
     "criticalRate": 0,
     "speedPriority": 3
   },
   {
-    "move": "Rage Fist",
+    "name": "Rage Fist",
     "type": "ghost",
     "category": "physical",
     "powerPoints": 10,
     "basePower": 50,
     "accuracy": 100,
-    "battleEffect": "The user converts its rage into energy to attack. The more times the user has been hit by attacks, the greater the move's power.",
+    "battleEffect": "The user converts its rage into energy to attack. The more times the user has been hit by attacks, the greater the name's power.",
     "secondaryEffect": "Increases base power by 50 based on how many times the user has been hit by damage from other Pokémon's attacks",
     "secondaryRate": 0,
     "criticalRate": 0.0417,
     "speedPriority": 0
   },
   {
-    "move": "Rage Powder",
+    "name": "Rage Powder",
     "type": "bug",
     "category": "other",
     "powerPoints": 20,
@@ -3913,7 +3913,7 @@
     "speedPriority": 2
   },
   {
-    "move": "Rain Dance",
+    "name": "Rain Dance",
     "type": "water",
     "category": "other",
     "powerPoints": 5,
@@ -3926,33 +3926,33 @@
     "speedPriority": 0
   },
   {
-    "move": "Rapid Spin",
+    "name": "Rapid Spin",
     "type": "normal",
     "category": "physical",
     "powerPoints": 40,
     "basePower": 50,
     "accuracy": 100,
-    "battleEffect": "The user performs a spin attack that can also eliminate the effects of such moves as Bind, Wrap, and Leech Seed. This also boosts the user's Speed stat.",
-    "secondaryEffect": "User removes trapping moves. Increased Speed by 1 stage.",
+    "battleEffect": "The user performs a spin attack that can also eliminate the effects of such names as Bind, Wrap, and Leech Seed. This also boosts the user's Speed stat.",
+    "secondaryEffect": "User renames trapping names. Increased Speed by 1 stage.",
     "secondaryRate": 0,
     "criticalRate": 0.0417,
     "speedPriority": 0
   },
   {
-    "move": "Razor Leaf",
+    "name": "Razor Leaf",
     "type": "grass",
     "category": "physical",
     "powerPoints": 25,
     "basePower": 55,
     "accuracy": 95,
-    "battleEffect": "Sharp-edged leaves are launched to slash at opposing Pokémon. This move has a heightened chance of landing a critical hit.",
+    "battleEffect": "Sharp-edged leaves are launched to slash at opposing Pokémon. This name has a heightened chance of landing a critical hit.",
     "secondaryEffect": "Has an increased Critical Hit ratio",
     "secondaryRate": 0,
     "criticalRate": 0.125,
     "speedPriority": 0
   },
   {
-    "move": "Recover",
+    "name": "Recover",
     "type": "normal",
     "category": "other",
     "powerPoints": 5,
@@ -3965,20 +3965,20 @@
     "speedPriority": 0
   },
   {
-    "move": "Reflect",
+    "name": "Reflect",
     "type": "psychic",
     "category": "other",
     "powerPoints": 20,
     "basePower": 0,
     "accuracy": 101,
-    "battleEffect": "A wondrous wall of light is put up to reduce damage from physical moves for five turns.",
+    "battleEffect": "A wondrous wall of light is put up to reduce damage from physical names for five turns.",
     "secondaryEffect": "Halves Attack damage inflicted on the user's side of the field",
     "secondaryRate": 0,
     "criticalRate": 0,
     "speedPriority": 0
   },
   {
-    "move": "Reflect Type",
+    "name": "Reflect Type",
     "type": "normal",
     "category": "other",
     "powerPoints": 15,
@@ -3991,7 +3991,7 @@
     "speedPriority": 0
   },
   {
-    "move": "Rest",
+    "name": "Rest",
     "type": "psychic",
     "category": "other",
     "powerPoints": 5,
@@ -4004,20 +4004,20 @@
     "speedPriority": 0
   },
   {
-    "move": "Retaliate",
+    "name": "Retaliate",
     "type": "normal",
     "category": "physical",
     "powerPoints": 5,
     "basePower": 70,
     "accuracy": 100,
-    "battleEffect": "The user takes revenge for a fainted ally. This move's power is boosted if an ally fainted in the previous turn.",
-    "secondaryEffect": "If a team-mate has been knocked out in the turn before this Pokémon moves, the power is increased by 100%.",
+    "battleEffect": "The user takes revenge for a fainted ally. This name's power is boosted if an ally fainted in the previous turn.",
+    "secondaryEffect": "If a team-mate has been knocked out in the turn before this Pokémon names, the power is increased by 100%.",
     "secondaryRate": 0,
     "criticalRate": 0.0417,
     "speedPriority": 0
   },
   {
-    "move": "Reversal",
+    "name": "Reversal",
     "type": "fighting",
     "category": "physical",
     "powerPoints": 15,
@@ -4030,7 +4030,7 @@
     "speedPriority": 0
   },
   {
-    "move": "Revival Blessing",
+    "name": "Revival Blessing",
     "type": "normal",
     "category": "other",
     "powerPoints": 1,
@@ -4043,7 +4043,7 @@
     "speedPriority": 0
   },
   {
-    "move": "Roar",
+    "name": "Roar",
     "type": "normal",
     "category": "other",
     "powerPoints": 20,
@@ -4056,20 +4056,20 @@
     "speedPriority": -6
   },
   {
-    "move": "Rock Blast",
+    "name": "Rock Blast",
     "type": "rock",
     "category": "physical",
     "powerPoints": 10,
     "basePower": 25,
     "accuracy": 90,
-    "battleEffect": "The user attacks by hurling hard rocks at the target. This move hits two to five times in a row.",
+    "battleEffect": "The user attacks by hurling hard rocks at the target. This name hits two to five times in a row.",
     "secondaryEffect": "Attacks 2-5 times in a row. 37.5% chance of 2 hits. 37.5% chance of 3 hits. 12.5% chance of 4 hits. 12.5% chance of 5 hits",
     "secondaryRate": 0,
     "criticalRate": 0.0417,
     "speedPriority": 0
   },
   {
-    "move": "Rock Polish",
+    "name": "Rock Polish",
     "type": "rock",
     "category": "other",
     "powerPoints": 20,
@@ -4082,7 +4082,7 @@
     "speedPriority": 0
   },
   {
-    "move": "Rock Slide",
+    "name": "Rock Slide",
     "type": "rock",
     "category": "physical",
     "powerPoints": 10,
@@ -4095,7 +4095,7 @@
     "speedPriority": 0
   },
   {
-    "move": "Rock Smash",
+    "name": "Rock Smash",
     "type": "fighting",
     "category": "physical",
     "powerPoints": 15,
@@ -4108,7 +4108,7 @@
     "speedPriority": 0
   },
   {
-    "move": "Rock Throw",
+    "name": "Rock Throw",
     "type": "rock",
     "category": "physical",
     "powerPoints": 15,
@@ -4121,59 +4121,59 @@
     "speedPriority": 0
   },
   {
-    "move": "Rock Tomb",
+    "name": "Rock Tomb",
     "type": "rock",
     "category": "physical",
     "powerPoints": 15,
     "basePower": 60,
     "accuracy": 95,
-    "battleEffect": "The user hurls boulders at the target to inflict damage. This also lowers the target's Speed stat by cutting off its movement.",
+    "battleEffect": "The user hurls boulders at the target to inflict damage. This also lowers the target's Speed stat by cutting off its namement.",
     "secondaryEffect": "May lower opponent's Speed one stage.",
     "secondaryRate": 0,
     "criticalRate": 0.0417,
     "speedPriority": 0
   },
   {
-    "move": "Rollout",
+    "name": "Rollout",
     "type": "rock",
     "category": "physical",
     "powerPoints": 20,
     "basePower": 30,
     "accuracy": 90,
     "battleEffect": "The user continually rolls into the target over five turns. This attack becomes more powerful each time it hits.",
-    "secondaryEffect": "Uses the same move for 5 turns; move's power raises if it hits.",
+    "secondaryEffect": "Uses the same name for 5 turns; name's power raises if it hits.",
     "secondaryRate": 0,
     "criticalRate": 0.0417,
     "speedPriority": 0
   },
   {
-    "move": "Roost",
+    "name": "Roost",
     "type": "flying",
     "category": "other",
     "powerPoints": 5,
     "basePower": 0,
     "accuracy": 101,
-    "battleEffect": "The user lands and rests its body. This move restores the user's HP by up to half its max HP.",
+    "battleEffect": "The user lands and rests its body. This name restores the user's HP by up to half its max HP.",
     "secondaryEffect": "Heals up to 50% of maximum Hit Points. Flying-type Pokémon are no longer Flying-type for the rest of the turn.",
     "secondaryRate": 0,
     "criticalRate": 0,
     "speedPriority": 0
   },
   {
-    "move": "Round",
+    "name": "Round",
     "type": "normal",
     "category": "special",
     "powerPoints": 15,
     "basePower": 60,
     "accuracy": 100,
-    "battleEffect": "The user attacks the target with a song. If others use this move, they will act immediately after the initial user, and the power of their Rounds will be boosted.",
-    "secondaryEffect": "This move increases in power when used by different Pokémon on your side in a single turn. When Round is used by multiple Pokémon, the Pokémon will immediately use it, regardless of Speed or Priority. Each consecutive use of this move has the power doubled up until it hits the maximum of 240.",
+    "battleEffect": "The user attacks the target with a song. If others use this name, they will act immediately after the initial user, and the power of their Rounds will be boosted.",
+    "secondaryEffect": "This name increases in power when used by different Pokémon on your side in a single turn. When Round is used by multiple Pokémon, the Pokémon will immediately use it, regardless of Speed or Priority. Each consecutive use of this name has the power doubled up until it hits the maximum of 240.",
     "secondaryRate": 0,
     "criticalRate": 0.0417,
     "speedPriority": 0
   },
   {
-    "move": "Ruination",
+    "name": "Ruination",
     "type": "dark",
     "category": "physical",
     "powerPoints": 10,
@@ -4186,20 +4186,20 @@
     "speedPriority": 0
   },
   {
-    "move": "Sacred Sword",
+    "name": "Sacred Sword",
     "type": "fighting",
     "category": "physical",
     "powerPoints": 15,
     "basePower": 90,
     "accuracy": 100,
-    "battleEffect": "The user attacks by slicing with a sword. The target's stat changes don't affect the damage inflicted by this move.",
+    "battleEffect": "The user attacks by slicing with a sword. The target's stat changes don't affect the damage inflicted by this name.",
     "secondaryEffect": "Ignores stat changes",
     "secondaryRate": 0,
     "criticalRate": 0.0417,
     "speedPriority": 0
   },
   {
-    "move": "Safeguard",
+    "name": "Safeguard",
     "type": "normal",
     "category": "other",
     "powerPoints": 25,
@@ -4212,20 +4212,20 @@
     "speedPriority": 0
   },
   {
-    "move": "Salt Cure",
+    "name": "Salt Cure",
     "type": "rock",
     "category": "physical",
     "powerPoints": 15,
     "basePower": 40,
     "accuracy": 100,
-    "battleEffect": "The user salt cures the target, inflicting damage every turn. Steel and Water types are more strongly affected by this move.",
+    "battleEffect": "The user salt cures the target, inflicting damage every turn. Steel and Water types are more strongly affected by this name.",
     "secondaryEffect": "Inflicts damage on the target at the end of each turn. Doubles damage inflicted on Water or Steel-type opponents",
     "secondaryRate": 1,
     "criticalRate": 0.0417,
     "speedPriority": 0
   },
   {
-    "move": "Sand Attack",
+    "name": "Sand Attack",
     "type": "ground",
     "category": "other",
     "powerPoints": 15,
@@ -4238,7 +4238,7 @@
     "speedPriority": 0
   },
   {
-    "move": "Sand Tomb",
+    "name": "Sand Tomb",
     "type": "ground",
     "category": "physical",
     "powerPoints": 15,
@@ -4251,7 +4251,7 @@
     "speedPriority": 0
   },
   {
-    "move": "Sandstorm",
+    "name": "Sandstorm",
     "type": "rock",
     "category": "other",
     "powerPoints": 10,
@@ -4264,20 +4264,20 @@
     "speedPriority": 0
   },
   {
-    "move": "Scale Shot",
+    "name": "Scale Shot",
     "type": "dragon",
     "category": "physical",
     "powerPoints": 20,
     "basePower": 25,
     "accuracy": 90,
-    "battleEffect": "The user attacks by shooting scales two to five times in a row. This move boosts the user's Speed stat but lowers its Defense stat.",
+    "battleEffect": "The user attacks by shooting scales two to five times in a row. This name boosts the user's Speed stat but lowers its Defense stat.",
     "secondaryEffect": "Increases Speed by 1 stage. Lowers Defense by 1 Stage",
     "secondaryRate": 0,
     "criticalRate": 0.0417,
     "speedPriority": 0
   },
   {
-    "move": "Scary Face",
+    "name": "Scary Face",
     "type": "normal",
     "category": "other",
     "powerPoints": 10,
@@ -4290,7 +4290,7 @@
     "speedPriority": 0
   },
   {
-    "move": "Scratch",
+    "name": "Scratch",
     "type": "normal",
     "category": "physical",
     "powerPoints": 35,
@@ -4303,7 +4303,7 @@
     "speedPriority": 0
   },
   {
-    "move": "Screech",
+    "name": "Screech",
     "type": "normal",
     "category": "other",
     "powerPoints": 40,
@@ -4316,7 +4316,7 @@
     "speedPriority": 0
   },
   {
-    "move": "Seed Bomb",
+    "name": "Seed Bomb",
     "type": "grass",
     "category": "physical",
     "powerPoints": 15,
@@ -4329,7 +4329,7 @@
     "speedPriority": 0
   },
   {
-    "move": "Seismic Toss",
+    "name": "Seismic Toss",
     "type": "fighting",
     "category": "physical",
     "powerPoints": 20,
@@ -4342,20 +4342,20 @@
     "speedPriority": 0
   },
   {
-    "move": "Self-Destruct",
+    "name": "Self-Destruct",
     "type": "normal",
     "category": "physical",
     "powerPoints": 5,
     "basePower": 200,
     "accuracy": 100,
-    "battleEffect": "The user attacks everything around it by causing an explosion. The user faints upon using this move.",
+    "battleEffect": "The user attacks everything around it by causing an explosion. The user faints upon using this name.",
     "secondaryEffect": "User faints",
     "secondaryRate": 0,
     "criticalRate": 0.0417,
     "speedPriority": 0
   },
   {
-    "move": "Shadow Ball",
+    "name": "Shadow Ball",
     "type": "ghost",
     "category": "special",
     "powerPoints": 15,
@@ -4368,20 +4368,20 @@
     "speedPriority": 0
   },
   {
-    "move": "Shadow Claw",
+    "name": "Shadow Claw",
     "type": "ghost",
     "category": "physical",
     "powerPoints": 15,
     "basePower": 70,
     "accuracy": 100,
-    "battleEffect": "The user attacks by slashing the target with a sharp claw made from shadows. This move has a heightened chance of landing a critical hit.",
+    "battleEffect": "The user attacks by slashing the target with a sharp claw made from shadows. This name has a heightened chance of landing a critical hit.",
     "secondaryEffect": "Has an increased Critical Hit ratio",
     "secondaryRate": 0,
     "criticalRate": 0.125,
     "speedPriority": 0
   },
   {
-    "move": "Shadow Punch",
+    "name": "Shadow Punch",
     "type": "ghost",
     "category": "physical",
     "powerPoints": 20,
@@ -4394,20 +4394,20 @@
     "speedPriority": 0
   },
   {
-    "move": "Shadow Sneak",
+    "name": "Shadow Sneak",
     "type": "ghost",
     "category": "physical",
     "powerPoints": 30,
     "basePower": 40,
     "accuracy": 100,
-    "battleEffect": "The user extends its shadow and attacks the target from behind. This move always goes first.",
+    "battleEffect": "The user extends its shadow and attacks the target from behind. This name always goes first.",
     "secondaryEffect": "Has increased Speed Priority",
     "secondaryRate": 0,
     "criticalRate": 0.0417,
     "speedPriority": 1
   },
   {
-    "move": "Shed Tail",
+    "name": "Shed Tail",
     "type": "normal",
     "category": "other",
     "powerPoints": 10,
@@ -4420,20 +4420,20 @@
     "speedPriority": 0
   },
   {
-    "move": "Sheer Cold",
+    "name": "Sheer Cold",
     "type": "ice",
     "category": "special",
     "powerPoints": 5,
     "basePower": 1,
     "accuracy": 30,
-    "battleEffect": "The target faints instantly. This move is less likely to hit the target if used by Pokémon other than Ice types.",
-    "secondaryEffect": "This move has its accuracy lowered when used by non-Ice-type Pokémon;, and cannot damage Ice-type Pokémon",
+    "battleEffect": "The target faints instantly. This name is less likely to hit the target if used by Pokémon other than Ice types.",
+    "secondaryEffect": "This name has its accuracy lowered when used by non-Ice-type Pokémon;, and cannot damage Ice-type Pokémon",
     "secondaryRate": 0,
     "criticalRate": 0.0417,
     "speedPriority": 0
   },
   {
-    "move": "Shift Gear",
+    "name": "Shift Gear",
     "type": "steel",
     "category": "other",
     "powerPoints": 10,
@@ -4446,7 +4446,7 @@
     "speedPriority": 0
   },
   {
-    "move": "Shock Wave",
+    "name": "Shock Wave",
     "type": "electric",
     "category": "special",
     "powerPoints": 20,
@@ -4459,7 +4459,7 @@
     "speedPriority": 0
   },
   {
-    "move": "Silk Trap",
+    "name": "Silk Trap",
     "type": "bug",
     "category": "other",
     "powerPoints": 10,
@@ -4472,7 +4472,7 @@
     "speedPriority": 4
   },
   {
-    "move": "Sing",
+    "name": "Sing",
     "type": "normal",
     "category": "other",
     "powerPoints": 15,
@@ -4485,20 +4485,20 @@
     "speedPriority": 0
   },
   {
-    "move": "Skill Swap",
+    "name": "Skill Swap",
     "type": "psychic",
     "category": "other",
     "powerPoints": 10,
     "basePower": 0,
     "accuracy": 101,
     "battleEffect": "The user employs its psychic power to exchange Abilities with the target.",
-    "secondaryEffect": "This move will switch the users ability to the ability of the target Pokémon if that Pokémon does not have the Illusion, Wonder Guard, Stance Change, Multitype, RKS System, Zen Mode, Battle Bond, Comatores, Gulp Missile, DIsguise, Hunger Switch, Neutralizing Gas, Shields Down, Schooling, Power Construct, As One - Unnerve Chilling Neigh & As One - Unnerve Grim Neigh abilities",
+    "secondaryEffect": "This name will switch the users ability to the ability of the target Pokémon if that Pokémon does not have the Illusion, Wonder Guard, Stance Change, Multitype, RKS System, Zen Mode, Battle Bond, Comatores, Gulp Missile, DIsguise, Hunger Switch, Neutralizing Gas, Shields Down, Schooling, Power Construct, As One - Unnerve Chilling Neigh & As One - Unnerve Grim Neigh abilities",
     "secondaryRate": 0,
     "criticalRate": 0,
     "speedPriority": 0
   },
   {
-    "move": "Skitter Smack",
+    "name": "Skitter Smack",
     "type": "bug",
     "category": "physical",
     "powerPoints": 10,
@@ -4511,20 +4511,20 @@
     "speedPriority": 0
   },
   {
-    "move": "Sky Attack",
+    "name": "Sky Attack",
     "type": "flying",
     "category": "physical",
     "powerPoints": 5,
     "basePower": 140,
     "accuracy": 90,
-    "battleEffect": "The user attacks the turn after using this move. This move has a heightened chance of landing a critical hit and may also make the target flinch.",
+    "battleEffect": "The user attacks the turn after using this name. This name has a heightened chance of landing a critical hit and may also make the target flinch.",
     "secondaryEffect": "May cause opponent to flinch.",
     "secondaryRate": 0.3,
     "criticalRate": 0.125,
     "speedPriority": 0
   },
   {
-    "move": "Slack Off",
+    "name": "Slack Off",
     "type": "normal",
     "category": "other",
     "powerPoints": 5,
@@ -4537,7 +4537,7 @@
     "speedPriority": 0
   },
   {
-    "move": "Slam",
+    "name": "Slam",
     "type": "normal",
     "category": "physical",
     "powerPoints": 20,
@@ -4550,33 +4550,33 @@
     "speedPriority": 0
   },
   {
-    "move": "Slash",
+    "name": "Slash",
     "type": "normal",
     "category": "physical",
     "powerPoints": 20,
     "basePower": 70,
     "accuracy": 100,
-    "battleEffect": "The target is attacked with a slash of claws, scythes, or the like. This move has a heightened chance of landing a critical hit.",
+    "battleEffect": "The target is attacked with a slash of claws, scythes, or the like. This name has a heightened chance of landing a critical hit.",
     "secondaryEffect": "Has an increased Critical Hit ratio",
     "secondaryRate": 0,
     "criticalRate": 0.125,
     "speedPriority": 0
   },
   {
-    "move": "Sleep Talk",
+    "name": "Sleep Talk",
     "type": "normal",
     "category": "other",
     "powerPoints": 10,
     "basePower": 0,
     "accuracy": 101,
-    "battleEffect": "The user randomly uses one of the moves it knows. This move can only be used while the user is asleep.",
-    "secondaryEffect": "Uses an own random move while asleep.",
+    "battleEffect": "The user randomly uses one of the names it knows. This name can only be used while the user is asleep.",
+    "secondaryEffect": "Uses an own random name while asleep.",
     "secondaryRate": 0,
     "criticalRate": 0,
     "speedPriority": 0
   },
   {
-    "move": "Sludge",
+    "name": "Sludge",
     "type": "poison",
     "category": "special",
     "powerPoints": 20,
@@ -4589,7 +4589,7 @@
     "speedPriority": 0
   },
   {
-    "move": "Sludge Bomb",
+    "name": "Sludge Bomb",
     "type": "poison",
     "category": "special",
     "powerPoints": 10,
@@ -4602,7 +4602,7 @@
     "speedPriority": 0
   },
   {
-    "move": "Sludge Wave",
+    "name": "Sludge Wave",
     "type": "poison",
     "category": "special",
     "powerPoints": 10,
@@ -4615,20 +4615,20 @@
     "speedPriority": 0
   },
   {
-    "move": "Smack Down",
+    "name": "Smack Down",
     "type": "rock",
     "category": "physical",
     "powerPoints": 15,
     "basePower": 50,
     "accuracy": 100,
     "battleEffect": "The user throws a stone or similar projectile to attack the target. If the target is in the air, it will be knocked down to the ground.",
-    "secondaryEffect": "In addition to removing Ground-type immunities, this move can also affect Pokémon that have flown up into the air using Fly or Bounce. Doing so cancels the move. It can hit Pokémon using or affected by Sky Drop but doesn't cancel the move.",
+    "secondaryEffect": "In addition to removing Ground-type immunities, this name can also affect Pokémon that have flown up into the air using Fly or Bounce. Doing so cancels the name. It can hit Pokémon using or affected by Sky Drop but doesn't cancel the name.",
     "secondaryRate": 0,
     "criticalRate": 0.0417,
     "speedPriority": 0
   },
   {
-    "move": "Smart Strike",
+    "name": "Smart Strike",
     "type": "steel",
     "category": "physical",
     "powerPoints": 10,
@@ -4641,7 +4641,7 @@
     "speedPriority": 0
   },
   {
-    "move": "Smog",
+    "name": "Smog",
     "type": "poison",
     "category": "special",
     "powerPoints": 20,
@@ -4654,7 +4654,7 @@
     "speedPriority": 0
   },
   {
-    "move": "Snarl",
+    "name": "Snarl",
     "type": "dark",
     "category": "special",
     "powerPoints": 15,
@@ -4667,7 +4667,7 @@
     "speedPriority": 0
   },
   {
-    "move": "Snowscape",
+    "name": "Snowscape",
     "type": "ice",
     "category": "other",
     "powerPoints": 10,
@@ -4680,7 +4680,7 @@
     "speedPriority": 0
   },
   {
-    "move": "Soak",
+    "name": "Soak",
     "type": "water",
     "category": "other",
     "powerPoints": 20,
@@ -4693,7 +4693,7 @@
     "speedPriority": 0
   },
   {
-    "move": "Solar Beam",
+    "name": "Solar Beam",
     "type": "grass",
     "category": "special",
     "powerPoints": 10,
@@ -4706,7 +4706,7 @@
     "speedPriority": 0
   },
   {
-    "move": "Solar Blade",
+    "name": "Solar Blade",
     "type": "grass",
     "category": "physical",
     "powerPoints": 10,
@@ -4719,7 +4719,7 @@
     "speedPriority": 0
   },
   {
-    "move": "Spark",
+    "name": "Spark",
     "type": "electric",
     "category": "physical",
     "powerPoints": 20,
@@ -4732,7 +4732,7 @@
     "speedPriority": 0
   },
   {
-    "move": "Speed Swap",
+    "name": "Speed Swap",
     "type": "psychic",
     "category": "other",
     "powerPoints": 10,
@@ -4745,7 +4745,7 @@
     "speedPriority": 0
   },
   {
-    "move": "Spicy Extract",
+    "name": "Spicy Extract",
     "type": "grass",
     "category": "other",
     "powerPoints": 15,
@@ -4758,7 +4758,7 @@
     "speedPriority": 0
   },
   {
-    "move": "Spikes",
+    "name": "Spikes",
     "type": "ground",
     "category": "other",
     "powerPoints": 20,
@@ -4771,20 +4771,20 @@
     "speedPriority": 0
   },
   {
-    "move": "Spiky Shield",
+    "name": "Spiky Shield",
     "type": "grass",
     "category": "other",
     "powerPoints": 10,
     "basePower": 0,
     "accuracy": 101,
-    "battleEffect": "In addition to protecting the user from attacks, this move also damages any attacker that makes direct contact.",
+    "battleEffect": "In addition to protecting the user from attacks, this name also damages any attacker that makes direct contact.",
     "secondaryEffect": "Damages by 1/8th Maximum Hit Points if hit by physical contact.",
     "secondaryRate": 0,
     "criticalRate": 0,
     "speedPriority": 4
   },
   {
-    "move": "Spin Out",
+    "name": "Spin Out",
     "type": "steel",
     "category": "physical",
     "powerPoints": 5,
@@ -4797,7 +4797,7 @@
     "speedPriority": 0
   },
   {
-    "move": "Spirit Break",
+    "name": "Spirit Break",
     "type": "fairy",
     "category": "physical",
     "powerPoints": 15,
@@ -4810,33 +4810,33 @@
     "speedPriority": 0
   },
   {
-    "move": "Spit Up",
+    "name": "Spit Up",
     "type": "normal",
     "category": "special",
     "powerPoints": 10,
     "basePower": 1,
     "accuracy": 100,
-    "battleEffect": "The power stored using the move Stockpile is released at once in an attack. The more power is stored, the greater the move's power.",
-    "secondaryEffect": "This move has four tiers of damage; 3 are stockpiled, 1 isn't. Unfortunately the one that isn't is that the attack doesn't do anything if you haven't stockpiled so you have to make sure to Stockpile first.If you use Spit Up after 1 Stockpile, the Base Power will be 100If you use Spit Up after 2 Stockpiles, the Base Power will be 200If you use Spit Up after 3 Stockpiles, the Base Power will be 300",
+    "battleEffect": "The power stored using the name Stockpile is released at once in an attack. The more power is stored, the greater the name's power.",
+    "secondaryEffect": "This name has four tiers of damage; 3 are stockpiled, 1 isn't. Unfortunately the one that isn't is that the attack doesn't do anything if you haven't stockpiled so you have to make sure to Stockpile first.If you use Spit Up after 1 Stockpile, the Base Power will be 100If you use Spit Up after 2 Stockpiles, the Base Power will be 200If you use Spit Up after 3 Stockpiles, the Base Power will be 300",
     "secondaryRate": 0,
     "criticalRate": 0.0417,
     "speedPriority": 0
   },
   {
-    "move": "Spite",
+    "name": "Spite",
     "type": "ghost",
     "category": "other",
     "powerPoints": 10,
     "basePower": 0,
     "accuracy": 100,
-    "battleEffect": "The user unleashes its grudge on the move last used by the target by cutting 4 PP from it.",
-    "secondaryEffect": "Opponent's last move loses 4 PP.",
+    "battleEffect": "The user unleashes its grudge on the name last used by the target by cutting 4 PP from it.",
+    "secondaryEffect": "Opponent's last name loses 4 PP.",
     "secondaryRate": 0,
     "criticalRate": 0,
     "speedPriority": 0
   },
   {
-    "move": "Splash",
+    "name": "Splash",
     "type": "normal",
     "category": "other",
     "powerPoints": 40,
@@ -4849,7 +4849,7 @@
     "speedPriority": 0
   },
   {
-    "move": "Spore",
+    "name": "Spore",
     "type": "grass",
     "category": "other",
     "powerPoints": 15,
@@ -4862,7 +4862,7 @@
     "speedPriority": 0
   },
   {
-    "move": "Stealth Rock",
+    "name": "Stealth Rock",
     "type": "rock",
     "category": "other",
     "powerPoints": 20,
@@ -4875,7 +4875,7 @@
     "speedPriority": 0
   },
   {
-    "move": "Steel Beam",
+    "name": "Steel Beam",
     "type": "steel",
     "category": "special",
     "powerPoints": 5,
@@ -4888,20 +4888,20 @@
     "speedPriority": 0
   },
   {
-    "move": "Steel Roller",
+    "name": "Steel Roller",
     "type": "steel",
     "category": "physical",
     "powerPoints": 5,
     "basePower": 130,
     "accuracy": 100,
-    "battleEffect": "The user attacks while destroying the terrain. This move fails if the ground hasn't turned into a terrain.",
+    "battleEffect": "The user attacks while destroying the terrain. This name fails if the ground hasn't turned into a terrain.",
     "secondaryEffect": "Destroys Terrains",
     "secondaryRate": 0,
     "criticalRate": 0.0417,
     "speedPriority": 0
   },
   {
-    "move": "Sticky Web",
+    "name": "Sticky Web",
     "type": "bug",
     "category": "other",
     "powerPoints": 20,
@@ -4914,20 +4914,20 @@
     "speedPriority": 0
   },
   {
-    "move": "Stockpile",
+    "name": "Stockpile",
     "type": "normal",
     "category": "other",
     "powerPoints": 20,
     "basePower": 0,
     "accuracy": 101,
-    "battleEffect": "The user stores power and boosts its Defense and Sp. Def stats. This move can be used up to three times.",
+    "battleEffect": "The user stores power and boosts its Defense and Sp. Def stats. This name can be used up to three times.",
     "secondaryEffect": "User stockpiles power for up to 3 turns. Raises Defense & Special Defense one stage until Stockpile is released.",
     "secondaryRate": 0,
     "criticalRate": 0,
     "speedPriority": 0
   },
   {
-    "move": "Stomp",
+    "name": "Stomp",
     "type": "normal",
     "category": "physical",
     "powerPoints": 20,
@@ -4940,46 +4940,46 @@
     "speedPriority": 0
   },
   {
-    "move": "Stomping Tantrum",
+    "name": "Stomping Tantrum",
     "type": "ground",
     "category": "physical",
     "powerPoints": 10,
     "basePower": 75,
     "accuracy": 100,
-    "battleEffect": "Driven by frustration, the user attacks the target. This move's power is doubled if the user's previous move failed.",
-    "secondaryEffect": "Doubles damage if last move failed",
+    "battleEffect": "Driven by frustration, the user attacks the target. This name's power is doubled if the user's previous name failed.",
+    "secondaryEffect": "Doubles damage if last name failed",
     "secondaryRate": 0,
     "criticalRate": 0.0417,
     "speedPriority": 0
   },
   {
-    "move": "Stone Edge",
+    "name": "Stone Edge",
     "type": "rock",
     "category": "physical",
     "powerPoints": 5,
     "basePower": 100,
     "accuracy": 80,
-    "battleEffect": "The user stabs the target with sharpened stones. This move has a heightened chance of landing a critical hit.",
+    "battleEffect": "The user stabs the target with sharpened stones. This name has a heightened chance of landing a critical hit.",
     "secondaryEffect": "Has an increased Critical Hit ratio",
     "secondaryRate": 0,
     "criticalRate": 0.125,
     "speedPriority": 0
   },
   {
-    "move": "Stored Power",
+    "name": "Stored Power",
     "type": "psychic",
     "category": "special",
     "powerPoints": 10,
     "basePower": 20,
     "accuracy": 100,
-    "battleEffect": "The user attacks the target with stored power. The more the user's stats are boosted, the greater the move's power.",
-    "secondaryEffect": "This attack's power starts off with 20 Base Power but increases by 20 Base Power for each stat increase used by the Pokémon. Can get a maximum Base Power of 860. Moves with stat lowering effects do not affect this move's power.",
+    "battleEffect": "The user attacks the target with stored power. The more the user's stats are boosted, the greater the name's power.",
+    "secondaryEffect": "This attack's power starts off with 20 Base Power but increases by 20 Base Power for each stat increase used by the Pokémon. Can get a maximum Base Power of 860. names with stat lowering effects do not affect this name's power.",
     "secondaryRate": 0,
     "criticalRate": 0.0417,
     "speedPriority": 0
   },
   {
-    "move": "Strength Sap",
+    "name": "Strength Sap",
     "type": "grass",
     "category": "other",
     "powerPoints": 10,
@@ -4992,7 +4992,7 @@
     "speedPriority": 0
   },
   {
-    "move": "String Shot",
+    "name": "String Shot",
     "type": "bug",
     "category": "other",
     "powerPoints": 40,
@@ -5005,7 +5005,7 @@
     "speedPriority": 0
   },
   {
-    "move": "Struggle Bug",
+    "name": "Struggle Bug",
     "type": "bug",
     "category": "special",
     "powerPoints": 20,
@@ -5018,7 +5018,7 @@
     "speedPriority": 0
   },
   {
-    "move": "Stuff Cheeks",
+    "name": "Stuff Cheeks",
     "type": "normal",
     "category": "other",
     "powerPoints": 10,
@@ -5031,7 +5031,7 @@
     "speedPriority": 0
   },
   {
-    "move": "Stun Spore",
+    "name": "Stun Spore",
     "type": "grass",
     "category": "other",
     "powerPoints": 30,
@@ -5044,33 +5044,33 @@
     "speedPriority": 0
   },
   {
-    "move": "Substitute",
+    "name": "Substitute",
     "type": "normal",
     "category": "other",
     "powerPoints": 10,
     "basePower": 0,
     "accuracy": 101,
     "battleEffect": "The user creates a substitute for itself using some of its own HP. The substitute serves as the user's decoy.",
-    "secondaryEffect": "This move creates a Substitute on the field using 1/4 of its maximum Hit Points. This substitute will receive all damage from attacks until its Hit Points are depleted. There are several moves that hit beyond the substitute.",
+    "secondaryEffect": "This name creates a Substitute on the field using 1/4 of its maximum Hit Points. This substitute will receive all damage from attacks until its Hit Points are depleted. There are several names that hit beyond the substitute.",
     "secondaryRate": 0,
     "criticalRate": 0,
     "speedPriority": 0
   },
   {
-    "move": "Sucker Punch",
+    "name": "Sucker Punch",
     "type": "dark",
     "category": "physical",
     "powerPoints": 5,
     "basePower": 70,
     "accuracy": 100,
-    "battleEffect": "This move enables the user to attack first. This move fails if the target is not readying an attack.",
-    "secondaryEffect": "Damages the opponent only if they are intending to use a damaging move. Fails if used after the opponent moves.",
+    "battleEffect": "This name enables the user to attack first. This name fails if the target is not readying an attack.",
+    "secondaryEffect": "Damages the opponent only if they are intending to use a damaging name. Fails if used after the opponent names.",
     "secondaryRate": 0,
     "criticalRate": 0.0417,
     "speedPriority": 1
   },
   {
-    "move": "Sunny Day",
+    "name": "Sunny Day",
     "type": "fire",
     "category": "other",
     "powerPoints": 5,
@@ -5083,7 +5083,7 @@
     "speedPriority": 0
   },
   {
-    "move": "Super Fang",
+    "name": "Super Fang",
     "type": "normal",
     "category": "physical",
     "powerPoints": 10,
@@ -5096,7 +5096,7 @@
     "speedPriority": 0
   },
   {
-    "move": "Superpower",
+    "name": "Superpower",
     "type": "fighting",
     "category": "physical",
     "powerPoints": 5,
@@ -5109,7 +5109,7 @@
     "speedPriority": 0
   },
   {
-    "move": "Supersonic",
+    "name": "Supersonic",
     "type": "normal",
     "category": "other",
     "powerPoints": 20,
@@ -5122,7 +5122,7 @@
     "speedPriority": 0
   },
   {
-    "move": "Surf",
+    "name": "Surf",
     "type": "water",
     "category": "special",
     "powerPoints": 15,
@@ -5135,7 +5135,7 @@
     "speedPriority": 0
   },
   {
-    "move": "Swagger",
+    "name": "Swagger",
     "type": "normal",
     "category": "other",
     "powerPoints": 15,
@@ -5148,20 +5148,20 @@
     "speedPriority": 0
   },
   {
-    "move": "Swallow",
+    "name": "Swallow",
     "type": "normal",
     "category": "other",
     "powerPoints": 10,
     "basePower": 0,
     "accuracy": 101,
-    "battleEffect": "The power stored using the move Stockpile is absorbed by the user to restore its own HP. The more power is stored, the more HP is restored.",
-    "secondaryEffect": "This move has four tiers of healing; 3 are stockpiled, 1 isn't. Unfortunately the one that isn't is that the attack doesn't do anything if you haven't stockpiled so you have to make sure to Stockpile first.If you use Swallow after 1 Stockpile, you will recover 1/4 of your Max HPIf you use Swallow after 2 Stockpiles, you will recover 1/2 of your Max HPIf you use Swallow after 3 Stockpiles, you will recover all of your Max HP",
+    "battleEffect": "The power stored using the name Stockpile is absorbed by the user to restore its own HP. The more power is stored, the more HP is restored.",
+    "secondaryEffect": "This name has four tiers of healing; 3 are stockpiled, 1 isn't. Unfortunately the one that isn't is that the attack doesn't do anything if you haven't stockpiled so you have to make sure to Stockpile first.If you use Swallow after 1 Stockpile, you will recover 1/4 of your Max HPIf you use Swallow after 2 Stockpiles, you will recover 1/2 of your Max HPIf you use Swallow after 3 Stockpiles, you will recover all of your Max HP",
     "secondaryRate": 0,
     "criticalRate": 0,
     "speedPriority": 0
   },
   {
-    "move": "Sweet Kiss",
+    "name": "Sweet Kiss",
     "type": "fairy",
     "category": "other",
     "powerPoints": 10,
@@ -5174,7 +5174,7 @@
     "speedPriority": 0
   },
   {
-    "move": "Sweet Scent",
+    "name": "Sweet Scent",
     "type": "normal",
     "category": "other",
     "powerPoints": 20,
@@ -5187,7 +5187,7 @@
     "speedPriority": 0
   },
   {
-    "move": "Swift",
+    "name": "Swift",
     "type": "normal",
     "category": "special",
     "powerPoints": 20,
@@ -5200,7 +5200,7 @@
     "speedPriority": 0
   },
   {
-    "move": "Switcheroo",
+    "name": "Switcheroo",
     "type": "dark",
     "category": "other",
     "powerPoints": 10,
@@ -5213,7 +5213,7 @@
     "speedPriority": 0
   },
   {
-    "move": "Swords Dance",
+    "name": "Swords Dance",
     "type": "normal",
     "category": "other",
     "powerPoints": 20,
@@ -5226,20 +5226,20 @@
     "speedPriority": 0
   },
   {
-    "move": "Synthesis",
+    "name": "Synthesis",
     "type": "grass",
     "category": "other",
     "powerPoints": 5,
     "basePower": 0,
     "accuracy": 101,
     "battleEffect": "The user restores its own HP. The amount of HP regained varies with the weather.",
-    "secondaryEffect": "This move recovers its HP depending upon the weather. If no weather is in effect, it heals the user by 50% of their maximum Hit Points. If Sunny Day is in effect, this move heals the user by 66.66% of its maximum Hit Points and if Rain Dance, Hail or Sandstorm is in effect, this move heals the user by 25% of their maximum Hit Points",
+    "secondaryEffect": "This name recovers its HP depending upon the weather. If no weather is in effect, it heals the user by 50% of their maximum Hit Points. If Sunny Day is in effect, this name heals the user by 66.66% of its maximum Hit Points and if Rain Dance, Hail or Sandstorm is in effect, this name heals the user by 25% of their maximum Hit Points",
     "secondaryRate": 0,
     "criticalRate": 0,
     "speedPriority": 0
   },
   {
-    "move": "Tackle",
+    "name": "Tackle",
     "type": "normal",
     "category": "physical",
     "powerPoints": 35,
@@ -5252,7 +5252,7 @@
     "speedPriority": 0
   },
   {
-    "move": "Tail Whip",
+    "name": "Tail Whip",
     "type": "normal",
     "category": "other",
     "powerPoints": 30,
@@ -5265,7 +5265,7 @@
     "speedPriority": 0
   },
   {
-    "move": "Tailwind",
+    "name": "Tailwind",
     "type": "flying",
     "category": "other",
     "powerPoints": 15,
@@ -5278,7 +5278,7 @@
     "speedPriority": 0
   },
   {
-    "move": "Take Down",
+    "name": "Take Down",
     "type": "normal",
     "category": "physical",
     "powerPoints": 20,
@@ -5291,46 +5291,46 @@
     "speedPriority": 0
   },
   {
-    "move": "Taunt",
+    "name": "Taunt",
     "type": "dark",
     "category": "other",
     "powerPoints": 20,
     "basePower": 0,
     "accuracy": 100,
-    "battleEffect": "The target is taunted into a rage that allows it to use only attack moves for three turns.",
-    "secondaryEffect": "The opponent can only use damaging moves for three turns",
+    "battleEffect": "The target is taunted into a rage that allows it to use only attack names for three turns.",
+    "secondaryEffect": "The opponent can only use damaging names for three turns",
     "secondaryRate": 0,
     "criticalRate": 0,
     "speedPriority": 0
   },
   {
-    "move": "Tera Blast",
+    "name": "Tera Blast",
     "type": "normal",
     "category": "physical/special",
     "powerPoints": 10,
     "basePower": 80,
     "accuracy": 100,
-    "battleEffect": "If the user has Terastallized, it unleashes energy of its Tera Type. This move inflicts damage using the Attack or Sp. Atk statwhichever is higher for the user.",
-    "secondaryEffect": "Changes type if the user is Terastallized. Damage inflicted depends on user's Attack or Special Attack. Highest stat used to determine if move is Physical or Special.",
+    "battleEffect": "If the user has Terastallized, it unleashes energy of its Tera Type. This name inflicts damage using the Attack or Sp. Atk statwhichever is higher for the user.",
+    "secondaryEffect": "Changes type if the user is Terastallized. Damage inflicted depends on user's Attack or Special Attack. Highest stat used to determine if name is Physical or Special.",
     "secondaryRate": 0,
     "criticalRate": 0.0417,
     "speedPriority": 0
   },
   {
-    "move": "Terrain Pulse",
+    "name": "Terrain Pulse",
     "type": "normal",
     "category": "special",
     "powerPoints": 10,
     "basePower": 50,
     "accuracy": 100,
-    "battleEffect": "The user utilizes the energy of the terrain to attack. This move's type and power change depending on the terrain at the time the move is used.",
+    "battleEffect": "The user utilizes the energy of the terrain to attack. This name's type and power change depending on the terrain at the time the name is used.",
     "secondaryEffect": "Becomes the type of Terrain and doubles in power",
     "secondaryRate": 0,
     "criticalRate": 0.0417,
     "speedPriority": 0
   },
   {
-    "move": "Thief",
+    "name": "Thief",
     "type": "dark",
     "category": "physical",
     "powerPoints": 25,
@@ -5343,7 +5343,7 @@
     "speedPriority": 0
   },
   {
-    "move": "Thrash",
+    "name": "Thrash",
     "type": "normal",
     "category": "physical",
     "powerPoints": 10,
@@ -5356,33 +5356,33 @@
     "speedPriority": 0
   },
   {
-    "move": "Throat Chop",
+    "name": "Throat Chop",
     "type": "dark",
     "category": "physical",
     "powerPoints": 15,
     "basePower": 80,
     "accuracy": 100,
-    "battleEffect": "The user attacks the target's throat, and the resultant suffering prevents the target from using sound-based moves for two turns.",
-    "secondaryEffect": "Prevents target from using Sound moves for 2 turns",
+    "battleEffect": "The user attacks the target's throat, and the resultant suffering prevents the target from using sound-based names for two turns.",
+    "secondaryEffect": "Prevents target from using Sound names for 2 turns",
     "secondaryRate": 1,
     "criticalRate": 0.0417,
     "speedPriority": 0
   },
   {
-    "move": "Thunder",
+    "name": "Thunder",
     "type": "electric",
     "category": "special",
     "powerPoints": 10,
     "basePower": 110,
     "accuracy": 70,
     "battleEffect": "A wicked thunderbolt is dropped on the target to inflict damage. This may also leave the target with paralysis.",
-    "secondaryEffect": "This move has different accuracies depending upon the weather. In Rain, it has an accuracy of 100%. In Sunshine, it has an accuracy of 50%. In all other weather states, it has an accuracy of 70%.",
+    "secondaryEffect": "This name has different accuracies depending upon the weather. In Rain, it has an accuracy of 100%. In Sunshine, it has an accuracy of 50%. In all other weather states, it has an accuracy of 70%.",
     "secondaryRate": 0.3,
     "criticalRate": 0.0417,
     "speedPriority": 0
   },
   {
-    "move": "Thunder Fang",
+    "name": "Thunder Fang",
     "type": "electric",
     "category": "physical",
     "powerPoints": 15,
@@ -5395,7 +5395,7 @@
     "speedPriority": 0
   },
   {
-    "move": "Thunder Punch",
+    "name": "Thunder Punch",
     "type": "electric",
     "category": "physical",
     "powerPoints": 15,
@@ -5408,7 +5408,7 @@
     "speedPriority": 0
   },
   {
-    "move": "Thunder Shock",
+    "name": "Thunder Shock",
     "type": "electric",
     "category": "special",
     "powerPoints": 30,
@@ -5421,7 +5421,7 @@
     "speedPriority": 0
   },
   {
-    "move": "Thunder Wave",
+    "name": "Thunder Wave",
     "type": "electric",
     "category": "other",
     "powerPoints": 20,
@@ -5434,7 +5434,7 @@
     "speedPriority": 0
   },
   {
-    "move": "Thunderbolt",
+    "name": "Thunderbolt",
     "type": "electric",
     "category": "special",
     "powerPoints": 15,
@@ -5447,7 +5447,7 @@
     "speedPriority": 0
   },
   {
-    "move": "Tickle",
+    "name": "Tickle",
     "type": "normal",
     "category": "other",
     "powerPoints": 20,
@@ -5460,20 +5460,20 @@
     "speedPriority": 0
   },
   {
-    "move": "Tidy Up",
+    "name": "Tidy Up",
     "type": "normal",
     "category": "other",
     "powerPoints": 10,
     "basePower": 0,
     "accuracy": 101,
-    "battleEffect": "The user tidies up and removes the effects of Spikes, Stealth Rock, Sticky Web, Toxic Spikes, and Substitute. This also boosts the user's Attack and Speed stats.",
-    "secondaryEffect": "User removes trapping moves. Increased Attack and Speed by 1 stage.",
+    "battleEffect": "The user tidies up and renames the effects of Spikes, Stealth Rock, Sticky Web, Toxic Spikes, and Substitute. This also boosts the user's Attack and Speed stats.",
+    "secondaryEffect": "User renames trapping names. Increased Attack and Speed by 1 stage.",
     "secondaryRate": 0,
     "criticalRate": 0,
     "speedPriority": 0
   },
   {
-    "move": "Torch Song",
+    "name": "Torch Song",
     "type": "fire",
     "category": "special",
     "powerPoints": 10,
@@ -5486,33 +5486,33 @@
     "speedPriority": 0
   },
   {
-    "move": "Torment",
+    "name": "Torment",
     "type": "dark",
     "category": "other",
     "powerPoints": 15,
     "basePower": 0,
     "accuracy": 100,
-    "battleEffect": "The user torments and enrages the target, making it incapable of using the same move twice in a row.",
-    "secondaryEffect": "Opponent cannot use the same move in a row.",
+    "battleEffect": "The user torments and enrages the target, making it incapable of using the same name twice in a row.",
+    "secondaryEffect": "Opponent cannot use the same name in a row.",
     "secondaryRate": 0,
     "criticalRate": 0,
     "speedPriority": 0
   },
   {
-    "move": "Toxic",
+    "name": "Toxic",
     "type": "poison",
     "category": "other",
     "powerPoints": 10,
     "basePower": 0,
     "accuracy": 90,
-    "battleEffect": "A move that leaves the target badly poisoned. Its poison damage worsens every turn.",
+    "battleEffect": "A name that leaves the target badly poisoned. Its poison damage worsens every turn.",
     "secondaryEffect": "Induces severe poison.",
     "secondaryRate": 0,
     "criticalRate": 0,
     "speedPriority": 0
   },
   {
-    "move": "Toxic Spikes",
+    "name": "Toxic Spikes",
     "type": "poison",
     "category": "other",
     "powerPoints": 20,
@@ -5525,7 +5525,7 @@
     "speedPriority": 0
   },
   {
-    "move": "Trailblaze",
+    "name": "Trailblaze",
     "type": "grass",
     "category": "physical",
     "powerPoints": 20,
@@ -5538,7 +5538,7 @@
     "speedPriority": 0
   },
   {
-    "move": "Tri Attack",
+    "name": "Tri Attack",
     "type": "normal",
     "category": "special",
     "powerPoints": 10,
@@ -5551,7 +5551,7 @@
     "speedPriority": 0
   },
   {
-    "move": "Trick",
+    "name": "Trick",
     "type": "psychic",
     "category": "other",
     "powerPoints": 10,
@@ -5564,20 +5564,20 @@
     "speedPriority": 0
   },
   {
-    "move": "Trick Room",
+    "name": "Trick Room",
     "type": "psychic",
     "category": "other",
     "powerPoints": 5,
     "basePower": 0,
     "accuracy": 101,
-    "battleEffect": "The user creates a bizarre area in which slower Pokémon get to move first for five turns.",
+    "battleEffect": "The user creates a bizarre area in which slower Pokémon get to name first for five turns.",
     "secondaryEffect": "Inverts the turn order in each Speed Priority bracked for 5 turns.",
     "secondaryRate": 0,
     "criticalRate": 0,
     "speedPriority": -7
   },
   {
-    "move": "Triple Dive",
+    "name": "Triple Dive",
     "type": "water",
     "category": "physical",
     "powerPoints": 10,
@@ -5590,7 +5590,7 @@
     "speedPriority": 0
   },
   {
-    "move": "Twin Beam",
+    "name": "Twin Beam",
     "type": "psychic",
     "category": "special",
     "powerPoints": 10,
@@ -5603,7 +5603,7 @@
     "speedPriority": 0
   },
   {
-    "move": "Uproar",
+    "name": "Uproar",
     "type": "normal",
     "category": "special",
     "powerPoints": 10,
@@ -5616,7 +5616,7 @@
     "speedPriority": 0
   },
   {
-    "move": "U-turn",
+    "name": "U-turn",
     "type": "bug",
     "category": "physical",
     "powerPoints": 20,
@@ -5629,20 +5629,20 @@
     "speedPriority": 0
   },
   {
-    "move": "Venoshock",
+    "name": "Venoshock",
     "type": "poison",
     "category": "special",
     "powerPoints": 10,
     "basePower": 65,
     "accuracy": 100,
-    "battleEffect": "The user drenches the target in a special poisonous liquid. This move's power is doubled if the target is poisoned.",
+    "battleEffect": "The user drenches the target in a special poisonous liquid. This name's power is doubled if the target is poisoned.",
     "secondaryEffect": "Doubles damage inflicted if target is Poisoned",
     "secondaryRate": 0,
     "criticalRate": 0.0417,
     "speedPriority": 0
   },
   {
-    "move": "Vise Grip",
+    "name": "Vise Grip",
     "type": "normal",
     "category": "physical",
     "powerPoints": 30,
@@ -5655,7 +5655,7 @@
     "speedPriority": 0
   },
   {
-    "move": "Volt Switch",
+    "name": "Volt Switch",
     "type": "electric",
     "category": "special",
     "powerPoints": 20,
@@ -5668,7 +5668,7 @@
     "speedPriority": 0
   },
   {
-    "move": "Water Gun",
+    "name": "Water Gun",
     "type": "water",
     "category": "special",
     "powerPoints": 25,
@@ -5681,20 +5681,20 @@
     "speedPriority": 0
   },
   {
-    "move": "Water Pledge",
+    "name": "Water Pledge",
     "type": "water",
     "category": "special",
     "powerPoints": 10,
     "basePower": 80,
     "accuracy": 100,
-    "battleEffect": "A column of water hits the target. When used with its fire counterpart, this move's power is boosted and a rainbow appears.",
-    "secondaryEffect": "This move, if used in Double/Triple Battles with Fire Pledge, will create a rainbow which doubles the changes of moves having Seconday Effects for four turns. The power is increased to 150\nThis move, if used in Double/Triple Battles with Grass Pledge, will create a marsh which reduces the speed of all opponents by 75% for four turns.  The power is increased to 150",
+    "battleEffect": "A column of water hits the target. When used with its fire counterpart, this name's power is boosted and a rainbow appears.",
+    "secondaryEffect": "This name, if used in Double/Triple Battles with Fire Pledge, will create a rainbow which doubles the changes of names having Seconday Effects for four turns. The power is increased to 150\nThis name, if used in Double/Triple Battles with Grass Pledge, will create a marsh which reduces the speed of all opponents by 75% for four turns.  The power is increased to 150",
     "secondaryRate": 0,
     "criticalRate": 0.0417,
     "speedPriority": 0
   },
   {
-    "move": "Water Pulse",
+    "name": "Water Pulse",
     "type": "water",
     "category": "special",
     "powerPoints": 20,
@@ -5707,7 +5707,7 @@
     "speedPriority": 0
   },
   {
-    "move": "Waterfall",
+    "name": "Waterfall",
     "type": "water",
     "category": "physical",
     "powerPoints": 15,
@@ -5720,7 +5720,7 @@
     "speedPriority": 0
   },
   {
-    "move": "Wave Crash",
+    "name": "Wave Crash",
     "type": "water",
     "category": "physical",
     "powerPoints": 10,
@@ -5733,20 +5733,20 @@
     "speedPriority": 0
   },
   {
-    "move": "Weather Ball",
+    "name": "Weather Ball",
     "type": "normal",
     "category": "special",
     "powerPoints": 10,
     "basePower": 50,
     "accuracy": 100,
-    "battleEffect": "This move's type and power change depending on the weather at the time the move is used.",
-    "secondaryEffect": "This move changes type based on the weather. In Sun it's Fire-type, in Rain it's Water-type, in Hail it's Ice-type and in Sandstorms it's Rock-type. When Dynamaxed, the Max Move also changes type accordingly so in Sun it summons Max Flare, Rain it is Max Geyser, Snow it's Max Hailstorm and Sandstorm it's Max Rockfall.",
+    "battleEffect": "This name's type and power change depending on the weather at the time the name is used.",
+    "secondaryEffect": "This name changes type based on the weather. In Sun it's Fire-type, in Rain it's Water-type, in Hail it's Ice-type and in Sandstorms it's Rock-type. When Dynamaxed, the Max name also changes type accordingly so in Sun it summons Max Flare, Rain it is Max Geyser, Snow it's Max Hailstorm and Sandstorm it's Max Rockfall.",
     "secondaryRate": 0,
     "criticalRate": 0.0417,
     "speedPriority": 0
   },
   {
-    "move": "Whirlpool",
+    "name": "Whirlpool",
     "type": "water",
     "category": "special",
     "powerPoints": 15,
@@ -5759,7 +5759,7 @@
     "speedPriority": 0
   },
   {
-    "move": "Whirlwind",
+    "name": "Whirlwind",
     "type": "normal",
     "category": "other",
     "powerPoints": 20,
@@ -5772,20 +5772,20 @@
     "speedPriority": -6
   },
   {
-    "move": "Wide Guard",
+    "name": "Wide Guard",
     "type": "rock",
     "category": "other",
     "powerPoints": 10,
     "basePower": 0,
     "accuracy": 101,
     "battleEffect": "The user and its allies are protected from wide-ranging attacks for one turn.",
-    "secondaryEffect": "Wide Guard protects against specific moves, specifically moves which have more than one target such as Surf & Earthquake. In addition to protecting the user, it protects all of the user's allies in battle for that turn.This effect doesn't just correspond to moves used by the opponent, but it also protects allies from damage from moves by other allies which would inadvertantly damage them, such as Surf which hits all neighbouring Pokémon.There are a few moves however, that it doesn't protect against; Clear Smog, Haze & Perish Song",
+    "secondaryEffect": "Wide Guard protects against specific names, specifically names which have more than one target such as Surf & Earthquake. In addition to protecting the user, it protects all of the user's allies in battle for that turn.This effect doesn't just correspond to names used by the opponent, but it also protects allies from damage from names by other allies which would inadvertantly damage them, such as Surf which hits all neighbouring Pokémon.There are a few names however, that it doesn't protect against; Clear Smog, Haze & Perish Song",
     "secondaryRate": 0,
     "criticalRate": 0,
     "speedPriority": 3
   },
   {
-    "move": "Wild Charge",
+    "name": "Wild Charge",
     "type": "electric",
     "category": "physical",
     "powerPoints": 15,
@@ -5798,7 +5798,7 @@
     "speedPriority": 0
   },
   {
-    "move": "Will-O-Wisp",
+    "name": "Will-O-Wisp",
     "type": "fire",
     "category": "other",
     "powerPoints": 15,
@@ -5811,7 +5811,7 @@
     "speedPriority": 0
   },
   {
-    "move": "Wing Attack",
+    "name": "Wing Attack",
     "type": "flying",
     "category": "physical",
     "powerPoints": 35,
@@ -5824,20 +5824,20 @@
     "speedPriority": 0
   },
   {
-    "move": "Wish",
+    "name": "Wish",
     "type": "normal",
     "category": "other",
     "powerPoints": 10,
     "basePower": 0,
     "accuracy": 101,
-    "battleEffect": "One turn after this move is used, the user's or its replacement's HP is restored by up to half the user's max HP.",
+    "battleEffect": "One turn after this name is used, the user's or its replacement's HP is restored by up to half the user's max HP.",
     "secondaryEffect": "In 1 turn, it heals whatever Pokémon is in this position on the field's Hit Points by 50% of the maximum Hit Points.",
     "secondaryRate": 0,
     "criticalRate": 0,
     "speedPriority": 0
   },
   {
-    "move": "Work Up",
+    "name": "Work Up",
     "type": "normal",
     "category": "other",
     "powerPoints": 30,
@@ -5850,7 +5850,7 @@
     "speedPriority": 0
   },
   {
-    "move": "Worry Seed",
+    "name": "Worry Seed",
     "type": "grass",
     "category": "other",
     "powerPoints": 10,
@@ -5863,7 +5863,7 @@
     "speedPriority": 0
   },
   {
-    "move": "Wrap",
+    "name": "Wrap",
     "type": "normal",
     "category": "physical",
     "powerPoints": 20,
@@ -5876,7 +5876,7 @@
     "speedPriority": 0
   },
   {
-    "move": "X-Scissor",
+    "name": "X-Scissor",
     "type": "bug",
     "category": "physical",
     "powerPoints": 15,
@@ -5889,7 +5889,7 @@
     "speedPriority": 0
   },
   {
-    "move": "Yawn",
+    "name": "Yawn",
     "type": "normal",
     "category": "other",
     "powerPoints": 10,
@@ -5902,7 +5902,7 @@
     "speedPriority": 0
   },
   {
-    "move": "Zap Cannon",
+    "name": "Zap Cannon",
     "type": "electric",
     "category": "special",
     "powerPoints": 5,
@@ -5915,7 +5915,7 @@
     "speedPriority": 0
   },
   {
-    "move": "Zen Headbutt",
+    "name": "Zen Headbutt",
     "type": "psychic",
     "category": "physical",
     "powerPoints": 15,

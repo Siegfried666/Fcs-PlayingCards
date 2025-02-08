@@ -1,3 +1,6 @@
+import { Ability } from '../models/Ability';
+import { Move } from '../models/Move';
+
 export interface IPokemon {
   no: string | undefined;
   picSmall: string | undefined;
@@ -5,5 +8,6 @@ export interface IPokemon {
   name: string | undefined;
   descriptionViolet: string | undefined;
   descriptionScarlet: string | undefined;
-  abilities: string[] | undefined;
+  abilities: Ability[] | undefined;
+  moves: Move[] | undefined;
 }

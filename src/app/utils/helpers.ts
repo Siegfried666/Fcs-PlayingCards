@@ -1,29 +1,25 @@
 import * as _ from 'lodash';
 import { ApiService } from 'src/services/api.services';
 import { Observable } from 'rxjs';
-import { Card } from '../models/Card';
 
-export function isNullOrUndefined(value: any): boolean {
-  return _.isNull(value) || _.isUndefined(value);
+export function isNullOrUndefinedOrEmpty(value: any): boolean {
+  return _.isNull(value) || _.isUndefined(value) || _.isEmpty(value);
 }
 
-export function splitStringToStringArray(
-  value?: string,
+export function stringToArrayOfType<T>(
+  list: T[],
+  valueStr?: string,
   separator: string = ','
-): string[] {
-  return isNullOrUndefined(value) ? [] : _.split(value, separator);
+): T[] {
+  const listStr = _.split(valueStr, separator);
+  return list?.filter((val: any) => {
+    return listStr?.includes(val.name);
+  });
 }
 
-export function getCardsFromJson(
+export function getListOfType<T>(
   apiService: ApiService,
   path: string
-): Observable<Card[]> {
-  return apiService.getCardsSrc(path);
-}
-
-export function getImageUrl(
-  apiService: ApiService,
-  path: string
-): Observable<string> {
-  return apiService.getImageUrlSrc(path);
+): Observable<T[]> {
+  return apiService.getArrayDataSrc<T>(path);
 }

@@ -1,9 +1,12 @@
-import { CommonModule } from '@angular/common';
 import { Component } from '@angular/core';
-import { getCardsFromJson } from 'src/app/utils/helpers';
+import { getListOfType, stringToArrayOfType } from 'src/app/utils/helpers';
 import { ApiService } from 'src/services/api.services';
-import { NgOptimizedImage } from '@angular/common';
+import { NgOptimizedImage, CommonModule } from '@angular/common';
 import { Card } from 'src/app/models/Card';
+import { IPokemon } from 'src/app/interfaces/IPokemon';
+import { IAbility } from 'src/app/interfaces/IAbility';
+import { IMove } from 'src/app/interfaces/IMove';
+import { IStat } from 'src/app/interfaces/IStat';
 
 @Component({
   selector: 'app-playing-card',
@@ -15,33 +18,65 @@ import { Card } from 'src/app/models/Card';
 export class PlayingCardComponent {
   public cards: Card[] = [];
 
-  private dataSourcePath: string = './assets/datasources/Pokemons.json';
+  private pokemonsPath: string = './assets/datasources/Pokemons.json';
+  private abilitiesPath: string = './assets/datasources/Abilities.json';
+  private statsPath: string = './assets/datasources/Stats.json';
+  private movesPath: string = './assets/datasources/Moves.json';
 
   constructor(private apiService: ApiService) {
-    getCardsFromJson(this.apiService, this.dataSourcePath).subscribe(
+    this.generateCards();
+  }
+
+  generateCards() {
+    this.getPokemonList();
+    this.getAbilityList();
+    this.getMoveList();
+    this.getStatList();
+  }
+
+  getPokemonList() {
+    getListOfType<IPokemon>(this.apiService, this.pokemonsPath).subscribe(
       (data: any) => {
-        data.forEach((c: any) => {
+        data.forEach((pokemon: any) => {
           let card = new Card();
-
-          card.abilities = c.abilities;
-          card.types = c.types;
-          card.id = c.id;
-          // card.card = c.card;
-          card.no = c.no;
-          card.picSmall = c.picSmall;
-          card.picLarge = c.picLarge;
-          card.name = c.name;
-          card.hp = c.hp;
-          card.att = c.att;
-          card.def = c.def;
-          card.sAtt = c.sAtt;
-          card.sDef = c.sDef;
-          card.spd = c.spd;
-          card.descriptionViolet = c.descriptionViolet;
-          card.descriptionScarlet = c.descriptionScarlet;
-
+          card.pokemon = pokemon;
           this.cards.push(card);
         });
+      }
+    );
+  }
+
+  getAbilityList() {
+    getListOfType<IAbility>(this.apiService, this.abilitiesPath).subscribe(
+      (data: any) => {
+        this.cards.forEach((card: Card) => {
+          card.pokemon.abilities = stringToArrayOfType<IAbility>(
+            data,
+            card.pokemon.abilities
+          );
+        });
+      }
+    );
+  }
+
+  getMoveList() {
+    getListOfType<IMove>(this.apiService, this.movesPath).subscribe(
+      (data: any) => {
+        this.cards.forEach((card: Card) => {
+          card.moves = stringToArrayOfType<IMove>(data, card.pokemon.moves);
+        });
+      }
+    );
+  }
+
+  getStatList() {
+    getListOfType<IStat>(this.apiService, this.statsPath).subscribe(
+      (data: any) => {
+        this.cards.forEach((card: Card) => {
+          card.stats = stringToArrayOfType<IStat>(data, card.pokemon.name)[0];
+        });
+
+        console.log(this.cards);
       }
     );
   }
