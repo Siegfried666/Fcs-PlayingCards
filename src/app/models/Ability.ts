@@ -1,4 +1,4 @@
-import { IAbility } from '../interfaces/IAbility';
+import { IAbility } from './interfaces/IAbility';
 
 export class Ability implements IAbility {
   constructor() {}

@@ -1,0 +1,32 @@
+<div id="cards">
+  <ul>
+    <li *ngFor="let card of cards">
+      <app-playing-card></app-playing-card>
+     
+          <div id="stats">
+            <table>
+              <tr>
+                <th>Name</th>
+                <th>Value</th>
+              </tr>
+              <tr *ngFor="let stat of card.stats | keyvalue">
+                <td>{{ stat.key }}</td>
+                <td>{{ stat.value }}</td>
+              </tr>
+            </table>
+          </div>
+
+          <!-- <div id="moves">
+              <table *ngFor="let move of card.moves">
+                <tr>
+                  <th *ngFor="let header of move | keyvalue">{{ header.key }}</th>
+                </tr>
+  
+                <tr *ngFor="let intoMove of move | keyvalue">
+                  <td>{{ intoMove.value }}</td>
+                </tr>
+              </table>
+            </div> -->
+    </li>
+  </ul>
+</div>

@@ -1,4 +1,4 @@
-import { IStat } from '../interfaces/IStat';
+import { IStat } from './interfaces/IStat';
 import { isNullOrUndefinedOrEmpty } from '../utils/helpers';
 
 export class Stat implements IStat {

@@ -5,6 +5,8 @@ import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import { PlayingCardComponent } from './components/playing-card/playing-card.component';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
+import { CardListComponent } from './components/card-list/card-list.component';
+import { StatsBoardComponent } from './components/stats-board/stats-board.component';
 
 @NgModule({
   declarations: [AppComponent],
@@ -14,6 +16,8 @@ import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
     PlayingCardComponent,
     HttpClientModule,
     BrowserAnimationsModule,
+    CardListComponent,
+    StatsBoardComponent,
   ],
   providers: [],
   bootstrap: [AppComponent],

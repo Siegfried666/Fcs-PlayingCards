@@ -1,5 +1,5 @@
-import { Ability } from '../models/Ability';
-import { Move } from '../models/Move';
+import { Ability } from '../Ability';
+import { Move } from '../Move';
 
 export interface IPokemon {
   no: string | undefined;

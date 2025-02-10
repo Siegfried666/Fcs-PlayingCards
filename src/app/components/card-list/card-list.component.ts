@@ -7,15 +7,16 @@ import { IPokemon } from 'src/app/models/interfaces/IPokemon';
 import { IAbility } from 'src/app/models/interfaces/IAbility';
 import { IMove } from 'src/app/models/interfaces/IMove';
 import { IStat } from 'src/app/models/interfaces/IStat';
+import { PlayingCardComponent } from "../playing-card/playing-card.component";
 
 @Component({
-  selector: 'app-playing-card',
-  templateUrl: './playing-card.component.html',
-  styleUrls: ['./playing-card.component.css'],
+  selector: 'app-card-list',
+  templateUrl: './card-list.component.html',
+  styleUrls: ['./card-list.component.css'],
   standalone: true,
-  imports: [CommonModule, NgOptimizedImage],
+  imports: [CommonModule, NgOptimizedImage, PlayingCardComponent],
 })
-export class PlayingCardComponent {
+export class CardListComponent {
   public cards: Card[] = [];
 
   private pokemonsPath: string = './assets/datasources/Pokemons.json';
@@ -31,6 +32,7 @@ export class PlayingCardComponent {
     this.getPokemonList();
     this.getAbilityList();
     this.getMoveList();
+    this.getStatList();
   }
 
   getPokemonList() {

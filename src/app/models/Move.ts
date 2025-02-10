@@ -1,4 +1,4 @@
-import { IMove } from '../interfaces/IMove';
+import { IMove } from './interfaces/IMove';
 
 export class Move implements IMove {
   move: string | undefined;

@@ -1,6 +1,6 @@
-import { IAbility } from '../interfaces/IAbility';
-import { IMove } from '../interfaces/IMove';
-import { IPokemon } from '../interfaces/IPokemon';
+import { IAbility } from './interfaces/IAbility';
+import { IMove } from './interfaces/IMove';
+import { IPokemon } from './interfaces/IPokemon';
 import { isNullOrUndefinedOrEmpty } from '../utils/helpers';
 
 export class Pokemon implements IPokemon {

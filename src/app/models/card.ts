@@ -1,7 +1,7 @@
-import { ICard } from '../interfaces/ICard';
-import { IMove } from '../interfaces/IMove';
-import { IPokemon } from '../interfaces/IPokemon';
-import { IStat } from '../interfaces/IStat';
+import { ICard } from './interfaces/ICard';
+import { IMove } from './interfaces/IMove';
+import { IPokemon } from './interfaces/IPokemon';
+import { IStat } from './interfaces/IStat';
 import { isNullOrUndefinedOrEmpty } from '../utils/helpers';
 import { Pokemon } from './Pokemon';
 
