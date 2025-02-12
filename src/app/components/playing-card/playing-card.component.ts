@@ -11,7 +11,7 @@ import { IStat } from 'src/app/models/interfaces/IStat';
 @Component({
   selector: 'app-playing-card',
   templateUrl: './playing-card.component.html',
-  styleUrls: ['./playing-card.component.css'],
+  styleUrls: ['./playing-card.component.scss'],
   standalone: true,
   imports: [CommonModule, NgOptimizedImage],
 })

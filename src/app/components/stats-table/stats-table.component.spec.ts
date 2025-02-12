@@ -1,16 +1,16 @@
 import { ComponentFixture, TestBed } from '@angular/core/testing';
 
-import { StatsBoardComponent } from './stats-board.component';
+import { StatsTableComponent } from './stats-table.component';
 
 describe('StatBoardComponent', () => {
-  let component: StatsBoardComponent;
-  let fixture: ComponentFixture<StatsBoardComponent>;
+  let component: StatsTableComponent;
+  let fixture: ComponentFixture<StatsTableComponent>;
 
   beforeEach(() => {
     TestBed.configureTestingModule({
-      declarations: [StatsBoardComponent]
+      declarations: [StatsTableComponent]
     });
-    fixture = TestBed.createComponent(StatsBoardComponent);
+    fixture = TestBed.createComponent(StatsTableComponent);
     component = fixture.componentInstance;
     fixture.detectChanges();
   });

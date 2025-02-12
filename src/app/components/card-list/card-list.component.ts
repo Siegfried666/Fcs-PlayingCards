@@ -12,7 +12,7 @@ import { PlayingCardComponent } from "../playing-card/playing-card.component";
 @Component({
   selector: 'app-card-list',
   templateUrl: './card-list.component.html',
-  styleUrls: ['./card-list.component.css'],
+  styleUrls: ['./card-list.component.scss'],
   standalone: true,
   imports: [CommonModule, NgOptimizedImage, PlayingCardComponent],
 })

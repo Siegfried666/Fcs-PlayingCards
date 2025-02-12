@@ -1,19 +1,20 @@
 import { CommonModule } from '@angular/common';
 import { Component } from '@angular/core';
 import { MatTableModule } from '@angular/material/table';
+import { MatProgressBarModule } from '@angular/material/progress-bar';
 import { IStat } from 'src/app/models/interfaces/IStat';
 import { Stat } from 'src/app/models/Stat';
 import { getListOfType } from 'src/app/utils/helpers';
 import { ApiService } from 'src/services/api.services';
 
 @Component({
-  selector: 'app-stats-board',
-  styleUrls: ['stats-board.component.scss'],
-  templateUrl: 'stats-board.component.html',
+  selector: 'app-stats-table',
+  styleUrls: ['stats-table.component.scss'],
+  templateUrl: 'stats-table.component.html',
   standalone: true,
-  imports: [MatTableModule, CommonModule],
+  imports: [MatTableModule, CommonModule, MatProgressBarModule],
 })
-export class StatsBoardComponent {
+export class StatsTableComponent {
   public stats: Stat[] = [];
 
   private statsPath: string = './assets/datasources/Stats.json';
@@ -36,5 +37,13 @@ export class StatsBoardComponent {
   displayedColumns: string[] = ['statName', 'value'];
   public orderByKey(a: { key: any }) {
     return a.key;
+  }
+
+  public isNumber(a: any): boolean {
+    return typeof a == 'number';
+  }
+
+  public isString(a: any): boolean {
+    return typeof a == 'string';
   }
 }

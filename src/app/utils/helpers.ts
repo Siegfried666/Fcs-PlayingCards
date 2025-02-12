@@ -20,6 +20,6 @@ export function stringToArrayOfType<T>(
 export function getListOfType<T>(
   apiService: ApiService,
   path: string
-): Observable<T[]> {
-  return apiService.getArrayDataSrc<T>(path);
+): Observable<T> {
+  return apiService.getDataSrc<T>(path);
 }

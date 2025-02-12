@@ -6,10 +6,11 @@ import { AppComponent } from './app.component';
 import { PlayingCardComponent } from './components/playing-card/playing-card.component';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { CardListComponent } from './components/card-list/card-list.component';
-import { StatsBoardComponent } from './components/stats-board/stats-board.component';
+import { StatsTableComponent } from './components/stats-table/stats-table.component';
+import { MainBoardComponent } from './components/main-board/main-board.component';
 
 @NgModule({
-  declarations: [AppComponent],
+  declarations: [AppComponent, MainBoardComponent],
   imports: [
     BrowserModule,
     AppRoutingModule,
@@ -17,7 +18,7 @@ import { StatsBoardComponent } from './components/stats-board/stats-board.compon
     HttpClientModule,
     BrowserAnimationsModule,
     CardListComponent,
-    StatsBoardComponent,
+    StatsTableComponent,
   ],
   providers: [],
   bootstrap: [AppComponent],
