@@ -1,7 +1,6 @@
 export interface IStat {
-  name: string | undefined;
-  type1: string | undefined;
-  type2: string | undefined;
+  id: number | undefined;
+  types: number[] | undefined;
   hp: number | undefined;
   attack: number | undefined;
   defense: number | undefined;

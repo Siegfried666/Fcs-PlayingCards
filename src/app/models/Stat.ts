@@ -2,19 +2,9 @@ import { IStat } from './interfaces/IStat';
 import { isNullOrUndefinedOrEmpty } from '../utils/helpers';
 
 export class Stat implements IStat {
-  private _type2: string | undefined;
-
-  get type2(): any {
-    return isNullOrUndefinedOrEmpty(this._type2) || this._type2 == 'NA'
-      ? null
-      : this._type2;
-  }
-  set type2(value: string) {
-    this._type2 = value;
-  }
   constructor() {}
-  name: string | undefined;
-  type1: string | undefined;
+  types: number[] | undefined;
+  id: number | undefined;
   hp: number | undefined;
   attack: number | undefined;
   defense: number | undefined;

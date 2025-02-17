@@ -1,0 +1,21 @@
+export interface IType {
+  Id: string | undefined;
+  Normal: number | undefined;
+  Fire: number | undefined;
+  Water: number | undefined;
+  Grass: number | undefined;
+  Electric: number | undefined;
+  Ice: number | undefined;
+  Fighting: number | undefined;
+  Poison: number | undefined;
+  Ground: number | undefined;
+  Flying: number | undefined;
+  Psychic: number | undefined;
+  Bug: number | undefined;
+  Rock: number | undefined;
+  Ghost: number | undefined;
+  Dragon: number | undefined;
+  Dark: number | undefined;
+  Steel: number | undefined;
+  Fairy: number | undefined;
+}

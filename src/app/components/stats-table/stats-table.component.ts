@@ -17,18 +17,18 @@ import { ApiService } from 'src/services/api.services';
 export class StatsTableComponent {
   public stats: Stat[] = [];
 
-  private statsPath: string = './assets/datasources/Stats.json';
+  private path: string = './assets/datasources/Stats.json';
 
   constructor(private apiService: ApiService) {
-    this.getPokemonStats();
+    this.fetchData();
   }
 
-  getPokemonStats() {
-    getListOfType<IStat>(this.apiService, this.statsPath).subscribe(
+  fetchData() {
+    getListOfType<IStat>(this.apiService, this.path).subscribe(
       (data: any) => {
         data.forEach((sData: any) => {
           this.stats = sData;
-          console.log(this.stats);
+          // console.log(this.stats);
         });
       }
     );

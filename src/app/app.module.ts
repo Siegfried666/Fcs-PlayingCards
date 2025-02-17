@@ -8,6 +8,7 @@ import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { CardListComponent } from './components/card-list/card-list.component';
 import { StatsTableComponent } from './components/stats-table/stats-table.component';
 import { MainBoardComponent } from './components/main-board/main-board.component';
+import { TypesAndMovesChartComponent } from './components/types-and-moves-chart/types-and-moves-chart.component';
 
 @NgModule({
   declarations: [AppComponent, MainBoardComponent],
@@ -19,6 +20,7 @@ import { MainBoardComponent } from './components/main-board/main-board.component
     BrowserAnimationsModule,
     CardListComponent,
     StatsTableComponent,
+    TypesAndMovesChartComponent,
   ],
   providers: [],
   bootstrap: [AppComponent],

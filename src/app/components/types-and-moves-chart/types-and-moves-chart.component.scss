@@ -1,0 +1,45 @@
+table {
+  display: block;
+}
+th.mat-mdc-header-cell {
+  padding: 5px 0 5px 0;
+  writing-mode: vertical-lr;
+  text-align: left;
+  border: solid 1px #839faf;
+  background: #badae9;
+  font-weight: 600;
+}
+.mat-mdc-cell {
+  border: 1px solid rgba(192, 192, 192, 0.8431372549);
+  padding: 0px 7px 7px 7px;
+  text-align-last: center;
+  height: 0px;
+}
+.mat-mdc-cell:first-child {
+  text-align-last: center;
+  border: 1px solid rgb(182 129 134);
+  background-color: #e6abb1;
+  padding: 0 15px 0 5px;
+}
+img.chart.icon {
+  vertical-align: text-bottom;
+}
+.mat-mdc-row {
+  height: 0px !important;
+}
+th.mat-mdc-header-cell.mdc-data-table__header-cell.cdk-header-cell.cdk-column-Id.mat-column-Id {
+  text-align-last: center;
+}
+th.mat-column-header-row-sec-group {
+  color: #e4fbff;
+  background: #1f649d;
+  writing-mode: horizontal-tb;
+  text-align: center;
+}
+th.mat-column-header-row-first-group {
+  background-color: lightgray;
+  text-align-last: center;
+  top: 0px;
+  z-index: 100;
+  padding: 0 40px 0 40px;
+}

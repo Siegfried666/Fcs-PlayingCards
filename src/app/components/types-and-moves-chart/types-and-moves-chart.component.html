@@ -1,0 +1,82 @@
+<table mat-table [dataSource]="types">
+  <ng-container [matColumnDef]="column" *ngFor="let column of displayedColumns">
+    <div *ngIf="column == 'Id'">
+      <th mat-header-cell *matHeaderCellDef style="display: none"></th>
+    </div>
+    <th mat-header-cell *matHeaderCellDef>{{ column }}</th>
+    <td mat-cell *matCellDef="let element">
+      <div *ngIf="column == 'Id'">
+        <th>{{ element[column] }}</th>
+      </div>
+      <div *ngIf="element[column] == 0">
+        <img
+          [src]="cross"
+          alt="cross"
+          class="chart icon"
+          [width]="width"
+          [height]="height"
+          lazy
+          priority
+        />
+      </div>
+      <div *ngIf="element[column] == 0.5">
+        <img
+          [src]="triangle"
+          alt="triangle"
+          class="chart icon"
+          [width]="width"
+          [height]="height"
+          lazy
+          priority
+        />
+      </div>
+      <div *ngIf="element[column] == 2">
+        <img
+          [src]="circle"
+          alt="circle"
+          class="chart icon"
+          [width]="width"
+          [height]="height"
+          lazy
+          priority
+          placeholder="toto"
+        />
+      </div>
+    </td>
+  </ng-container>
+
+  <ng-container matColumnDef="header-row-first-group">
+    <th
+      mat-header-cell
+      *matHeaderCellDef
+      [attr.rowspan]="2"
+      [attr.colspan]="0"
+      style="background-color: lightgray"
+    >
+      <img
+        [src]="circle"
+        alt="circle"
+        class="chart"
+        [width]="40"
+        [height]="40"
+        lazy
+        priority
+      />
+    </th>
+  </ng-container>
+  <ng-container matColumnDef="header-row-sec-group">
+    <th mat-header-cell *matHeaderCellDef [attr.colspan]="19">
+      Defending Pokémon's Type
+    </th>
+  </ng-container>
+
+  <tr
+    mat-header-row
+    *matHeaderRowDef="
+      ['header-row-first-group', 'header-row-sec-group'];
+      sticky: true
+    "
+  ></tr>
+  <tr mat-header-row *matHeaderRowDef="displayedColumns"></tr>
+  <tr mat-row *matRowDef="let row; columns: displayedColumns"></tr>
+</table>
